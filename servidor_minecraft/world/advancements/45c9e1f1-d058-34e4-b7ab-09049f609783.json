@@ -53,7 +53,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-10-30 15:04:46 +0000"
+      "bread": "2024-10-30 15:04:46 +0000",
+      "suspicious_stew": "2024-12-04 15:02:52 +0000"
     },
     "done": false
   },

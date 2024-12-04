@@ -926,3 +926,79 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 14:52:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
 [04Dec2024 14:52:21.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
 [04Dec2024 14:55:06.490] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 14:55:15.968] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 14:55:24.339] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 14:55:24.814] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 14:56:12.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:56:30.866] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 14:59:48.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 14:59:50.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 15:00:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 15:00:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 15:00:44.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 15:00:49.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 15:02:03.708] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.807] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.809] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.906] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.907] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.907] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.908] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.908] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.908] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.909] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.909] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.910] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:03.910] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.006] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.007] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.007] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.007] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.008] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.009] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.009] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.010] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.010] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.011] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.012] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.012] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.013] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.013] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.014] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.014] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.106] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.107] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.107] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.108] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.108] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.109] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.109] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.110] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.110] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.111] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.111] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.112] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.112] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.113] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.113] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.113] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.114] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.114] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.115] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.115] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:04.116] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 15:02:41.784] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 15:03:08.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 15:03:10.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 15:03:38.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 15:04:21.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 1000]
+[04Dec2024 15:04:26.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 15:04:50.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2780, l='ServerLevel[world]', x=58.27, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[04Dec2024 15:04:50.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2782, l='ServerLevel[world]', x=39.47, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[04Dec2024 15:04:50.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2796, l='ServerLevel[world]', x=58.27, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[04Dec2024 15:04:50.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2797, l='ServerLevel[world]', x=58.27, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[04Dec2024 15:04:50.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2799, l='ServerLevel[world]', x=39.47, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[04Dec2024 15:04:50.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2800, l='ServerLevel[world]', x=39.47, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[04Dec2024 15:05:02.938] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 15:05:07.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 48)]
+[04Dec2024 15:05:13.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2814, l='ServerLevel[world]', x=189.50, y=13.00, z=73.50] died, message: 'Armorer was killed'
