@@ -1129,3 +1129,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 19:06:54.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
 [04Dec2024 19:07:16.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
 [04Dec2024 19:07:45.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Bundle] to Imranack]
+[04Dec2024 19:19:07.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[04Dec2024 19:19:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
