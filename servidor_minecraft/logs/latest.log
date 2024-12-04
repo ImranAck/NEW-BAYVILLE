@@ -1070,3 +1070,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 17:47:51.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:39873] logged in with entity id 3735 at (-73.08560482831777, 13.0, 273.3716796604364)
 [04Dec2024 17:47:51.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
 [04Dec2024 17:53:36.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [startRobbery]]
+[04Dec2024 18:01:55.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Reset [startRobbery] for Imranack]
+[04Dec2024 18:02:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [Robo del Banco]]
+[04Dec2024 18:02:26.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set [Robo del Banco] for Imranack to 1]
+[04Dec2024 18:02:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Imranack] El robo ha comenzado
+[04Dec2024 18:05:19.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [commencer_braquage]]
