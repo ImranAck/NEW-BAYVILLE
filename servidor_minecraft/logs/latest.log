@@ -793,3 +793,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 13:02:49.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
 [04Dec2024 13:02:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
 [04Dec2024 13:02:49.814] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 13:15:49.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.35.8.153:51797] logged in with entity id 977 at (-80.90168804223006, 13.0, 141.81062532071792)
+[04Dec2024 13:15:49.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[04Dec2024 13:16:27.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 13:16:27.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}]}<--[HERE]
+[04Dec2024 13:17:07.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 13:17:07.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}]}<--[HERE]
+[04Dec2024 13:18:13.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Pablo Escobar] to Imranack
+[04Dec2024 13:20:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Pablo Escobar] to Imranack
+[04Dec2024 13:21:35.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid escape sequence '\n' in quoted string
+[04Dec2024 13:21:35.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... Conducir\n\nDNI: Pablo Escobar\n\n- Coches: Aprobado\n- Moto: Denegado\n- Helicóptero: Denegado"}']}<--[HERE]
+[04Dec2024 13:22:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Dec2024 13:22:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: > 
+[13:21:35] [Server thread/INFO] [minecraft/MinecraftServer]: Invalid escape sequence '\n' in quoted string
+[13:21:35] [Server thread/INFO] [minecraft/MinecraftServer]: ... Conducir\n\nDNI: Pablo Escobar\n\n- Coches: Aprobado\n- Moto: Denegado\n- Helicóptero: Denegado"}']}<--[HERE]<--[HERE]
+[04Dec2024 13:22:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Dec2024 13:22:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: > 
+[13:21:35] [Server thread/INFO] [minecraft/MinecraftServer]: Invalid escape sequence '\n' in quoted string
+[13:21:35] [Server thread/INFO] [minecraft/MinecraftServer]: ... Conducir\n\nDNI: Pablo Escobar\n\n- Coches: Aprobado\n- Moto: Denegado\n- Helicóptero: Denegado"}']}<--[HERE]<--[HERE]
+[04Dec2024 13:23:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid escape sequence '\n' in quoted string
+[04Dec2024 13:23:37.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...{"text":"\n\nDNI: Pablo Escobar"}{"text":"\n\n- Coches: Aprobado"}{"text":"\n- Moto: Denegado"}{"text":"\n- Helicóptero: Denegado"}]'],title:"Licencia de Conducir",author:"Minecraft"}<--[HERE]

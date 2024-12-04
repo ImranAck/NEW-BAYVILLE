@@ -1497,6 +1497,12 @@
     },
     "done": true
   },
+  "trafficcraft:root": {
+    "criteria": {
+      "requirement": "2024-12-04 11:38:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 11:44:14 +0000"
@@ -1572,12 +1578,6 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2024-12-04 11:44:14 +0000"
-    },
-    "done": true
-  },
-  "trafficcraft:root": {
-    "criteria": {
-      "requirement": "2024-12-04 11:38:57 +0000"
     },
     "done": true
   },
