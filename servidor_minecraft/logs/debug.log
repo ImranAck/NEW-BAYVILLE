@@ -2800,3 +2800,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 12:01:49.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 100 to [bank] for Imranack (now 12590)]
 [04Dec2024 12:03:27.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Libro de Multas] to Imranack]
 [04Dec2024 12:03:39.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 500 from [bank] for Imranack (now 12090)]
+[04Dec2024 12:03:49.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 12:03:49.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 12:08:49.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 12:08:49.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 12:13:49.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 12:13:49.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
