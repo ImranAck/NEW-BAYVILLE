@@ -2373,6 +2373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-04 13:40:28 +0000"
@@ -2382,6 +2388,24 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-04 13:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
     },
     "done": true
   },
