@@ -1092,3 +1092,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 18:36:23.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
 [04Dec2024 18:36:37.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.35.8.153:33161] logged in with entity id 4204 at (-74.75588233187685, 13.0, 268.7034296974452)
 [04Dec2024 18:36:37.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[04Dec2024 18:37:59.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 18:38:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 18:39:10.501] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 18:40:05.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 18:40:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 18:41:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 18:41:34.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 18:42:40.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 18:44:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 101)]
+[04Dec2024 18:44:59.100] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 18:45:42.012] [Server thread/INFO] [cuffed/]: Imranack is interacting!

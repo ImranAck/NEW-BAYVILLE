@@ -3244,5 +3244,23 @@
     },
     "done": true
   },
+  "dragnvehicles:recipes/misc/sports_wheel": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-12-04 18:42:22 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/wheel": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-12-04 18:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-12-04 18:42:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
