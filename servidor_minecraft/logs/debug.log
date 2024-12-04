@@ -2815,3 +2815,102 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 12:28:49.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 12:33:49.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 12:33:49.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 12:35:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid escape sequence '\n' in quoted string
+[04Dec2024 12:35:33.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...24-001-MC\nNombre: Pablo Escobar\nEdad: 26 años\nProfesión: Conductor de Bus\nNacionalidad: Minecraftiana\nDirección: Calle Bloqueado, Ciudad del Minecraft\nFecha de Nacimiento: 12 de junio de 1998\nGénero: Masculino\nEstado Civil: Soltero\nOcupación: Conductor de Bus\nNúmero de Teléfono: (Solo para Minecraft) 000-123-456\n"}']} 1<--[HERE]
+[04Dec2024 12:36:05.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid escape sequence '\n' in quoted string
+[04Dec2024 12:36:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...24-001-MC\nNombre: Pablo Escobar\nEdad: 26 años\nProfesión: Conductor de Bus\nNacionalidad: Minecraftiana\nDirección: Calle Bloqueado, Ciudad del Minecraft\nFecha de Nacimiento: 12 de junio de 1998\nGénero: Masculino\nEstado Civil: Soltero\nOcupación: Conductor de Bus\nNúmero de Teléfono: (Solo para Minecraft) 000-123-456\n"}']} 1<--[HERE]
+[04Dec2024 12:36:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Minecraft] to Imranack
+[04Dec2024 12:36:31.430] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 12:36:31.434] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 12:36:32.244] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 12:37:03.763] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.764] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.765] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.765] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.766] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.766] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.767] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.767] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.768] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.768] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.769] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.769] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.770] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.770] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.771] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.771] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.772] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.772] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:03.773] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[04Dec2024 12:37:04.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/726, l='ServerLevel[world]', x=52.54, y=13.00, z=132.26] died, message: 'Armorer was killed'
+[04Dec2024 12:37:04.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/728, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[04Dec2024 12:37:11.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 244)]
+[04Dec2024 12:37:16.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 245)]
+[04Dec2024 12:38:26.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:38:26.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...123-456"}'}] 1<--[HERE]
+[04Dec2024 12:38:49.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 12:38:49.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 12:39:06.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:39:06.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...123-456"}'}] 1<--[HERE]
+[04Dec2024 12:39:08.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:39:08.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...123-456"}'}] 1<--[HERE]
+[04Dec2024 12:39:37.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Minecraft] to Imranack
+[04Dec2024 12:40:34.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
+[04Dec2024 12:41:19.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
+[04Dec2024 12:42:20.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
+[04Dec2024 12:42:54.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
+[04Dec2024 12:43:31.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:43:31.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ..._blue\"}]"}<--[HERE]
+[04Dec2024 12:43:49.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 12:43:49.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 12:44:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:44:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ellow\"}]"}<--[HERE]
+[04Dec2024 12:44:35.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
+[04Dec2024 12:45:20.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:45:20.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...r":"red"}'}]}<--[HERE]
+[04Dec2024 12:45:49.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:45:49.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...r":"red"}'}]}<--[HERE]
+[04Dec2024 12:46:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:46:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...r":"red"}'}]}<--[HERE]
+[04Dec2024 12:46:46.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
+[04Dec2024 12:48:10.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 244)]
+[04Dec2024 12:48:14.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 245)]
+[04Dec2024 12:48:49.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 12:48:49.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 12:49:12.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Leopoldo] to Imranack
+[04Dec2024 12:50:00.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unclosed quoted string
+[04Dec2024 12:50:00.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\\"}\"}]}}<--[HERE]
+[04Dec2024 12:50:26.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Leopoldo] to Imranack
+[04Dec2024 12:50:59.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Leopoldo] to Imranack
+[04Dec2024 12:51:36.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Leopoldo] to Imranack
+[04Dec2024 12:53:17.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:53:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}<--[HERE]
+[04Dec2024 12:53:49.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 12:53:49.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 12:53:51.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Leopoldo] to Imranack
+[04Dec2024 12:54:57.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Santiago] to Imranack
+[04Dec2024 12:56:22.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Toni] to Imranack
+[04Dec2024 12:58:49.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 12:58:49.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 12:59:51.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 12:59:51.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ..."}]}, 
+  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Leopoldo\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"29 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Policía\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Español\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Casa 101, Bayville\",\"color\":\"red\"}]},
+  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Santiago\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"32 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Agente de Tráfico\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Argentino\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Greenwood\",\"color\":\"red\"}]},
+  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Toni\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"22 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Examinador de Conducir\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Italiano\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Bayville\",\"color\":\"red\"}]}
+]}<--[HERE]
+[04Dec2024 13:02:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 13:02:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ..."}]}, 
+  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Leopoldo\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"29 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Policía\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Español\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Casa 101, Bayville\",\"color\":\"red\"}]},
+  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Santiago\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"32 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Agente de Tráfico\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Argentino\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Greenwood\",\"color\":\"red\"}]},
+  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Toni\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"22 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Examinador de Conducir\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Italiano\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Bayville\",\"color\":\"red\"}]}
+]}
+/give @p written_book{title:"Licencia de Conducir - Pablo Escobar",author:"Minecraft",pages:["[{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Pablo Escobar\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"26 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Conductor de bus\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Colombiano\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Casa 109, Bayville\",\"color\":\"red\"}]"}]}<--[HERE]
+[04Dec2024 13:02:06.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 13:02:06.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}]}<--[HERE]
+[04Dec2024 13:02:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
+[04Dec2024 13:02:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}]}<--[HERE]
+[04Dec2024 13:02:49.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[04Dec2024 13:02:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[04Dec2024 13:02:49.814] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 13:03:49.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 13:03:49.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
