@@ -3090,3 +3090,83 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 13:33:43.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Toni] to Imranack
 [04Dec2024 13:33:49.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 13:33:49.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 13:34:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Leopoldo] to Imranack
+[04Dec2024 13:35:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Santiago] to Imranack
+[04Dec2024 13:38:20.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 13:38:21.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1629, l='ServerLevel[world]', x=-37.50, y=14.00, z=122.50] died, message: 'Toolsmith was killed'
+[04Dec2024 13:38:49.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 13:38:49.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 13:38:49.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 13:38:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 13:39:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 13:39:18.421] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 13:39:30.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 13:39:32.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1690, l='ServerLevel[world]', x=-37.50, y=14.00, z=122.50] died, message: 'Toolsmith was killed'
+[04Dec2024 13:39:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 13:39:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 13:40:03.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 13:40:09.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1764, l='ServerLevel[world]', x=-37.50, y=14.00, z=122.50] died, message: 'Toolsmith was killed'
+[04Dec2024 13:40:25.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 13:40:27.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 13:41:05.058] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1773, l='ServerLevel[world]', x=-37.50, y=14.00, z=122.50] died, message: 'Toolsmith was killed'
+[04Dec2024 13:41:49.717] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1349270629 to 21
+[04Dec2024 13:41:52.261] [Server thread/DEBUG] [pointblank/]: 12261 handling client fire request
+[04Dec2024 13:41:52.261] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1349270629 to 20
+[04Dec2024 13:41:52.264] [Server thread/DEBUG] [pointblank/]: 12264 - obtained hit result in 1ms
+[04Dec2024 13:41:52.264] [Server thread/DEBUG] [pointblank/]: 12264 obtained hit results
+[04Dec2024 13:41:52.264] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@368e9104
+[04Dec2024 13:41:52.265] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-81.82, y=12.50, z=280.16] sends hit scan notification to ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-81.82, y=12.50, z=280.16]
+[04Dec2024 13:41:52.461] [Server thread/DEBUG] [pointblank/]: 12461 handling client fire request
+[04Dec2024 13:41:52.461] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1349270629 to 19
+[04Dec2024 13:41:52.461] [Server thread/DEBUG] [pointblank/]: 12461 - obtained hit result in 0ms
+[04Dec2024 13:41:52.461] [Server thread/DEBUG] [pointblank/]: 12461 obtained hit results
+[04Dec2024 13:41:52.461] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@a13b741
+[04Dec2024 13:41:52.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-81.84, y=12.50, z=280.02] sends hit scan notification to ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-81.84, y=12.50, z=280.02]
+[04Dec2024 13:42:02.362] [Server thread/DEBUG] [pointblank/]: 22362 handling client fire request
+[04Dec2024 13:42:02.362] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1349270629 to 18
+[04Dec2024 13:42:02.362] [Server thread/DEBUG] [pointblank/]: 22362 - obtained hit result in 0ms
+[04Dec2024 13:42:02.362] [Server thread/DEBUG] [pointblank/]: 22362 obtained hit results
+[04Dec2024 13:42:02.362] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ad48483
+[04Dec2024 13:42:02.363] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-72.30, y=13.00, z=268.28] sends hit scan notification to ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-72.30, y=13.00, z=268.28]
+[04Dec2024 13:42:14.368] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:14.981] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:15.768] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:16.152] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:16.475] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:22.414] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:23.065] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:23.444] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:23.716] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:23.996] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:24.237] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 13:42:43.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 383)]
+[04Dec2024 13:43:49.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 13:43:49.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 13:44:52.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:44:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:44:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:44:56.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:44:57.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:44:57.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:44:58.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:44:58.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:45:00.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:45:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:45:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:45:05.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:45:05.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:45:06.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:45:06.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
+[04Dec2024 13:48:49.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 13:48:49.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 13:51:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Command Block] to Imranack]
+[04Dec2024 13:51:07.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 13:51:14.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 13:51:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 13:52:11.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 13:52:28.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 13:52:40.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 13:52:52.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 13:52:57.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 13:53:49.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 13:53:49.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
