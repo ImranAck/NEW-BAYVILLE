@@ -908,3 +908,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 14:30:37.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
 [04Dec2024 14:31:01.070] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [04Dec2024 14:31:03.449] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 14:46:00.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Codebreaker] to Imranack]
+[04Dec2024 14:46:54.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:47:51.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:48:36.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:49:12.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:49:50.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:50:19.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:50:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Tienes todo lo necesario para el robo
+[04Dec2024 14:50:45.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:51:25.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:51:28.335] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 14:51:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 14:51:52.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 14:52:04.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 14:52:08.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 14:52:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 14:52:21.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 14:55:06.490] [Server thread/INFO] [cuffed/]: Imranack is interacting!

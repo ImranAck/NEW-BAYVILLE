@@ -3225,3 +3225,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 14:38:49.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 14:43:49.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 14:43:49.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 14:46:00.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Codebreaker] to Imranack]
+[04Dec2024 14:46:54.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:47:51.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:48:36.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:48:49.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 14:48:49.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 14:49:12.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:49:50.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:50:19.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:50:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Tienes todo lo necesario para el robo
+[04Dec2024 14:50:45.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:51:25.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 14:51:28.335] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[04Dec2024 14:51:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 14:51:52.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 14:52:04.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 14:52:08.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 14:52:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 14:52:21.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 14:53:49.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 14:53:49.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 14:54:40.415] [Server thread/DEBUG] [pointblank/]: 80415 handling client fire request
+[04Dec2024 14:54:40.416] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1599954443 to 17
+[04Dec2024 14:54:40.416] [Server thread/DEBUG] [pointblank/]: 80416 - obtained hit result in 0ms
+[04Dec2024 14:54:40.416] [Server thread/DEBUG] [pointblank/]: 80416 obtained hit results
+[04Dec2024 14:54:40.416] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3fad3bb4
+[04Dec2024 14:54:40.416] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-87.56, y=12.00, z=278.63] sends hit scan notification to ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-87.56, y=12.00, z=278.63]
+[04Dec2024 14:54:40.663] [Server thread/DEBUG] [pointblank/]: 80663 handling client fire request
+[04Dec2024 14:54:40.664] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1599954443 to 16
+[04Dec2024 14:54:40.664] [Server thread/DEBUG] [pointblank/]: 80664 - obtained hit result in 0ms
+[04Dec2024 14:54:40.664] [Server thread/DEBUG] [pointblank/]: 80664 obtained hit results
+[04Dec2024 14:54:40.664] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@700fa752
+[04Dec2024 14:54:40.664] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-87.55, y=12.00, z=280.04] sends hit scan notification to ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-87.55, y=12.00, z=280.04]
+[04Dec2024 14:54:40.862] [Server thread/DEBUG] [pointblank/]: 80862 handling client fire request
+[04Dec2024 14:54:40.862] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1599954443 to 15
+[04Dec2024 14:54:40.862] [Server thread/DEBUG] [pointblank/]: 80862 - obtained hit result in 0ms
+[04Dec2024 14:54:40.862] [Server thread/DEBUG] [pointblank/]: 80862 obtained hit results
+[04Dec2024 14:54:40.862] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@387a3f5b
+[04Dec2024 14:54:40.862] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-87.55, y=12.00, z=281.16] sends hit scan notification to ServerPlayer['Imranack'/977, l='ServerLevel[world]', x=-87.55, y=12.00, z=281.16]
+[04Dec2024 14:55:06.490] [Server thread/INFO] [cuffed/]: Imranack is interacting!
