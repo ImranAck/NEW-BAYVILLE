@@ -2738,3 +2738,65 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 11:39:29.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Imranack a server operator
 [04Dec2024 11:39:38.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the weather to clear]
 [04Dec2024 11:43:08.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [minecart_exam]]
+[04Dec2024 11:43:13.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/minecart/pay_minecart_exam']
+[04Dec2024 11:43:20.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/minecart/pay_minecart_exam']
+[04Dec2024 11:43:27.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/minecart/pay_minecart_exam']
+[04Dec2024 11:43:29.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Reset [minecart_exam] for Imranack]
+[04Dec2024 11:43:36.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 27 item(s) from player Imranack]
+[04Dec2024 11:43:49.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 11:43:49.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 11:43:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
+[04Dec2024 11:43:58.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/boat/pay_boat_exam']
+[04Dec2024 11:44:14.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Acquire Hardware]
+[04Dec2024 11:44:18.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/boat/pay_boat_exam']
+[04Dec2024 11:44:29.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
+[04Dec2024 11:44:31.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 7 command(s) from function 'tld:exams/boat/pay_boat_exam']
+[04Dec2024 11:44:42.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:exams/boat/boat_exam_q2']
+[04Dec2024 11:44:45.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
+[04Dec2024 11:44:46.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
+[04Dec2024 11:44:57.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
+[04Dec2024 11:44:59.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 7 command(s) from function 'tld:exams/boat/pay_boat_exam']
+[04Dec2024 11:45:01.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:exams/boat/boat_exam_q2']
+[04Dec2024 11:45:05.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
+[04Dec2024 11:45:07.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
+[04Dec2024 11:45:08.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:exams/boat/boat_exam_q3']
+[04Dec2024 11:45:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
+[04Dec2024 11:45:12.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 7 command(s) from function 'tld:exams/boat/pay_boat_exam']
+[04Dec2024 11:45:13.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
+[04Dec2024 11:45:15.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
+[04Dec2024 11:45:17.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 7 command(s) from function 'tld:exams/boat/pay_boat_exam']
+[04Dec2024 11:45:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:exams/boat/boat_exam_q2']
+[04Dec2024 11:45:20.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
+[04Dec2024 11:46:14.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added tag 'boat_licence' to Imranack]
+[04Dec2024 11:48:49.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 11:48:49.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 11:51:45.541] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:47.482] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:47.482] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:47.486] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:51.835] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:51.836] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:54.127] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:54.128] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:54.976] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:54.980] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:54.983] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:51:54.984] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Dec2024 11:52:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 6)]
+[04Dec2024 11:52:08.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 13)]
+[04Dec2024 11:52:24.011] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate
+[04Dec2024 11:52:25.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 1000 to [bank] for Imranack (now 12490)]
+[04Dec2024 11:53:49.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 11:53:50.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 11:54:10.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [Multas]]
+[04Dec2024 11:54:39.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 500 to [Multas] for Imranack (now 500)]
+[04Dec2024 11:57:49.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set display slot sidebar to show objective Multas]
+[04Dec2024 11:58:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 50 from [Multas] for Imranack (now 450)]
+[04Dec2024 11:58:49.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 11:58:50.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 12:00:18.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed objective [Multas]]
+[04Dec2024 12:01:18.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Book and Quill] to Imranack]
+[04Dec2024 12:01:44.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Libro de Dinero] to Imranack]
+[04Dec2024 12:01:49.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 100 to [bank] for Imranack (now 12590)]
+[04Dec2024 12:03:27.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Libro de Multas] to Imranack]
+[04Dec2024 12:03:39.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 500 from [bank] for Imranack (now 12090)]
