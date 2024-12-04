@@ -813,3 +813,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [13:21:35] [Server thread/INFO] [minecraft/MinecraftServer]: ... Conducir\n\nDNI: Pablo Escobar\n\n- Coches: Aprobado\n- Moto: Denegado\n- Helicóptero: Denegado"}']}<--[HERE]<--[HERE]
 [04Dec2024 13:23:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid escape sequence '\n' in quoted string
 [04Dec2024 13:23:37.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...{"text":"\n\nDNI: Pablo Escobar"}{"text":"\n\n- Coches: Aprobado"}{"text":"\n- Moto: Denegado"}{"text":"\n- Helicóptero: Denegado"}]'],title:"Licencia de Conducir",author:"Minecraft"}<--[HERE]
+[04Dec2024 13:28:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
+[04Dec2024 13:29:50.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
+[04Dec2024 13:31:06.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
+[04Dec2024 13:32:01.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
+[04Dec2024 13:32:31.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
+[04Dec2024 13:33:39.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Leopoldo] to Imranack
+[04Dec2024 13:33:43.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Toni] to Imranack
