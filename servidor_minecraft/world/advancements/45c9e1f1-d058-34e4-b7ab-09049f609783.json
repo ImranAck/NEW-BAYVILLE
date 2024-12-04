@@ -2368,27 +2368,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
-    "criteria": {
-      "has_black_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-12-04 13:40:28 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_black_dye": "2024-12-04 15:34:05 +0000"
+      "has_smooth_stone": "2024-12-04 13:40:28 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "has_dye": "2024-12-04 15:34:05 +0000"
+      "has_smooth_stone": "2024-12-04 13:40:28 +0000"
     },
     "done": true
   },
@@ -2398,45 +2392,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
-      "has_dye": "2024-12-04 15:34:05 +0000"
+      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_key_changer": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
+      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
-      "has_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
-    "criteria": {
-      "has_black_dye": "2024-12-04 15:34:05 +0000"
+      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
     },
     "done": true
   },
@@ -2446,15 +2416,63 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+  "dragnvehicles:recipes/misc/sport_car_body": {
     "criteria": {
-      "has_dye": "2024-12-04 15:34:05 +0000"
+      "has_iron_block": "2024-12-04 14:06:24 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+  "dragnvehicles:recipes/misc/classic_body": {
     "criteria": {
-      "has_dye": "2024-12-04 15:34:05 +0000"
+      "has_iron_block": "2024-12-04 14:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 14:06:24 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/suv_body": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 14:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 14:06:24 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/motorcycle_body": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 14:06:24 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/truck_body": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 14:06:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv1_reset": {
+    "criteria": {
+      "has_keycard": "2024-12-04 14:09:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv3_reset": {
+    "criteria": {
+      "has_keycard": "2024-12-04 14:10:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
     },
     "done": true
   },
@@ -2464,51 +2482,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_range_hood": {
-    "criteria": {
-      "has_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/sport_car_body": {
-    "criteria": {
-      "has_iron_block": "2024-12-04 14:06:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
     },
     "done": true
   },
@@ -2518,9 +2494,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-04 14:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-04 14:19:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-04 14:19:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
     },
     "done": true
   },
@@ -2536,9 +2656,297 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_red_dye": "2024-12-04 14:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-04 14:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/sports_engine": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_black_dye": "2024-12-04 15:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2024-12-04 15:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-04 15:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2024-12-04 15:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-04 15:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_black_dye": "2024-12-04 15:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-04 15:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 15:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-04 15:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_dye": "2024-12-04 15:34:05 +0000"
     },
     "done": true
   },
@@ -2572,51 +2980,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-04 15:34:05 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_stove": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
     },
     "done": true
   },
@@ -2632,57 +3004,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_bath": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-04 15:34:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_basin": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_piston": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/sports_engine": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
     },
     "done": true
   },
@@ -2704,12 +3034,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/keycard_lv3_reset": {
-    "criteria": {
-      "has_keycard": "2024-12-04 14:10:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
@@ -2722,69 +3046,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-04 14:19:16 +0000"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/classic_body": {
-    "criteria": {
-      "has_iron_block": "2024-12-04 14:06:24 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/username_logger": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-04 13:40:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv1_reset": {
-    "criteria": {
-      "has_keycard": "2024-12-04 14:09:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-04 13:40:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
     },
     "done": true
   },
@@ -2797,18 +3061,6 @@
   "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
     },
     "done": true
   },
@@ -2836,33 +3088,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/dark_stove": {
     "criteria": {
       "has_dye": "2024-12-04 15:34:05 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-04 14:31:51 +0000"
     },
     "done": true
   },
@@ -2878,12 +3112,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
@@ -2893,24 +3121,6 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_frame": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
     },
     "done": true
   },
@@ -2926,12 +3136,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2024-12-04 14:19:16 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
@@ -2944,63 +3148,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/portable_radar": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/claymore": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-04 14:06:24 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/panic_button": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
     },
     "done": true
   },
@@ -3016,81 +3172,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/taser": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_toilet": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_bath": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/red_basin": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2024-12-04 13:55:40 +0000"
     },
     "done": true
   },
@@ -3106,24 +3196,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_block_modifier": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/suv_body": {
-    "criteria": {
-      "has_iron_block": "2024-12-04 14:06:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
@@ -3136,33 +3208,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_rose_red": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dropper": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-04 14:06:24 +0000"
     },
     "done": true
   },
@@ -3184,63 +3232,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-04 14:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-04 14:32:16 +0000"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/motorcycle_body": {
-    "criteria": {
-      "has_iron_block": "2024-12-04 14:06:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-04 15:34:05 +0000"
     },
     "done": true
   },
-  "dragnvehicles:recipes/misc/truck_body": {
-    "criteria": {
-      "has_iron_block": "2024-12-04 14:06:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
     "criteria": {
       "has_black_dye": "2024-12-04 15:34:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/cage_trap": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-04 15:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2024-12-04 14:12:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
-    "criteria": {
-      "has_red_dye": "2024-12-04 14:31:51 +0000"
     },
     "done": true
   },

@@ -1053,3 +1053,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [04Dec2024 15:39:25.763] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [04Dec2024 15:39:34.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
 [04Dec2024 15:39:34.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[04Dec2024 17:26:31.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:57309] logged in with entity id 3311 at (11.862203818810523, 13.5, 214.88104571248326)
+[04Dec2024 17:26:31.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[04Dec2024 17:27:05.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[04Dec2024 17:27:15.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[04Dec2024 17:27:44.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created team [Policia]]
+[04Dec2024 17:28:41.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added Imranack[tag=policia] to team [Policia]]
+[04Dec2024 17:30:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added tag 'policia' to Imranack]
+[04Dec2024 17:32:13.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 17:34:20.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 17:34:50.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[04Dec2024 17:35:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
