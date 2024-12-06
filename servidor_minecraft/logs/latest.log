@@ -1,89 +1,84 @@
-[04Dec2024 11:33:08.775] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[04Dec2024 11:33:08.780] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[04Dec2024 11:33:09.511] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[04Dec2024 11:33:09.523] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[04Dec2024 11:33:09.524] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/NEW-BAYVILLE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23132!/
-[04Dec2024 11:33:09.529] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/NEW-BAYVILLE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[04Dec2024 11:33:09.531] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[04Dec2024 11:33:09.594] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[04Dec2024 11:33:09.603] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[04Dec2024 11:33:09.888] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[04Dec2024 11:33:09.891] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Dec2024 11:33:09.894] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Dec2024 11:33:09.896] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Dec2024 11:33:10.070] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[04Dec2024 11:33:10.572] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[04Dec2024 11:33:10.582] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[04Dec2024 11:33:11.051] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[04Dec2024 11:33:11.807] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Dec2024 11:33:11.885] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[04Dec2024 11:33:18.164] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zcg000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04Dec2024 11:33:19.428] [modloading-worker-0/INFO] [lazrslib/]: Built config 'cuffed' Successfully!
-[04Dec2024 11:33:19.547] [modloading-worker-0/INFO] [cuffed/]: Registered restraints
-[04Dec2024 11:33:19.741] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
-[04Dec2024 11:33:19.953] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[04Dec2024 11:33:20.041] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[04Dec2024 11:33:20.115] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69a65f20acde32448da097b16eacfce9
-[04Dec2024 11:33:20.116] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69d73e101ecb38b59cc59ce369f9f0e6
-[04Dec2024 11:33:20.116] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/fcf1d4bbbc3b340daddecfd8389e586f
-[04Dec2024 11:33:20.126] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/7ea7435aa82d37fbbe7321ccd48bb6b2
-[04Dec2024 11:33:20.159] [Drogon/INFO] [DragonLib/]:                              +++ 🐉 +++                             
-[04Dec2024 11:33:20.160] [Drogon/INFO] [DragonLib/]: ---------------------------------------------------------------------
-[04Dec2024 11:33:20.160] [Drogon/INFO] [DragonLib/]:             Loaded DragonLib v1.20.1-2.2.20 by MrJulsen!            
-[04Dec2024 11:33:20.160] [Drogon/INFO] [DragonLib/]:                        Minecraft Forge 1.20.1                       
-[04Dec2024 11:33:20.161] [Drogon/INFO] [DragonLib/]: 
-[04Dec2024 11:33:20.161] [Drogon/INFO] [DragonLib/]:                Discord: https://discord.gg/AeSbNgvc7f               
-[04Dec2024 11:33:20.161] [Drogon/INFO] [DragonLib/]:         GitHub: https://github.com/MisterJulsen/MC-DragonLib2        
-[04Dec2024 11:33:20.161] [Drogon/INFO] [DragonLib/]:   Bug Reports: https://github.com/MisterJulsen/MC-DragonLib2/issues  
-[04Dec2024 11:33:20.161] [Drogon/INFO] [DragonLib/]: ---------------------------------------------------------------------
-[04Dec2024 11:33:20.161] [Drogon/INFO] [DragonLib/]:                              +++ 🐉 +++                             
-[04Dec2024 11:33:20.190] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[04Dec2024 11:33:20.190] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[04Dec2024 11:33:20.264] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/d85a7a4aa463373fb22b101ad94d1c48
-[04Dec2024 11:33:20.265] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fab5893522103d4ca740ddee7d2654ab
-[04Dec2024 11:33:20.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5c7dfb84d7ec3546a52eefcac64283ff
-[04Dec2024 11:33:20.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/7d55831bb6333f39afde0cb9f42fd6e3
-[04Dec2024 11:33:20.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/625d942b4fa234efa52ca0502d8fa717
-[04Dec2024 11:33:20.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f88c2b3de6143fbba12e7938ea3c3814
-[04Dec2024 11:33:20.268] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/a80c51764adf38078bc209f7d365ac61
-[04Dec2024 11:33:20.269] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/de5277a02f1837c6b214225b903f70e1
-[04Dec2024 11:33:20.269] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/1403d7711b173ddc9a0b888716b3c752
-[04Dec2024 11:33:20.271] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd0506c3285636cc8bce35efe210e1ee
-[04Dec2024 11:33:20.272] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/bec05bb5e9bb393d893587674345e633
-[04Dec2024 11:33:20.272] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/48042160625b3b769ef146ad08bcf527
-[04Dec2024 11:33:20.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/825ad09c9de336789474c2d743034086
-[04Dec2024 11:33:20.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/8b635e98445e3228b2c4e9a5863bdbdd
-[04Dec2024 11:33:20.286] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/ed7b2b9dfbad3721a7b5ffa3cf3d43d6
-[04Dec2024 11:33:20.288] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/3f998592f8ae3a08af9252b3d4e3c8bc
-[04Dec2024 11:33:20.291] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f0ada4752e063296bdec3feb32caeef7
-[04Dec2024 11:33:20.295] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5f4c6fde558139b49bc3ce1441c1562c
-[04Dec2024 11:33:20.295] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd14fb67cecd3db484da162f9655c23b
-[04Dec2024 11:33:20.692] [main/INFO] [cuffed/]: Registering Capabilities for Cuffed
-[04Dec2024 11:33:20.696] [main/INFO] [cuffed/]: Registering sound for Cuffed
-[04Dec2024 11:33:22.973] [main/INFO] [cuffed/]: Cuffed has found a foreign restraint registry, registering with Restraint API
-[04Dec2024 11:33:23.023] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class com.lazrproductions.cuffed.entity.WeightedAnchorEntity
-[04Dec2024 11:33:23.073] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/NEW-BAYVILLE/servidor_minecraft/config/dragonlib-common.toml is not correct. Correcting
-[04Dec2024 11:33:23.074] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dragonlib_common_config.caching.mode was corrected from NORMAL to its default, NORMAL. 
-[04Dec2024 11:33:23.077] [modloading-worker-0/INFO] [cuffed/]: Running commmon setup for Cuffed
-[04Dec2024 11:33:23.133] [modloading-worker-0/INFO] [de.mrjulsen.trafficcraft.TrafficCraft/]: Welcome to the TRAFFICCRAFT mod by MRJULSEN.
-[04Dec2024 11:33:23.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[04Dec2024 11:33:23.697] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[04Dec2024 11:33:24.189] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
-[04Dec2024 11:33:24.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tld] Starting version check at https://api.modrinth.com/updates/YfbCGNcr/forge_updates.json
-[04Dec2024 11:33:27.992] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" because "json" is null
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:185) ~[fmlcore-1.20.1-47.3.7.jar%23166!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23166!/:?]
-[04Dec2024 11:33:27.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[04Dec2024 11:33:28.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
-[04Dec2024 11:33:28.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[04Dec2024 11:33:29.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[04Dec2024 11:33:29.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Dec2024 11:33:29.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[04Dec2024 11:33:29.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mdm] Starting version check at https://cookiecraftmods.com/mdm.json
-[04Dec2024 11:33:29.794] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04Dec2024 11:33:29.984] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[06Dec2024 15:59:27.149] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[06Dec2024 15:59:27.155] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[06Dec2024 15:59:30.316] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Dec2024 15:59:30.329] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[06Dec2024 15:59:30.330] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/NEW-BAYVILLE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23132!/
+[06Dec2024 15:59:30.339] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/NEW-BAYVILLE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[06Dec2024 15:59:30.342] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[06Dec2024 15:59:30.494] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Dec2024 15:59:30.505] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[06Dec2024 15:59:31.102] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06Dec2024 15:59:31.105] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Dec2024 15:59:31.106] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Dec2024 15:59:31.108] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Dec2024 15:59:31.542] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[06Dec2024 15:59:32.213] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[06Dec2024 15:59:32.220] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[06Dec2024 15:59:33.090] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[06Dec2024 15:59:34.091] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Dec2024 15:59:34.153] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[06Dec2024 15:59:42.611] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zcg000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[06Dec2024 15:59:44.127] [modloading-worker-0/INFO] [lazrslib/]: Built config 'cuffed' Successfully!
+[06Dec2024 15:59:44.368] [modloading-worker-0/INFO] [cuffed/]: Registered restraints
+[06Dec2024 15:59:44.609] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[06Dec2024 15:59:44.824] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Dec2024 15:59:44.920] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[06Dec2024 15:59:45.049] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69a65f20acde32448da097b16eacfce9
+[06Dec2024 15:59:45.050] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69d73e101ecb38b59cc59ce369f9f0e6
+[06Dec2024 15:59:45.051] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/fcf1d4bbbc3b340daddecfd8389e586f
+[06Dec2024 15:59:45.063] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/7ea7435aa82d37fbbe7321ccd48bb6b2
+[06Dec2024 15:59:45.081] [Smaug/INFO] [DragonLib/]:                              +++ 🐉 +++                             
+[06Dec2024 15:59:45.083] [Smaug/INFO] [DragonLib/]: ---------------------------------------------------------------------
+[06Dec2024 15:59:45.084] [Smaug/INFO] [DragonLib/]:             Loaded DragonLib v1.20.1-2.2.20 by MrJulsen!            
+[06Dec2024 15:59:45.084] [Smaug/INFO] [DragonLib/]:                        Minecraft Forge 1.20.1                       
+[06Dec2024 15:59:45.085] [Smaug/INFO] [DragonLib/]: 
+[06Dec2024 15:59:45.087] [Smaug/INFO] [DragonLib/]:                Discord: https://discord.gg/AeSbNgvc7f               
+[06Dec2024 15:59:45.087] [Smaug/INFO] [DragonLib/]:         GitHub: https://github.com/MisterJulsen/MC-DragonLib2        
+[06Dec2024 15:59:45.087] [Smaug/INFO] [DragonLib/]:   Bug Reports: https://github.com/MisterJulsen/MC-DragonLib2/issues  
+[06Dec2024 15:59:45.088] [Smaug/INFO] [DragonLib/]: ---------------------------------------------------------------------
+[06Dec2024 15:59:45.088] [Smaug/INFO] [DragonLib/]:                              +++ 🐉 +++                             
+[06Dec2024 15:59:45.102] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/d85a7a4aa463373fb22b101ad94d1c48
+[06Dec2024 15:59:45.103] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fab5893522103d4ca740ddee7d2654ab
+[06Dec2024 15:59:45.104] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5c7dfb84d7ec3546a52eefcac64283ff
+[06Dec2024 15:59:45.106] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/7d55831bb6333f39afde0cb9f42fd6e3
+[06Dec2024 15:59:45.107] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/625d942b4fa234efa52ca0502d8fa717
+[06Dec2024 15:59:45.108] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f88c2b3de6143fbba12e7938ea3c3814
+[06Dec2024 15:59:45.110] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/a80c51764adf38078bc209f7d365ac61
+[06Dec2024 15:59:45.113] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/de5277a02f1837c6b214225b903f70e1
+[06Dec2024 15:59:45.114] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/1403d7711b173ddc9a0b888716b3c752
+[06Dec2024 15:59:45.117] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd0506c3285636cc8bce35efe210e1ee
+[06Dec2024 15:59:45.120] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/bec05bb5e9bb393d893587674345e633
+[06Dec2024 15:59:45.120] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/48042160625b3b769ef146ad08bcf527
+[06Dec2024 15:59:45.130] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/825ad09c9de336789474c2d743034086
+[06Dec2024 15:59:45.131] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/8b635e98445e3228b2c4e9a5863bdbdd
+[06Dec2024 15:59:45.132] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/ed7b2b9dfbad3721a7b5ffa3cf3d43d6
+[06Dec2024 15:59:45.133] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/3f998592f8ae3a08af9252b3d4e3c8bc
+[06Dec2024 15:59:45.134] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f0ada4752e063296bdec3feb32caeef7
+[06Dec2024 15:59:45.137] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5f4c6fde558139b49bc3ce1441c1562c
+[06Dec2024 15:59:45.139] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd14fb67cecd3db484da162f9655c23b
+[06Dec2024 15:59:45.186] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06Dec2024 15:59:45.186] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06Dec2024 15:59:45.696] [main/INFO] [cuffed/]: Registering Capabilities for Cuffed
+[06Dec2024 15:59:45.709] [main/INFO] [cuffed/]: Registering sound for Cuffed
+[06Dec2024 15:59:48.727] [main/INFO] [cuffed/]: Cuffed has found a foreign restraint registry, registering with Restraint API
+[06Dec2024 15:59:48.786] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class com.lazrproductions.cuffed.entity.WeightedAnchorEntity
+[06Dec2024 15:59:48.865] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/NEW-BAYVILLE/servidor_minecraft/config/dragonlib-common.toml is not correct. Correcting
+[06Dec2024 15:59:48.866] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dragonlib_common_config.caching.mode was corrected from NORMAL to its default, NORMAL. 
+[06Dec2024 15:59:48.875] [modloading-worker-0/INFO] [cuffed/]: Running commmon setup for Cuffed
+[06Dec2024 15:59:48.937] [modloading-worker-0/INFO] [de.mrjulsen.trafficcraft.TrafficCraft/]: Welcome to the TRAFFICCRAFT mod by MRJULSEN.
+[06Dec2024 15:59:49.628] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06Dec2024 15:59:49.639] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[06Dec2024 15:59:50.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
+[06Dec2024 15:59:50.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tld] Starting version check at https://api.modrinth.com/updates/YfbCGNcr/forge_updates.json
+[06Dec2024 15:59:50.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tld] Found status: BETA_OUTDATED Current: 1 Target: 1+mod
+[06Dec2024 15:59:50.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[06Dec2024 15:59:51.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
+[06Dec2024 15:59:51.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[06Dec2024 15:59:52.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[06Dec2024 15:59:52.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Dec2024 15:59:52.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[06Dec2024 15:59:52.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mdm] Starting version check at https://cookiecraftmods.com/mdm.json
+[06Dec2024 15:59:52.386] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected name at line 12 column 4 path $.
 	at com.google.gson.Gson.fromJson(Gson.java:1229) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -100,21 +95,13 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[04Dec2024 11:33:29.989] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: thief_style:thieves_balaclava_helmet Expected: 1416 Got: 3562
-[04Dec2024 11:33:29.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: thief_style:crowbar Expected: 1417 Got: 3563
-[04Dec2024 11:33:29.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: thief_style:stolenmetal Expected: 1418 Got: 3564
-[04Dec2024 11:33:29.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: thief_style:stolenpreciousmetal Expected: 1419 Got: 3565
-[04Dec2024 11:33:29.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: thief_style:stolen_crowbar Expected: 1420 Got: 3566
-[04Dec2024 11:33:29.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: thief_style:black_emarald Expected: 1421 Got: 3567
-[04Dec2024 11:33:29.991] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: thief_style:athiefmark Expected: 1422 Got: 3568
-[04Dec2024 11:33:29.994] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:villager_profession: Object did not get ID it asked for. Name: thief_style:stolen Expected: 15 Got: 16
-[04Dec2024 11:33:29.994] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:point_of_interest_type: Object did not get ID it asked for. Name: thief_style:stolen Expected: 20 Got: 21
-[04Dec2024 11:33:33.810] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
-[04Dec2024 11:33:33.810] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
-[04Dec2024 11:33:35.160] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag bayville:likeair as it is missing following references: minecraft:short_grass (from file/Bayville)
-[04Dec2024 11:33:35.164] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag trafficcraft:plants as it is missing following references: #minecraft:replaceable_plants (from trafficcraft-forge-1.20.1-1.1.0.jar)
-[04Dec2024 11:33:35.996] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/salt as it's serializer returned null
-[04Dec2024 11:33:36.000] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:shoes
+[06Dec2024 15:59:57.616] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Dec2024 16:00:03.587] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
+[06Dec2024 16:00:03.588] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/NEW-BAYVILLE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
+[06Dec2024 16:00:05.268] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag bayville:likeair as it is missing following references: minecraft:short_grass (from file/Bayville)
+[06Dec2024 16:00:05.275] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag trafficcraft:plants as it is missing following references: #minecraft:replaceable_plants (from trafficcraft-forge-1.20.1-1.1.0.jar)
+[06Dec2024 16:00:06.195] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/salt as it's serializer returned null
+[06Dec2024 16:00:06.198] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:shoes
 com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -150,7 +137,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.005] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:swat_helmet
+[06Dec2024 16:00:06.205] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:swat_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -186,7 +173,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.007] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:swat_bulletproof_vest
+[06Dec2024 16:00:06.206] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:swat_bulletproof_vest
 com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -222,9 +209,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.010] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ores/bitumen_ore as it's serializer returned null
-[04Dec2024 11:33:36.015] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/deepslate_bitumen_ore as it's serializer returned null
-[04Dec2024 11:33:36.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_blue_trousers
+[06Dec2024 16:00:06.209] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ores/bitumen_ore as it's serializer returned null
+[06Dec2024 16:00:06.213] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/deepslate_bitumen_ore as it's serializer returned null
+[06Dec2024 16:00:06.214] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_blue_trousers
 com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -260,8 +247,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.033] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/rock_salt as it's serializer returned null
-[04Dec2024 11:33:36.041] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mdm:md_2_r
+[06Dec2024 16:00:06.230] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/rock_salt as it's serializer returned null
+[06Dec2024 16:00:06.235] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mdm:md_2_r
 com.google.gson.JsonSyntaxException: Unknown item 'cookiecraftbuildingblocks:coffe_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -297,7 +284,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'cookiecraftbuildingblocks:cof
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.048] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_jacket
+[06Dec2024 16:00:06.241] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_jacket
 com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -333,7 +320,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.050] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_green_trousers
+[06Dec2024 16:00:06.243] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_green_trousers
 com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -369,7 +356,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.053] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_bulletproof_vest
+[06Dec2024 16:00:06.246] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_bulletproof_vest
 com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -405,8 +392,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.059] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/bitumen_ore as it's serializer returned null
-[04Dec2024 11:33:36.068] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_helmet
+[06Dec2024 16:00:06.256] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/bitumen_ore as it's serializer returned null
+[06Dec2024 16:00:06.261] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -442,7 +429,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.071] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:sunglasses
+[06Dec2024 16:00:06.262] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:sunglasses
 com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -478,9 +465,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.076] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/bitumen_ore as it's serializer returned null
-[04Dec2024 11:33:36.080] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/deepslate_bitumen_ore as it's serializer returned null
-[04Dec2024 11:33:36.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet
+[06Dec2024 16:00:06.267] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/bitumen_ore as it's serializer returned null
+[06Dec2024 16:00:06.271] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/deepslate_bitumen_ore as it's serializer returned null
+[06Dec2024 16:00:06.278] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet
 com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23170!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23170!/:?]
@@ -511,7 +498,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.090] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:swat_trousers
+[06Dec2024 16:00:06.280] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:swat_trousers
 com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -547,587 +534,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[04Dec2024 11:33:36.099] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[04Dec2024 11:33:36.292] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2794 advancements
-[04Dec2024 11:33:40.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[04Dec2024 11:33:40.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Dec2024 11:33:40.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Dec2024 11:33:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Dec2024 11:33:40.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Dec2024 11:33:40.387] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Dec2024 11:33:40.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Dec2024 11:33:40.470] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Dec2024 11:33:40.470] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Dec2024 11:33:40.470] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Dec2024 11:33:40.485] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/cuffed-server.toml is not correct. Correcting
-[04Dec2024 11:33:40.486] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Max Chain Length was corrected from 5.0 to its default, 5.0. 
-[04Dec2024 11:33:40.486] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Suffocation Length was corrected from 12.0 to its default, 12.0. 
-[04Dec2024 11:33:40.491] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/NEW-BAYVILLE/servidor_minecraft/./world/serverconfig/cuffed-server.toml is not correct. Correcting
-[04Dec2024 11:33:40.535] [Server thread/INFO] [Framework/]: Loading server configs...
-[04Dec2024 11:33:40.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Dec2024 11:33:44.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Dec2024 11:33:47.551] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 11:33:47.599] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 11:33:47.605] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 11:33:47.615] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 11:33:47.628] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 11:33:47.642] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 11:33:47.644] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 11:33:47.948] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 11:33:48.445] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 11:33:48.939] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[04Dec2024 11:33:49.438] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[04Dec2024 11:33:49.785] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5348 ms
-[04Dec2024 11:33:49.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.304s)! For help, type "help"
-[04Dec2024 11:33:49.819] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC PermissionNode<Boolean>s available:
-[04Dec2024 11:33:49.820] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
-[04Dec2024 11:33:49.820] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
-[04Dec2024 11:33:49.820] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
-[04Dec2024 11:33:49.820] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
-[04Dec2024 11:33:49.820] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
-[04Dec2024 11:33:49.821] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
-[04Dec2024 11:33:49.821] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
-[04Dec2024 11:33:49.821] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
-[04Dec2024 11:33:49.821] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
-[04Dec2024 11:33:49.822] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
-[04Dec2024 11:33:49.822] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
-[04Dec2024 11:33:49.822] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
-[04Dec2024 11:33:49.822] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
-[04Dec2024 11:33:49.823] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
-[04Dec2024 11:33:49.823] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
-[04Dec2024 11:33:49.823] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
-[04Dec2024 11:33:49.823] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
-[04Dec2024 11:33:49.824] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
-[04Dec2024 11:33:49.824] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
-[04Dec2024 11:33:49.824] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
-[04Dec2024 11:33:49.824] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
-[04Dec2024 11:33:49.825] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
-[04Dec2024 11:33:49.825] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
-[04Dec2024 11:33:49.825] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
-[04Dec2024 11:33:49.825] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
-[04Dec2024 11:33:49.825] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
-[04Dec2024 11:33:49.826] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
-[04Dec2024 11:33:49.826] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
-[04Dec2024 11:33:49.826] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
-[04Dec2024 11:33:49.826] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
-[04Dec2024 11:33:49.827] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Dec2024 11:33:49.832] [Server thread/INFO] [DragonLib/]: Starting DragonLib Network Manager (Server) worker thread...
-[04Dec2024 11:33:49.833] [Server thread/INFO] [cuffed/]: Running server setup for Cuffed
-[04Dec2024 11:33:49.833] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been started.
-[04Dec2024 11:33:49.883] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
-[04Dec2024 11:38:57.266] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:revolver is
-[04Dec2024 11:38:57.267] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:assault_rifle is
-[04Dec2024 11:38:57.267] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:revolver is
-[04Dec2024 11:38:57.267] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:burst_rifle is
-[04Dec2024 11:38:57.268] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:scrap_workbench is
-[04Dec2024 11:38:57.268] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:soulhunter_mk2 is
-[04Dec2024 11:38:57.268] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:schematic_station is
-[04Dec2024 11:38:57.269] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:waterpipe_shotgun is
-[04Dec2024 11:38:57.269] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:stun_grenade is
-[04Dec2024 11:38:57.269] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:molotov_cocktail is
-[04Dec2024 11:38:57.269] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:pump_shotgun is
-[04Dec2024 11:38:57.270] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:gunnite_workbench is
-[04Dec2024 11:38:57.270] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:grenade is
-[04Dec2024 11:38:57.270] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:finger_gun is
-[04Dec2024 11:38:57.270] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:revolver is
-[04Dec2024 11:38:57.271] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:holy_shotgun is
-[04Dec2024 11:38:57.271] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:assault_rifle is
-[04Dec2024 11:38:57.271] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:water_bomb is
-[04Dec2024 11:38:57.272] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:service_rifle is
-[04Dec2024 11:38:57.272] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what jeg:pocket_bubble is
-[04Dec2024 11:38:57.292] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'jeg:recipes/jeg/workbench' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
-[04Dec2024 11:38:57.303] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:57.307] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:49095] logged in with entity id 173 at (-205.91621365498648, 76.0, 286.0224348806296)
-[04Dec2024 11:38:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
-[04Dec2024 11:38:57.636] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:57.649] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:57.649] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:57.846] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:58.498] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:58.499] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:58.500] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:58.500] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:59.500] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:38:59.646] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:39:29.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Imranack a server operator
-[04Dec2024 11:39:38.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the weather to clear]
-[04Dec2024 11:43:08.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [minecart_exam]]
-[04Dec2024 11:43:13.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/minecart/pay_minecart_exam']
-[04Dec2024 11:43:20.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/minecart/pay_minecart_exam']
-[04Dec2024 11:43:27.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/minecart/pay_minecart_exam']
-[04Dec2024 11:43:29.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Reset [minecart_exam] for Imranack]
-[04Dec2024 11:43:36.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 27 item(s) from player Imranack]
-[04Dec2024 11:43:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
-[04Dec2024 11:43:58.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/boat/pay_boat_exam']
-[04Dec2024 11:44:14.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Acquire Hardware]
-[04Dec2024 11:44:18.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 3 command(s) from function 'tld:exams/boat/pay_boat_exam']
-[04Dec2024 11:44:29.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
-[04Dec2024 11:44:31.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 7 command(s) from function 'tld:exams/boat/pay_boat_exam']
-[04Dec2024 11:44:42.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:exams/boat/boat_exam_q2']
-[04Dec2024 11:44:45.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
-[04Dec2024 11:44:46.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
-[04Dec2024 11:44:57.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
-[04Dec2024 11:44:59.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 7 command(s) from function 'tld:exams/boat/pay_boat_exam']
-[04Dec2024 11:45:01.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:exams/boat/boat_exam_q2']
-[04Dec2024 11:45:05.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
-[04Dec2024 11:45:07.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
-[04Dec2024 11:45:08.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:exams/boat/boat_exam_q3']
-[04Dec2024 11:45:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
-[04Dec2024 11:45:12.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 7 command(s) from function 'tld:exams/boat/pay_boat_exam']
-[04Dec2024 11:45:13.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
-[04Dec2024 11:45:15.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [boat_exam]]
-[04Dec2024 11:45:17.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 7 command(s) from function 'tld:exams/boat/pay_boat_exam']
-[04Dec2024 11:45:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:exams/boat/boat_exam_q2']
-[04Dec2024 11:45:20.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Executed 2 command(s) from function 'tld:licenses/fail']
-[04Dec2024 11:46:14.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added tag 'boat_licence' to Imranack]
-[04Dec2024 11:51:45.541] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:47.482] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:47.482] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:47.486] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:51.835] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:51.836] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:54.127] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:54.128] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:54.976] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:54.980] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:54.983] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:51:54.984] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 11:52:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 6)]
-[04Dec2024 11:52:08.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 13)]
-[04Dec2024 11:52:25.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 1000 to [bank] for Imranack (now 12490)]
-[04Dec2024 11:54:10.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [Multas]]
-[04Dec2024 11:54:39.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 500 to [Multas] for Imranack (now 500)]
-[04Dec2024 11:57:49.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set display slot sidebar to show objective Multas]
-[04Dec2024 11:58:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 50 from [Multas] for Imranack (now 450)]
-[04Dec2024 12:00:18.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed objective [Multas]]
-[04Dec2024 12:01:18.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Book and Quill] to Imranack]
-[04Dec2024 12:01:44.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Libro de Dinero] to Imranack]
-[04Dec2024 12:01:49.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 100 to [bank] for Imranack (now 12590)]
-[04Dec2024 12:03:27.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Libro de Multas] to Imranack]
-[04Dec2024 12:03:39.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 500 from [bank] for Imranack (now 12090)]
-[04Dec2024 12:23:37.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Código Penal y Administrativo] to Imranack
-[04Dec2024 12:35:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid escape sequence '\n' in quoted string
-[04Dec2024 12:35:33.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...24-001-MC\nNombre: Pablo Escobar\nEdad: 26 años\nProfesión: Conductor de Bus\nNacionalidad: Minecraftiana\nDirección: Calle Bloqueado, Ciudad del Minecraft\nFecha de Nacimiento: 12 de junio de 1998\nGénero: Masculino\nEstado Civil: Soltero\nOcupación: Conductor de Bus\nNúmero de Teléfono: (Solo para Minecraft) 000-123-456\n"}']} 1<--[HERE]
-[04Dec2024 12:36:05.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid escape sequence '\n' in quoted string
-[04Dec2024 12:36:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...24-001-MC\nNombre: Pablo Escobar\nEdad: 26 años\nProfesión: Conductor de Bus\nNacionalidad: Minecraftiana\nDirección: Calle Bloqueado, Ciudad del Minecraft\nFecha de Nacimiento: 12 de junio de 1998\nGénero: Masculino\nEstado Civil: Soltero\nOcupación: Conductor de Bus\nNúmero de Teléfono: (Solo para Minecraft) 000-123-456\n"}']} 1<--[HERE]
-[04Dec2024 12:36:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Minecraft] to Imranack
-[04Dec2024 12:36:31.430] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 12:36:31.434] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 12:36:32.244] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 12:37:03.763] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.764] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.765] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.765] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.766] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.766] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.767] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.767] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.768] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.768] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.769] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.769] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.770] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.770] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.771] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.771] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.772] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.772] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:03.773] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 12:37:04.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/726, l='ServerLevel[world]', x=52.54, y=13.00, z=132.26] died, message: 'Armorer was killed'
-[04Dec2024 12:37:04.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/728, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
-[04Dec2024 12:37:11.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 244)]
-[04Dec2024 12:37:16.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 245)]
-[04Dec2024 12:38:26.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:38:26.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...123-456"}'}] 1<--[HERE]
-[04Dec2024 12:39:06.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:39:06.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...123-456"}'}] 1<--[HERE]
-[04Dec2024 12:39:08.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:39:08.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...123-456"}'}] 1<--[HERE]
-[04Dec2024 12:39:37.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Minecraft] to Imranack
-[04Dec2024 12:40:34.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
-[04Dec2024 12:41:19.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
-[04Dec2024 12:42:20.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
-[04Dec2024 12:42:54.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
-[04Dec2024 12:43:31.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:43:31.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ..._blue\"}]"}<--[HERE]
-[04Dec2024 12:44:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:44:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ellow\"}]"}<--[HERE]
-[04Dec2024 12:44:35.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
-[04Dec2024 12:45:20.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:45:20.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...r":"red"}'}]}<--[HERE]
-[04Dec2024 12:45:49.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:45:49.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...r":"red"}'}]}<--[HERE]
-[04Dec2024 12:46:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:46:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...r":"red"}'}]}<--[HERE]
-[04Dec2024 12:46:46.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Pablo Escobar] to Imranack
-[04Dec2024 12:48:10.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 244)]
-[04Dec2024 12:48:14.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 245)]
-[04Dec2024 12:49:12.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Leopoldo] to Imranack
-[04Dec2024 12:50:00.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unclosed quoted string
-[04Dec2024 12:50:00.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\\"}\"}]}}<--[HERE]
-[04Dec2024 12:50:26.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Leopoldo] to Imranack
-[04Dec2024 12:50:59.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Leopoldo] to Imranack
-[04Dec2024 12:51:36.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI Leopoldo] to Imranack
-[04Dec2024 12:53:17.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:53:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}<--[HERE]
-[04Dec2024 12:53:51.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Leopoldo] to Imranack
-[04Dec2024 12:54:57.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Santiago] to Imranack
-[04Dec2024 12:56:22.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [DNI de Toni] to Imranack
-[04Dec2024 12:59:51.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 12:59:51.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ..."}]}, 
-  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Leopoldo\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"29 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Policía\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Español\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Casa 101, Bayville\",\"color\":\"red\"}]},
-  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Santiago\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"32 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Agente de Tráfico\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Argentino\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Greenwood\",\"color\":\"red\"}]},
-  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Toni\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"22 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Examinador de Conducir\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Italiano\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Bayville\",\"color\":\"red\"}]}
-]}<--[HERE]
-[04Dec2024 13:02:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 13:02:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ..."}]}, 
-  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Leopoldo\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"29 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Policía\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Español\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Casa 101, Bayville\",\"color\":\"red\"}]},
-  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Santiago\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"32 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Agente de Tráfico\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Argentino\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Greenwood\",\"color\":\"red\"}]},
-  "{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Toni\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"22 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Examinador de Conducir\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Italiano\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Licencia de Armas: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"red\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Bayville\",\"color\":\"red\"}]}
-]}
-/give @p written_book{title:"Licencia de Conducir - Pablo Escobar",author:"Minecraft",pages:["[{\"text\":\"Licencia de Conducir: \",\"color\":\"gold\"},{\"text\":\"Sí\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"DNI: \",\"color\":\"gold\"},{\"text\":\"Pablo Escobar\",\"color\":\"light_purple\"},{\"text\":\"\\n\"},{\"text\":\"Edad: \",\"color\":\"gold\"},{\"text\":\"26 años\",\"color\":\"aqua\"},{\"text\":\"\\n\"},{\"text\":\"Profesión: \",\"color\":\"gold\"},{\"text\":\"Conductor de bus\",\"color\":\"green\"},{\"text\":\"\\n\"},{\"text\":\"Nacionalidad: \",\"color\":\"gold\"},{\"text\":\"Colombiano\",\"color\":\"blue\"},{\"text\":\"\\n\"},{\"text\":\"Dirección: \",\"color\":\"gold\"},{\"text\":\"Casa 109, Bayville\",\"color\":\"red\"}]"}]}<--[HERE]
-[04Dec2024 13:02:06.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 13:02:06.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}]}<--[HERE]
-[04Dec2024 13:02:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 13:02:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}]}<--[HERE]
-[04Dec2024 13:02:49.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
-[04Dec2024 13:02:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
-[04Dec2024 13:02:49.814] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[04Dec2024 13:15:49.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.35.8.153:51797] logged in with entity id 977 at (-80.90168804223006, 13.0, 141.81062532071792)
-[04Dec2024 13:15:49.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
-[04Dec2024 13:16:27.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 13:16:27.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}]}<--[HERE]
-[04Dec2024 13:17:07.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ']'
-[04Dec2024 13:17:07.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...\"red\"}]"}]}<--[HERE]
-[04Dec2024 13:18:13.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Pablo Escobar] to Imranack
-[04Dec2024 13:20:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Pablo Escobar] to Imranack
-[04Dec2024 13:21:35.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid escape sequence '\n' in quoted string
-[04Dec2024 13:21:35.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... Conducir\n\nDNI: Pablo Escobar\n\n- Coches: Aprobado\n- Moto: Denegado\n- Helicóptero: Denegado"}']}<--[HERE]
-[04Dec2024 13:22:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[04Dec2024 13:22:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: > 
-[13:21:35] [Server thread/INFO] [minecraft/MinecraftServer]: Invalid escape sequence '\n' in quoted string
-[13:21:35] [Server thread/INFO] [minecraft/MinecraftServer]: ... Conducir\n\nDNI: Pablo Escobar\n\n- Coches: Aprobado\n- Moto: Denegado\n- Helicóptero: Denegado"}']}<--[HERE]<--[HERE]
-[04Dec2024 13:22:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[04Dec2024 13:22:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: > 
-[13:21:35] [Server thread/INFO] [minecraft/MinecraftServer]: Invalid escape sequence '\n' in quoted string
-[13:21:35] [Server thread/INFO] [minecraft/MinecraftServer]: ... Conducir\n\nDNI: Pablo Escobar\n\n- Coches: Aprobado\n- Moto: Denegado\n- Helicóptero: Denegado"}']}<--[HERE]<--[HERE]
-[04Dec2024 13:23:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid escape sequence '\n' in quoted string
-[04Dec2024 13:23:37.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...{"text":"\n\nDNI: Pablo Escobar"}{"text":"\n\n- Coches: Aprobado"}{"text":"\n- Moto: Denegado"}{"text":"\n- Helicóptero: Denegado"}]'],title:"Licencia de Conducir",author:"Minecraft"}<--[HERE]
-[04Dec2024 13:28:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
-[04Dec2024 13:29:50.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
-[04Dec2024 13:31:06.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
-[04Dec2024 13:32:01.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
-[04Dec2024 13:32:31.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir] to Imranack
-[04Dec2024 13:33:39.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Leopoldo] to Imranack
-[04Dec2024 13:33:43.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Toni] to Imranack
-[04Dec2024 13:34:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Leopoldo] to Imranack
-[04Dec2024 13:35:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Licencia de Conducir - Santiago] to Imranack
-[04Dec2024 13:38:20.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:38:21.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1629, l='ServerLevel[world]', x=-37.50, y=14.00, z=122.50] died, message: 'Toolsmith was killed'
-[04Dec2024 13:38:49.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:38:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:39:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:39:18.421] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 13:39:30.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:39:32.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1690, l='ServerLevel[world]', x=-37.50, y=14.00, z=122.50] died, message: 'Toolsmith was killed'
-[04Dec2024 13:39:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:39:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:40:03.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:40:09.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1764, l='ServerLevel[world]', x=-37.50, y=14.00, z=122.50] died, message: 'Toolsmith was killed'
-[04Dec2024 13:40:25.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:40:27.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:41:05.058] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1773, l='ServerLevel[world]', x=-37.50, y=14.00, z=122.50] died, message: 'Toolsmith was killed'
-[04Dec2024 13:42:14.368] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:14.981] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:15.768] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:16.152] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:16.475] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:22.414] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:23.065] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:23.444] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:23.716] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:23.996] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:24.237] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 13:42:43.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 383)]
-[04Dec2024 13:44:52.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:44:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:44:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:44:56.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:44:57.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:44:57.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:44:58.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:44:58.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:45:00.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:45:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:45:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:45:05.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:45:05.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:45:06.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:45:06.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Played sound minecraft:block.note_block.pling to Imranack]
-[04Dec2024 13:51:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Command Block] to Imranack]
-[04Dec2024 13:51:07.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:51:14.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:51:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:52:11.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:52:28.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:52:40.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:52:52.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:52:57.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:57:31.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:57:35.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 13:57:47.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 13:57:50.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 14:02:04.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:02:11.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:03:46.762] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:03:49.371] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:03:51.513] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:03:51.924] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:03:52.644] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:03:57.660] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:03:59.211] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:03:59.660] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:04:10.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:05:23.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:05:34.320] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:05:44.292] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:05:51.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:05:53.760] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:06:00.039] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:06:05.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:10:30.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
-[04Dec2024 14:10:41.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 14:25:43.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
-[04Dec2024 14:25:45.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 14:25:49.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
-[04Dec2024 14:25:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 14)]
-[04Dec2024 14:25:55.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 14)]
-[04Dec2024 14:25:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 14:26:02.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 14:30:32.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
-[04Dec2024 14:30:37.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 14:31:01.070] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 14:31:03.449] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 14:46:00.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Codebreaker] to Imranack]
-[04Dec2024 14:46:54.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:47:51.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:48:36.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:49:12.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:49:50.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:50:19.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:50:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Tienes todo lo necesario para el robo
-[04Dec2024 14:50:45.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:51:25.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:51:28.335] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:51:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 14:51:52.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 14:52:04.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 14:52:08.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 14:52:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 14:52:21.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 14:55:06.490] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:55:15.968] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:55:24.339] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:55:24.814] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:56:12.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 14:56:30.866] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 14:59:48.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 14:59:50.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 15:00:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 15:00:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 15:00:44.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 15:00:49.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 15:02:03.708] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.807] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.809] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.906] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.907] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.907] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.908] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.908] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.908] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.909] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.909] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.910] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:03.910] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.006] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.007] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.007] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.007] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.008] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.009] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.009] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.010] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.010] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.011] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.012] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.012] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.013] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.013] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.014] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.014] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.106] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.107] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.107] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.108] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.108] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.109] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.109] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.110] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.110] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.111] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.111] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.112] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.112] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.113] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.113] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.113] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.114] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.114] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.115] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.115] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:04.116] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[04Dec2024 15:02:41.784] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:03:08.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 15:03:10.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 15:03:38.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 15:04:21.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 1000]
-[04Dec2024 15:04:26.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 15:04:50.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2780, l='ServerLevel[world]', x=58.27, y=13.00, z=134.50] died, message: 'Armorer was killed'
-[04Dec2024 15:04:50.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2782, l='ServerLevel[world]', x=39.47, y=13.00, z=129.50] died, message: 'Armorer was killed'
-[04Dec2024 15:04:50.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2796, l='ServerLevel[world]', x=58.27, y=13.00, z=134.50] died, message: 'Armorer was killed'
-[04Dec2024 15:04:50.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2797, l='ServerLevel[world]', x=58.27, y=13.00, z=134.50] died, message: 'Armorer was killed'
-[04Dec2024 15:04:50.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2799, l='ServerLevel[world]', x=39.47, y=13.00, z=129.50] died, message: 'Armorer was killed'
-[04Dec2024 15:04:50.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2800, l='ServerLevel[world]', x=39.47, y=13.00, z=129.50] died, message: 'Armorer was killed'
-[04Dec2024 15:05:02.938] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[04Dec2024 15:05:07.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 48)]
-[04Dec2024 15:05:13.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2814, l='ServerLevel[world]', x=189.50, y=13.00, z=73.50] died, message: 'Armorer was killed'
-[04Dec2024 15:05:25.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2889, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
-[04Dec2024 15:05:25.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2891, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
-[04Dec2024 15:06:22.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 348)]
-[04Dec2024 15:07:16.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 348)]
-[04Dec2024 15:22:41.311] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:24:37.266] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:24:57.255] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:24:59.218] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:24:59.719] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:25:01.828] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:25:10.692] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:25:28.670] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:25:37.070] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:25:51.099] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:25:56.321] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:26:02.567] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:27:51.055] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:27:55.264] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:28:02.186] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:28:21.472] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:28:40.466] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:28:48.267] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:28:59.261] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:29:14.933] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:30:21.070] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:30:53.445] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:31:58.323] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:32:03.769] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:32:10.498] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:32:40.261] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:32:43.727] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:32:52.592] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:33:00.987] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:33:02.746] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:34:56.397] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:35:08.794] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:35:40.579] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:35:47.029] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:36:00.411] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:36:19.770] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:36:30.113] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:37:08.268] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:37:26.411] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:37:39.964] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:37:45.266] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:38:46.952] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:38:55.724] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:39:07.054] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:39:25.763] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 15:39:34.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
-[04Dec2024 15:39:34.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
-[04Dec2024 17:26:31.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:57309] logged in with entity id 3311 at (11.862203818810523, 13.5, 214.88104571248326)
-[04Dec2024 17:26:31.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
-[04Dec2024 17:27:05.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 17:27:15.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 17:27:44.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created team [Policia]]
-[04Dec2024 17:28:41.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added Imranack[tag=policia] to team [Policia]]
-[04Dec2024 17:30:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added tag 'policia' to Imranack]
-[04Dec2024 17:32:13.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 17:34:20.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 17:34:50.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 17:35:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 17:38:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Command Block] to Imranack]
-[04Dec2024 17:47:32.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
-[04Dec2024 17:47:32.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
-[04Dec2024 17:47:51.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:39873] logged in with entity id 3735 at (-73.08560482831777, 13.0, 273.3716796604364)
-[04Dec2024 17:47:51.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
-[04Dec2024 17:53:36.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [startRobbery]]
-[04Dec2024 18:01:55.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Reset [startRobbery] for Imranack]
-[04Dec2024 18:02:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [Robo del Banco]]
-[04Dec2024 18:02:26.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set [Robo del Banco] for Imranack to 1]
-[04Dec2024 18:02:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Imranack] El robo ha comenzado
-[04Dec2024 18:05:19.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [commencer_braquage]]
-[04Dec2024 18:10:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Imranack> d
-[04Dec2024 18:11:46.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [braquage_triggered]]
-[04Dec2024 18:17:54.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
-[04Dec2024 18:17:54.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
-[04Dec2024 18:19:06.461] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b2539d0[id=<null>,name=Imranack,properties={},legacy=false] (/127.189.193.26:44079) lost connection: Timed out
-[04Dec2024 18:19:22.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:34031] logged in with entity id 3992 at (-72.71474753002373, 13.0, 273.410015847529)
-[04Dec2024 18:19:22.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
-[04Dec2024 18:27:00.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:27:25.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:28:41.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:30:51.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added tag 'police' to Imranack]
-[04Dec2024 18:32:02.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:33:43.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:36:23.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
-[04Dec2024 18:36:23.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
-[04Dec2024 18:36:37.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.35.8.153:33161] logged in with entity id 4204 at (-74.75588233187685, 13.0, 268.7034296974452)
-[04Dec2024 18:36:37.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
-[04Dec2024 18:37:59.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 18:38:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 18:39:10.501] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 18:40:05.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:40:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:41:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:41:34.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:42:40.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
-[04Dec2024 18:44:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 101)]
-[04Dec2024 18:44:59.100] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 18:45:42.012] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 18:47:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 18:47:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 18:47:50.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 9)]
-[04Dec2024 18:48:04.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 9)]
-[04Dec2024 18:48:08.963] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[04Dec2024 18:48:17.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/4603, l='ServerLevel[world]', x=10.50, y=14.40, z=233.50] died, message: 'Librarian was killed'
-[04Dec2024 18:49:19.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 18:49:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 18:50:44.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 18:51:02.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 18:51:07.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 14)]
-[04Dec2024 18:52:09.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 18:52:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 18:52:33.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 18:52:35.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 18:54:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 18:54:38.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 18:57:24.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 6400 [Emerald] to Imranack]
-[04Dec2024 18:59:42.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 6400 [Emerald] to Imranack]
-[04Dec2024 19:05:13.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Sac de Bijoux] to Imranack]
-[04Dec2024 19:06:17.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 19:06:25.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 19:06:36.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 383)]
-[04Dec2024 19:06:54.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
-[04Dec2024 19:07:16.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
-[04Dec2024 19:07:45.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Bundle] to Imranack]
-[04Dec2024 19:19:07.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
-[04Dec2024 19:19:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[06Dec2024 16:00:06.289] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[06Dec2024 16:00:06.560] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2794 advancements
+[06Dec2024 16:00:12.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Dec2024 16:00:12.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Dec2024 16:00:12.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Dec2024 16:00:12.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Dec2024 16:00:12.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Dec2024 16:00:12.310] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Dec2024 16:00:12.441] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Dec2024 16:00:12.441] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Dec2024 16:00:12.442] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Dec2024 16:00:12.442] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Dec2024 16:00:12.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/cuffed-server.toml is not correct. Correcting
+[06Dec2024 16:00:12.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Max Chain Length was corrected from 5.0 to its default, 5.0. 
+[06Dec2024 16:00:12.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Suffocation Length was corrected from 12.0 to its default, 12.0. 
+[06Dec2024 16:00:12.470] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/NEW-BAYVILLE/servidor_minecraft/./world/serverconfig/cuffed-server.toml is not correct. Correcting
+[06Dec2024 16:00:12.539] [Server thread/INFO] [Framework/]: Loading server configs...
+[06Dec2024 16:00:12.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Dec2024 16:00:16.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Dec2024 16:00:18.610] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:18.661] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:18.663] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:18.664] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:18.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:18.729] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:19.274] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:19.597] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:20.216] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:20.596] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:21.095] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:21.609] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2024 16:00:22.094] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[06Dec2024 16:00:22.594] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
+[06Dec2024 16:00:22.909] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6816 ms
+[06Dec2024 16:00:22.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.448s)! For help, type "help"
+[06Dec2024 16:00:22.954] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC PermissionNode<Boolean>s available:
+[06Dec2024 16:00:22.955] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[06Dec2024 16:00:22.955] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[06Dec2024 16:00:22.955] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[06Dec2024 16:00:22.956] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[06Dec2024 16:00:22.958] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[06Dec2024 16:00:22.958] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[06Dec2024 16:00:22.958] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[06Dec2024 16:00:22.959] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[06Dec2024 16:00:22.960] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[06Dec2024 16:00:22.960] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[06Dec2024 16:00:22.961] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[06Dec2024 16:00:22.961] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[06Dec2024 16:00:22.961] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[06Dec2024 16:00:22.962] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[06Dec2024 16:00:22.962] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[06Dec2024 16:00:22.963] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[06Dec2024 16:00:22.963] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[06Dec2024 16:00:22.964] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[06Dec2024 16:00:22.965] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[06Dec2024 16:00:22.965] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[06Dec2024 16:00:22.966] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[06Dec2024 16:00:22.966] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[06Dec2024 16:00:22.967] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[06Dec2024 16:00:22.968] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[06Dec2024 16:00:22.968] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[06Dec2024 16:00:22.969] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[06Dec2024 16:00:22.970] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[06Dec2024 16:00:22.970] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[06Dec2024 16:00:22.971] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[06Dec2024 16:00:22.971] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[06Dec2024 16:00:22.973] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Dec2024 16:00:22.981] [Server thread/INFO] [DragonLib/]: Starting DragonLib Network Manager (Server) worker thread...
+[06Dec2024 16:00:22.982] [Server thread/INFO] [cuffed/]: Running server setup for Cuffed
+[06Dec2024 16:00:22.984] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been started.
+[06Dec2024 16:00:23.068] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[06Dec2024 16:02:39.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:35223] logged in with entity id 247 at (18.38044949821719, 15.0625, 227.5937962125636)
+[06Dec2024 16:02:39.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[06Dec2024 16:03:27.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[06Dec2024 16:06:46.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 13000]
