@@ -2699,3 +2699,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [06Dec2024 16:05:23.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 16:05:45.228] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate
 [06Dec2024 16:06:46.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 13000]
+[06Dec2024 16:10:23.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 16:10:23.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 16:15:23.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 16:15:23.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 16:20:23.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 16:20:23.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 16:20:54.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[06Dec2024 16:20:59.925] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:21:08.290] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:21:35.532] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:21:36.588] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:21:37.044] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:21:37.257] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:21:45.122] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:22:32.832] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:22:34.032] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:22:35.765] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:22:42.758] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:22:43.485] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[06Dec2024 16:25:23.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 16:25:23.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 16:26:24.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[06Dec2024 16:26:24.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
