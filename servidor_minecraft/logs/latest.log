@@ -645,3 +645,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 13:52:51.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7664, l='ServerLevel[world]', x=49.52, y=13.00, z=124.58] died, message: 'Armorer was killed'
 [07Dec2024 13:53:50.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
 [07Dec2024 13:53:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[07Dec2024 14:03:26.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:35931] logged in with entity id 7735 at (111.96659076715524, 13.125, 93.07499998807907)
+[07Dec2024 14:03:26.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[07Dec2024 14:03:57.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7868, l='ServerLevel[world]', x=56.64, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 14:03:57.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7870, l='ServerLevel[world]', x=40.53, y=13.00, z=126.17] died, message: 'Armorer was killed'
+[07Dec2024 14:05:11.558] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.SpongeSchematicReader/]: Schematic was made in a newer Minecraft version (3953 > 3465). Data may be incompatible.
+[07Dec2024 14:05:11.612] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Imranack loaded /workspaces/NEW-BAYVILLE/servidor_minecraft/config/worldedit/schematics/edificio-telef-nica-sevilla-by-sugarjerry.schem
+[07Dec2024 14:06:59.437] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8836, l='ServerLevel[world]', x=52.92, y=13.00, z=134.92] died, message: 'Armorer was killed'
+[07Dec2024 14:06:59.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8838, l='ServerLevel[world]', x=40.72, y=13.00, z=135.28] died, message: 'Armorer was killed'
+[07Dec2024 14:08:07.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8952, l='ServerLevel[world]', x=59.55, y=13.00, z=136.53] died, message: 'Armorer was killed'
+[07Dec2024 14:08:07.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8954, l='ServerLevel[world]', x=35.53, y=13.00, z=130.51] died, message: 'Armorer was killed'
