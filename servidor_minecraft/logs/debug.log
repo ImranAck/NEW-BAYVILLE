@@ -9282,3 +9282,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 16:54:54.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o3k6k5qdsvfa]: started parsing
 [07Dec2024 16:54:54.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o3k6k5qdsvfa]: Consuming argument `smooth_stone_slab`
 [07Dec2024 16:54:54.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o3k6k5qdsvfa]: Finished looking at arguments. Finalizing command.
+[07Dec2024 16:59:27.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 16:59:27.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 17:04:27.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 17:04:27.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

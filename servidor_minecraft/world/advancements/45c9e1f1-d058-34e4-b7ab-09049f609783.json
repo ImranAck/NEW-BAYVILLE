@@ -4222,15 +4222,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_brick_stairs_from_reinforced_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_bricks": "2024-12-07 17:01:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-07 16:48:46 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_brick_slab": {
+    "criteria": {
+      "has_block": "2024-12-07 17:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-07 17:02:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-07 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brick_wall_from_reinforced_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_bricks": "2024-12-07 17:01:17 +0000"
     },
     "done": true
   },
@@ -4252,9 +4276,51 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_brick_slab_from_reinforced_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_bricks": "2024-12-07 17:01:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brick_wall": {
+    "criteria": {
+      "has_block": "2024-12-07 17:01:17 +0000"
+    },
+    "done": true
+  },
   "trafficcraft:manhole": {
     "criteria": {
       "requirement": "2024-12-07 16:53:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-07 17:03:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brick_stairs": {
+    "criteria": {
+      "has_block": "2024-12-07 17:01:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-07 17:03:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-07 17:01:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-07 17:01:04 +0000"
     },
     "done": true
   },
