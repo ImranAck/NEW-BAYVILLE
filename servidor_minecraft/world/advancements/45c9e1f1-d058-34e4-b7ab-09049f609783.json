@@ -3964,9 +3964,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/secure_redstone_interface": {
+    "criteria": {
+      "has_radar": "2024-12-07 15:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-07 14:32:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/ims": {
+    "criteria": {
+      "has_radar": "2024-12-07 15:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-07 15:20:36 +0000"
     },
     "done": true
   },
