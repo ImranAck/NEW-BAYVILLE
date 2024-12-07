@@ -3670,9 +3670,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-07 11:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2024-12-07 11:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-07 11:28:22 +0000"
     },
     "done": true
   },
@@ -3697,6 +3709,12 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2024-12-07 11:17:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-12-07 11:24:04 +0000"
     },
     "done": true
   },

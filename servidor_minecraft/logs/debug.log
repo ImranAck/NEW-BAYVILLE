@@ -5990,3 +5990,385 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 11:26:52.170] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wqtc0536vdpb]: Finished looking at arguments. Finalizing command.
 [07Dec2024 11:26:56.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rl5b245lu8lz]: started parsing
 [07Dec2024 11:26:56.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rl5b245lu8lz]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:27:24.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 11:27:24.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 11:28:30.590] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gle5c8j67h4h]: started parsing
+[07Dec2024 11:28:30.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gle5c8j67h4h]: Consuming argument ``
+[07Dec2024 11:28:31.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j8nsziuyj4bp]: started parsing
+[07Dec2024 11:28:31.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j8nsziuyj4bp]: Consuming argument `y`
+[07Dec2024 11:28:32.007] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [071v2kuxrm4qn]: started parsing
+[07Dec2024 11:28:32.007] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [071v2kuxrm4qn]: Consuming argument `ye`
+[07Dec2024 11:28:32.489] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xb3zjxmp95wt]: started parsing
+[07Dec2024 11:28:32.489] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xb3zjxmp95wt]: Consuming argument `y`
+[07Dec2024 11:28:32.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0920e3ysu03l2]: started parsing
+[07Dec2024 11:28:32.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0920e3ysu03l2]: Consuming argument ``
+[07Dec2024 11:28:33.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00bqh2fgbou7f]: started parsing
+[07Dec2024 11:28:33.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00bqh2fgbou7f]: Consuming argument `g`
+[07Dec2024 11:28:33.324] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09jupjtpni3fp]: started parsing
+[07Dec2024 11:28:33.324] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09jupjtpni3fp]: Consuming argument `gr`
+[07Dec2024 11:28:33.638] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l42rf3ivdtfe]: started parsing
+[07Dec2024 11:28:33.638] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l42rf3ivdtfe]: Consuming argument `gra`
+[07Dec2024 11:28:33.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xsg7r3oa491r]: started parsing
+[07Dec2024 11:28:33.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xsg7r3oa491r]: Consuming argument `gray`
+[07Dec2024 11:28:33.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xsg7r3oa491r]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:28:34.666] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tpe4xi4l8z08]: started parsing
+[07Dec2024 11:28:34.666] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tpe4xi4l8z08]: Consuming argument `gra`
+[07Dec2024 11:28:34.791] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01tgi3m8yqiol]: started parsing
+[07Dec2024 11:28:34.791] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01tgi3m8yqiol]: Consuming argument `gr`
+[07Dec2024 11:28:34.917] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0diym4qygcsc9]: started parsing
+[07Dec2024 11:28:34.917] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0diym4qygcsc9]: Consuming argument `g`
+[07Dec2024 11:28:35.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1glp1xsobefws]: started parsing
+[07Dec2024 11:28:35.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1glp1xsobefws]: Consuming argument ``
+[07Dec2024 11:28:35.741] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gpp0cwkmt6ue]: started parsing
+[07Dec2024 11:28:35.741] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gpp0cwkmt6ue]: Consuming argument `t`
+[07Dec2024 11:28:35.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1coy26kv3j2n1]: started parsing
+[07Dec2024 11:28:35.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1coy26kv3j2n1]: Consuming argument `te`
+[07Dec2024 11:28:36.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nb0j4qluupgp]: started parsing
+[07Dec2024 11:28:36.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nb0j4qluupgp]: Consuming argument `ter`
+[07Dec2024 11:28:37.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bfle811hb5f7]: started parsing
+[07Dec2024 11:28:37.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bfle811hb5f7]: Consuming argument `terracotta`
+[07Dec2024 11:28:37.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bfle811hb5f7]: Consuming argument ``
+[07Dec2024 11:28:38.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0emdqjxwtbv8d]: started parsing
+[07Dec2024 11:28:38.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0emdqjxwtbv8d]: Consuming argument `terracotta`
+[07Dec2024 11:28:38.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0emdqjxwtbv8d]: Consuming argument `s`
+[07Dec2024 11:28:39.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09heg23n6k4jl]: started parsing
+[07Dec2024 11:28:39.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09heg23n6k4jl]: Consuming argument `terracotta`
+[07Dec2024 11:28:39.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09heg23n6k4jl]: Consuming argument `sa`
+[07Dec2024 11:28:48.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bqihqg0yhg0j]: started parsing
+[07Dec2024 11:28:48.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bqihqg0yhg0j]: Consuming argument `terracotta`
+[07Dec2024 11:28:48.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bqihqg0yhg0j]: Consuming argument `saros_road_blocks_mod:`
+[07Dec2024 11:28:48.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hqqpr78alton]: started parsing
+[07Dec2024 11:28:48.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hqqpr78alton]: Consuming argument `terracotta`
+[07Dec2024 11:28:48.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hqqpr78alton]: Consuming argument `saros_road_blocks_mod:`
+[07Dec2024 11:28:48.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kcoczhukh5fl]: started parsing
+[07Dec2024 11:28:48.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kcoczhukh5fl]: Consuming argument `terracotta`
+[07Dec2024 11:28:48.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kcoczhukh5fl]: Consuming argument `saros_road_blocks_mod:a`
+[07Dec2024 11:28:50.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rfguttf20e16]: started parsing
+[07Dec2024 11:28:50.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rfguttf20e16]: Consuming argument `terracotta`
+[07Dec2024 11:28:50.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rfguttf20e16]: Consuming argument `saros_road_blocks_mod:asphalt`
+[07Dec2024 11:28:50.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rfguttf20e16]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:28:52.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bm8jlzw4h80k]: started parsing
+[07Dec2024 11:28:52.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bm8jlzw4h80k]: Consuming argument `terracotta`
+[07Dec2024 11:28:52.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bm8jlzw4h80k]: Consuming argument `saros_road_blocks_mod:asphalt`
+[07Dec2024 11:28:52.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bm8jlzw4h80k]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:28:52.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hs5mhjwwj4jb]: started parsing
+[07Dec2024 11:28:52.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hs5mhjwwj4jb]: Consuming argument `terracotta`
+[07Dec2024 11:28:52.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hs5mhjwwj4jb]: Consuming argument `saros_road_blocks_mod:asphalt`
+[07Dec2024 11:28:52.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hs5mhjwwj4jb]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:28:54.260] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03r71g38v6dsv]: started parsing
+[07Dec2024 11:28:54.260] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03r71g38v6dsv]: Consuming argument `terracotta`
+[07Dec2024 11:28:54.260] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03r71g38v6dsv]: Consuming argument `saros_road_blocks_mod:asphal`
+[07Dec2024 11:28:54.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pu4ajygzcfpl]: started parsing
+[07Dec2024 11:28:54.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pu4ajygzcfpl]: Consuming argument `terracotta`
+[07Dec2024 11:28:54.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pu4ajygzcfpl]: Consuming argument `saros_road_blocks_mod:aspha`
+[07Dec2024 11:28:54.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10brjyvjwzip7]: started parsing
+[07Dec2024 11:28:54.813] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10brjyvjwzip7]: Consuming argument `terracotta`
+[07Dec2024 11:28:54.813] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10brjyvjwzip7]: Consuming argument `saros_road_blocks_mod:asph`
+[07Dec2024 11:28:54.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aqdxgdpbcus0]: started parsing
+[07Dec2024 11:28:54.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aqdxgdpbcus0]: Consuming argument `terracotta`
+[07Dec2024 11:28:54.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aqdxgdpbcus0]: Consuming argument `saros_road_blocks_mod:asp`
+[07Dec2024 11:28:54.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17mw7b3jr38qp]: started parsing
+[07Dec2024 11:28:54.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17mw7b3jr38qp]: Consuming argument `terracotta`
+[07Dec2024 11:28:54.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17mw7b3jr38qp]: Consuming argument `saros_road_blocks_mod:as`
+[07Dec2024 11:28:54.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iw62gbq6iqvp]: started parsing
+[07Dec2024 11:28:54.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iw62gbq6iqvp]: Consuming argument `terracotta`
+[07Dec2024 11:28:54.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iw62gbq6iqvp]: Consuming argument `saros_road_blocks_mod:a`
+[07Dec2024 11:28:54.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1teffk9ewgkmu]: started parsing
+[07Dec2024 11:28:54.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1teffk9ewgkmu]: Consuming argument `terracotta`
+[07Dec2024 11:28:54.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1teffk9ewgkmu]: Consuming argument `saros_road_blocks_mod:`
+[07Dec2024 11:28:54.991] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sg10sj61kh48]: started parsing
+[07Dec2024 11:28:54.991] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sg10sj61kh48]: Consuming argument `terracotta`
+[07Dec2024 11:28:54.991] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sg10sj61kh48]: Consuming argument `saros_road_blocks_mod`
+[07Dec2024 11:28:55.012] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oo4xn3bboze9]: started parsing
+[07Dec2024 11:28:55.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oo4xn3bboze9]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oo4xn3bboze9]: Consuming argument `saros_road_blocks_mo`
+[07Dec2024 11:28:55.046] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tw67gs0ofmfc]: started parsing
+[07Dec2024 11:28:55.046] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tw67gs0ofmfc]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.046] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tw67gs0ofmfc]: Consuming argument `saros_road_blocks_m`
+[07Dec2024 11:28:55.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g1o80ghz99ts]: started parsing
+[07Dec2024 11:28:55.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g1o80ghz99ts]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g1o80ghz99ts]: Consuming argument `saros_road_blocks_`
+[07Dec2024 11:28:55.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sievhal4urgj]: started parsing
+[07Dec2024 11:28:55.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sievhal4urgj]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sievhal4urgj]: Consuming argument `saros_road_blocks`
+[07Dec2024 11:28:55.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19n88qrxj7zf7]: started parsing
+[07Dec2024 11:28:55.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19n88qrxj7zf7]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19n88qrxj7zf7]: Consuming argument `saros_road_block`
+[07Dec2024 11:28:55.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztegvb8s8252]: started parsing
+[07Dec2024 11:28:55.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztegvb8s8252]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztegvb8s8252]: Consuming argument `saros_road_bloc`
+[07Dec2024 11:28:55.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jhe0fup72c31]: started parsing
+[07Dec2024 11:28:55.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jhe0fup72c31]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jhe0fup72c31]: Consuming argument `saros_road_blo`
+[07Dec2024 11:28:55.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2mfays0qsok]: started parsing
+[07Dec2024 11:28:55.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2mfays0qsok]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2mfays0qsok]: Consuming argument `saros_road_bl`
+[07Dec2024 11:28:55.269] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091vancmqmk3l]: started parsing
+[07Dec2024 11:28:55.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091vancmqmk3l]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091vancmqmk3l]: Consuming argument `saros_road_b`
+[07Dec2024 11:28:55.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c6a9yvjf6mwb]: started parsing
+[07Dec2024 11:28:55.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c6a9yvjf6mwb]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c6a9yvjf6mwb]: Consuming argument `saros_road_`
+[07Dec2024 11:28:55.341] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iry8qjr4u03s]: started parsing
+[07Dec2024 11:28:55.341] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iry8qjr4u03s]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.341] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iry8qjr4u03s]: Consuming argument `saros_road`
+[07Dec2024 11:28:55.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rihe15t5ycup]: started parsing
+[07Dec2024 11:28:55.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rihe15t5ycup]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rihe15t5ycup]: Consuming argument `saros_roa`
+[07Dec2024 11:28:55.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rwn6lzkjjj9u]: started parsing
+[07Dec2024 11:28:55.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rwn6lzkjjj9u]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rwn6lzkjjj9u]: Consuming argument `saros_ro`
+[07Dec2024 11:28:55.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ulyb8jwp7zfm]: started parsing
+[07Dec2024 11:28:55.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ulyb8jwp7zfm]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.440] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ulyb8jwp7zfm]: Consuming argument `saros_r`
+[07Dec2024 11:28:55.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0avmzfqfntii9]: started parsing
+[07Dec2024 11:28:55.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0avmzfqfntii9]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0avmzfqfntii9]: Consuming argument `saros_`
+[07Dec2024 11:28:55.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l5i0c3fz5uht]: started parsing
+[07Dec2024 11:28:55.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l5i0c3fz5uht]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l5i0c3fz5uht]: Consuming argument `saros`
+[07Dec2024 11:28:55.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mm4e6n40xfp]: started parsing
+[07Dec2024 11:28:55.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mm4e6n40xfp]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mm4e6n40xfp]: Consuming argument `saro`
+[07Dec2024 11:28:55.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m7culk7okhdm]: started parsing
+[07Dec2024 11:28:55.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m7culk7okhdm]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m7culk7okhdm]: Consuming argument `sar`
+[07Dec2024 11:28:55.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fv2l1ypwn8qe]: started parsing
+[07Dec2024 11:28:55.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fv2l1ypwn8qe]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fv2l1ypwn8qe]: Consuming argument `sa`
+[07Dec2024 11:28:55.645] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btggokoj6fey]: started parsing
+[07Dec2024 11:28:55.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btggokoj6fey]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btggokoj6fey]: Consuming argument `s`
+[07Dec2024 11:28:55.663] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pduag06rggkr]: started parsing
+[07Dec2024 11:28:55.663] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pduag06rggkr]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.664] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pduag06rggkr]: Consuming argument ``
+[07Dec2024 11:28:55.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s9fx7xzf0r7f]: started parsing
+[07Dec2024 11:28:55.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s9fx7xzf0r7f]: Consuming argument `terracotta`
+[07Dec2024 11:28:55.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s9fx7xzf0r7f]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:28:55.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fmszzs781ct5]: started parsing
+[07Dec2024 11:28:55.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fmszzs781ct5]: Consuming argument `terracott`
+[07Dec2024 11:28:55.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18wva58v9q049]: started parsing
+[07Dec2024 11:28:55.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18wva58v9q049]: Consuming argument `terracot`
+[07Dec2024 11:28:55.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p35foxm1vihs]: started parsing
+[07Dec2024 11:28:55.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p35foxm1vihs]: Consuming argument `terraco`
+[07Dec2024 11:28:55.839] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d5fe4wo61t2h]: started parsing
+[07Dec2024 11:28:55.839] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d5fe4wo61t2h]: Consuming argument `terrac`
+[07Dec2024 11:28:55.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17phut5ugmeaa]: started parsing
+[07Dec2024 11:28:55.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17phut5ugmeaa]: Consuming argument `terra`
+[07Dec2024 11:29:00.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s24iv2ujyzcm]: started parsing
+[07Dec2024 11:29:00.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s24iv2ujyzcm]: Consuming argument `terracotta`
+[07Dec2024 11:29:00.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s24iv2ujyzcm]: Consuming argument `saros_road_blocks_mod:asphalt`
+[07Dec2024 11:29:00.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s24iv2ujyzcm]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:29:00.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11811q7xm41re]: started parsing
+[07Dec2024 11:29:00.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11811q7xm41re]: Consuming argument `terracotta`
+[07Dec2024 11:29:00.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11811q7xm41re]: Consuming argument `saros_road_blocks_mod:asphalt`
+[07Dec2024 11:29:00.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11811q7xm41re]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:29:01.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n1cn8j0wvirf]: started parsing
+[07Dec2024 11:29:01.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n1cn8j0wvirf]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n1cn8j0wvirf]: Consuming argument `saros_road_blocks_mod:asphal`
+[07Dec2024 11:29:01.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iycvm1faqgp2]: started parsing
+[07Dec2024 11:29:01.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iycvm1faqgp2]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iycvm1faqgp2]: Consuming argument `saros_road_blocks_mod:aspha`
+[07Dec2024 11:29:01.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eonsrj5cfclc]: started parsing
+[07Dec2024 11:29:01.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eonsrj5cfclc]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eonsrj5cfclc]: Consuming argument `saros_road_blocks_mod:asph`
+[07Dec2024 11:29:01.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o40quzottsob]: started parsing
+[07Dec2024 11:29:01.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o40quzottsob]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o40quzottsob]: Consuming argument `saros_road_blocks_mod:asp`
+[07Dec2024 11:29:01.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jmj1b18r3exm]: started parsing
+[07Dec2024 11:29:01.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jmj1b18r3exm]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jmj1b18r3exm]: Consuming argument `saros_road_blocks_mod:as`
+[07Dec2024 11:29:01.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1438l8lxptyzj]: started parsing
+[07Dec2024 11:29:01.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1438l8lxptyzj]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1438l8lxptyzj]: Consuming argument `saros_road_blocks_mod:a`
+[07Dec2024 11:29:01.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1us18p4gaxdq8]: started parsing
+[07Dec2024 11:29:01.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1us18p4gaxdq8]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1us18p4gaxdq8]: Consuming argument `saros_road_blocks_mod:`
+[07Dec2024 11:29:01.817] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07eplex9cm2s9]: started parsing
+[07Dec2024 11:29:01.817] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07eplex9cm2s9]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.817] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07eplex9cm2s9]: Consuming argument `saros_road_blocks_mod`
+[07Dec2024 11:29:01.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [098gjmh7zrm9s]: started parsing
+[07Dec2024 11:29:01.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [098gjmh7zrm9s]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [098gjmh7zrm9s]: Consuming argument `saros_road_blocks_mo`
+[07Dec2024 11:29:01.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15so8x1mld83p]: started parsing
+[07Dec2024 11:29:01.876] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15so8x1mld83p]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.876] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15so8x1mld83p]: Consuming argument `saros_road_blocks_m`
+[07Dec2024 11:29:01.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oavq1l23mwtn]: started parsing
+[07Dec2024 11:29:01.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oavq1l23mwtn]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.917] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oavq1l23mwtn]: Consuming argument `saros_road_blocks_`
+[07Dec2024 11:29:01.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0urr7216egd4k]: started parsing
+[07Dec2024 11:29:01.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0urr7216egd4k]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0urr7216egd4k]: Consuming argument `saros_road_blocks`
+[07Dec2024 11:29:01.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dp71zdyxtvpn]: started parsing
+[07Dec2024 11:29:01.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dp71zdyxtvpn]: Consuming argument `terracotta`
+[07Dec2024 11:29:01.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dp71zdyxtvpn]: Consuming argument `saros_road_block`
+[07Dec2024 11:29:02.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e9htkfehb7tc]: started parsing
+[07Dec2024 11:29:02.017] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e9htkfehb7tc]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.017] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e9htkfehb7tc]: Consuming argument `saros_road_bloc`
+[07Dec2024 11:29:02.043] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgpg4jqv70en]: started parsing
+[07Dec2024 11:29:02.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgpg4jqv70en]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgpg4jqv70en]: Consuming argument `saros_road_blo`
+[07Dec2024 11:29:02.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1df0fg83u8ndb]: started parsing
+[07Dec2024 11:29:02.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1df0fg83u8ndb]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.074] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1df0fg83u8ndb]: Consuming argument `saros_road_bl`
+[07Dec2024 11:29:02.108] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t8sgh0g8sjje]: started parsing
+[07Dec2024 11:29:02.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t8sgh0g8sjje]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t8sgh0g8sjje]: Consuming argument `saros_road_b`
+[07Dec2024 11:29:02.139] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rhlw2n27wdxc]: started parsing
+[07Dec2024 11:29:02.140] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rhlw2n27wdxc]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.140] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rhlw2n27wdxc]: Consuming argument `saros_road_`
+[07Dec2024 11:29:02.173] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kf4cixpnpvrp]: started parsing
+[07Dec2024 11:29:02.173] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kf4cixpnpvrp]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.173] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kf4cixpnpvrp]: Consuming argument `saros_road`
+[07Dec2024 11:29:02.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0evetqnocgriw]: started parsing
+[07Dec2024 11:29:02.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0evetqnocgriw]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0evetqnocgriw]: Consuming argument `saros_roa`
+[07Dec2024 11:29:02.239] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12fo5529drbk9]: started parsing
+[07Dec2024 11:29:02.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12fo5529drbk9]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12fo5529drbk9]: Consuming argument `saros_ro`
+[07Dec2024 11:29:02.277] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fg39p5xyttl3]: started parsing
+[07Dec2024 11:29:02.277] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fg39p5xyttl3]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.277] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fg39p5xyttl3]: Consuming argument `saros_r`
+[07Dec2024 11:29:02.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gu8gebczhg0f]: started parsing
+[07Dec2024 11:29:02.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gu8gebczhg0f]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gu8gebczhg0f]: Consuming argument `saros_`
+[07Dec2024 11:29:02.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q5i1aqliwylb]: started parsing
+[07Dec2024 11:29:02.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q5i1aqliwylb]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q5i1aqliwylb]: Consuming argument `saros`
+[07Dec2024 11:29:02.388] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ci53enxkyery]: started parsing
+[07Dec2024 11:29:02.388] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ci53enxkyery]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.388] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ci53enxkyery]: Consuming argument `saro`
+[07Dec2024 11:29:02.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b92uz0ezxphv]: started parsing
+[07Dec2024 11:29:02.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b92uz0ezxphv]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b92uz0ezxphv]: Consuming argument `sar`
+[07Dec2024 11:29:02.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p2eimbn5lt7b]: started parsing
+[07Dec2024 11:29:02.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p2eimbn5lt7b]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p2eimbn5lt7b]: Consuming argument `sa`
+[07Dec2024 11:29:02.477] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [191jsw9qxnz6j]: started parsing
+[07Dec2024 11:29:02.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [191jsw9qxnz6j]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [191jsw9qxnz6j]: Consuming argument `s`
+[07Dec2024 11:29:02.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16isdlyxhckkq]: started parsing
+[07Dec2024 11:29:02.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16isdlyxhckkq]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16isdlyxhckkq]: Consuming argument ``
+[07Dec2024 11:29:02.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c1kbbjjjn7pr]: started parsing
+[07Dec2024 11:29:02.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c1kbbjjjn7pr]: Consuming argument `terracotta`
+[07Dec2024 11:29:02.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c1kbbjjjn7pr]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:29:02.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [041vr72gcvrh3]: started parsing
+[07Dec2024 11:29:02.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [041vr72gcvrh3]: Consuming argument `terracott`
+[07Dec2024 11:29:02.613] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xy95hzlm1xxb]: started parsing
+[07Dec2024 11:29:02.614] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xy95hzlm1xxb]: Consuming argument `terracot`
+[07Dec2024 11:29:02.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nu8nhau9aibz]: started parsing
+[07Dec2024 11:29:02.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nu8nhau9aibz]: Consuming argument `terraco`
+[07Dec2024 11:29:02.677] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sj0swm8tq32l]: started parsing
+[07Dec2024 11:29:02.677] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sj0swm8tq32l]: Consuming argument `terrac`
+[07Dec2024 11:29:02.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03j40bza5qhcc]: started parsing
+[07Dec2024 11:29:02.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03j40bza5qhcc]: Consuming argument `terra`
+[07Dec2024 11:29:02.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13jmgkdz4klnh]: started parsing
+[07Dec2024 11:29:02.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13jmgkdz4klnh]: Consuming argument `terr`
+[07Dec2024 11:29:02.775] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [172z8e0fhu15l]: started parsing
+[07Dec2024 11:29:02.775] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [172z8e0fhu15l]: Consuming argument `ter`
+[07Dec2024 11:29:02.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09l85am8aq17p]: started parsing
+[07Dec2024 11:29:02.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09l85am8aq17p]: Consuming argument `te`
+[07Dec2024 11:29:03.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [099tjszhsnd2g]: started parsing
+[07Dec2024 11:29:03.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [099tjszhsnd2g]: Consuming argument `t`
+[07Dec2024 11:29:03.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d08v0ggcg177]: started parsing
+[07Dec2024 11:29:03.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d08v0ggcg177]: Consuming argument ``
+[07Dec2024 11:29:04.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02qzkjzutiwon]: started parsing
+[07Dec2024 11:29:04.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02qzkjzutiwon]: Consuming argument `g`
+[07Dec2024 11:29:04.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj2tjbicbdst]: started parsing
+[07Dec2024 11:29:04.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj2tjbicbdst]: Consuming argument `gr`
+[07Dec2024 11:29:05.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02280cwa52805]: started parsing
+[07Dec2024 11:29:05.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02280cwa52805]: Consuming argument `gra`
+[07Dec2024 11:29:06.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06uk1d4fm6btv]: started parsing
+[07Dec2024 11:29:06.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06uk1d4fm6btv]: Consuming argument `grat`
+[07Dec2024 11:29:07.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q8omswbrwelm]: started parsing
+[07Dec2024 11:29:07.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q8omswbrwelm]: Consuming argument `grat_`
+[07Dec2024 11:29:08.309] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1803j1amn73hm]: started parsing
+[07Dec2024 11:29:08.309] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1803j1amn73hm]: Consuming argument `grat`
+[07Dec2024 11:29:08.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o5y99loozq9d]: started parsing
+[07Dec2024 11:29:08.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o5y99loozq9d]: Consuming argument `gra`
+[07Dec2024 11:29:09.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtquk7mijdyn]: started parsing
+[07Dec2024 11:29:09.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtquk7mijdyn]: Consuming argument `gray`
+[07Dec2024 11:29:09.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtquk7mijdyn]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:29:09.987] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yut76h3xv6ad]: started parsing
+[07Dec2024 11:29:09.987] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yut76h3xv6ad]: Consuming argument `gray_`
+[07Dec2024 11:29:12.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z2pg455xgayq]: started parsing
+[07Dec2024 11:29:12.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z2pg455xgayq]: Consuming argument `gray_terracotta`
+[07Dec2024 11:29:12.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z2pg455xgayq]: Consuming argument `saros_road_blocks_mod:asphalt`
+[07Dec2024 11:29:12.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z2pg455xgayq]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:32:13.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/37323, l='ServerLevel[world]', x=52.50, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 11:32:13.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/37325, l='ServerLevel[world]', x=38.28, y=13.00, z=127.52] died, message: 'Armorer was killed'
+[07Dec2024 11:32:24.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 11:32:24.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 11:33:52.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38157, l='ServerLevel[world]', x=53.83, y=13.00, z=127.45] died, message: 'Armorer was killed'
+[07Dec2024 11:33:52.830] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38159, l='ServerLevel[world]', x=49.51, y=13.00, z=121.24] died, message: 'Armorer was killed'
+[07Dec2024 11:34:30.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ah697ef4gkoi]: started parsing
+[07Dec2024 11:34:30.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ah697ef4gkoi]: Consuming argument ``
+[07Dec2024 11:34:31.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hmljhf2swd2p]: started parsing
+[07Dec2024 11:34:31.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hmljhf2swd2p]: Consuming argument `a`
+[07Dec2024 11:34:31.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0er8ui1al8n03]: started parsing
+[07Dec2024 11:34:31.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0er8ui1al8n03]: Consuming argument `ai`
+[07Dec2024 11:34:32.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nhh5ryjsccah]: started parsing
+[07Dec2024 11:34:32.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nhh5ryjsccah]: Consuming argument `air`
+[07Dec2024 11:34:32.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nhh5ryjsccah]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:34:32.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xm2bun2py309]: started parsing
+[07Dec2024 11:34:32.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xm2bun2py309]: Consuming argument `air`
+[07Dec2024 11:34:32.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xm2bun2py309]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:34:41.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38659, l='ServerLevel[world]', x=59.50, y=13.00, z=135.06] died, message: 'Armorer was killed'
+[07Dec2024 11:34:41.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38661, l='ServerLevel[world]', x=29.25, y=13.00, z=130.83] died, message: 'Armorer was killed'
+[07Dec2024 11:34:44.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tjcr3a9ismun]: started parsing
+[07Dec2024 11:34:44.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tjcr3a9ismun]: Consuming argument `air`
+[07Dec2024 11:34:44.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tjcr3a9ismun]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:34:44.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m3ndssm80j1g]: started parsing
+[07Dec2024 11:34:44.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m3ndssm80j1g]: Consuming argument `air`
+[07Dec2024 11:34:44.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m3ndssm80j1g]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:34:44.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09odyzfh87y7q]: started parsing
+[07Dec2024 11:34:44.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09odyzfh87y7q]: Consuming argument `air`
+[07Dec2024 11:34:44.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09odyzfh87y7q]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:34:58.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vfpxt5rzk07d]: started parsing
+[07Dec2024 11:34:58.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vfpxt5rzk07d]: Consuming argument `air`
+[07Dec2024 11:34:58.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vfpxt5rzk07d]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:34:58.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d0y4zhwpvi4o]: started parsing
+[07Dec2024 11:34:58.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d0y4zhwpvi4o]: Consuming argument `air`
+[07Dec2024 11:34:58.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d0y4zhwpvi4o]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:34:59.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [055118qiglcmk]: started parsing
+[07Dec2024 11:34:59.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [055118qiglcmk]: Consuming argument `air`
+[07Dec2024 11:34:59.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [055118qiglcmk]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:35:02.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1speilmjyyvov]: started parsing
+[07Dec2024 11:35:02.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1speilmjyyvov]: Consuming argument `air`
+[07Dec2024 11:35:02.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1speilmjyyvov]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:35:02.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q7g1zuqjtuf1]: started parsing
+[07Dec2024 11:35:02.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q7g1zuqjtuf1]: Consuming argument `air`
+[07Dec2024 11:35:02.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q7g1zuqjtuf1]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:35:02.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03kabq68tt5ez]: started parsing
+[07Dec2024 11:35:02.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03kabq68tt5ez]: Consuming argument `air`
+[07Dec2024 11:35:02.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03kabq68tt5ez]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:35:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06f2bptrtcx15]: started parsing
+[07Dec2024 11:35:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06f2bptrtcx15]: Consuming argument `air`
+[07Dec2024 11:35:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06f2bptrtcx15]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:35:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h502zj7xtyoj]: started parsing
+[07Dec2024 11:35:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h502zj7xtyoj]: Consuming argument `air`
+[07Dec2024 11:35:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h502zj7xtyoj]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:35:13.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t27rulopqti]: started parsing
+[07Dec2024 11:35:13.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t27rulopqti]: Consuming argument `air`
+[07Dec2024 11:35:13.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t27rulopqti]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:35:32.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fg8ewpe4g872]: started parsing
+[07Dec2024 11:35:32.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fg8ewpe4g872]: Consuming argument `air`
+[07Dec2024 11:35:32.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fg8ewpe4g872]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:35:32.535] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i74kgqojntwd]: started parsing
+[07Dec2024 11:35:32.535] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i74kgqojntwd]: Consuming argument `air`
+[07Dec2024 11:35:32.535] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i74kgqojntwd]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:35:33.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ack8xl8jjyw9]: started parsing
+[07Dec2024 11:35:33.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ack8xl8jjyw9]: Consuming argument `air`
+[07Dec2024 11:35:33.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ack8xl8jjyw9]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:36:08.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/39262, l='ServerLevel[world]', x=56.95, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[07Dec2024 11:36:08.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/39264, l='ServerLevel[world]', x=42.50, y=13.00, z=127.52] died, message: 'Armorer was killed'
+[07Dec2024 11:36:12.037] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t1vp63airf4l]: started parsing
+[07Dec2024 11:36:12.037] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t1vp63airf4l]: Consuming argument `air`
+[07Dec2024 11:36:12.037] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t1vp63airf4l]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:36:12.040] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jon9x706anw9]: started parsing
+[07Dec2024 11:36:12.040] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jon9x706anw9]: Consuming argument `air`
+[07Dec2024 11:36:12.040] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jon9x706anw9]: Finished looking at arguments. Finalizing command.
+[07Dec2024 11:36:12.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m2doo0cppwu7]: started parsing
+[07Dec2024 11:36:12.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m2doo0cppwu7]: Consuming argument `air`
+[07Dec2024 11:36:12.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m2doo0cppwu7]: Finished looking at arguments. Finalizing command.

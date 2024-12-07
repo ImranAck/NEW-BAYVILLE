@@ -773,3 +773,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 11:25:09.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
 [07Dec2024 11:25:35.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
 [07Dec2024 11:26:03.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[07Dec2024 11:32:13.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/37323, l='ServerLevel[world]', x=52.50, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 11:32:13.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/37325, l='ServerLevel[world]', x=38.28, y=13.00, z=127.52] died, message: 'Armorer was killed'
+[07Dec2024 11:33:52.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38157, l='ServerLevel[world]', x=53.83, y=13.00, z=127.45] died, message: 'Armorer was killed'
+[07Dec2024 11:33:52.830] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38159, l='ServerLevel[world]', x=49.51, y=13.00, z=121.24] died, message: 'Armorer was killed'
+[07Dec2024 11:34:41.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38659, l='ServerLevel[world]', x=59.50, y=13.00, z=135.06] died, message: 'Armorer was killed'
+[07Dec2024 11:34:41.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38661, l='ServerLevel[world]', x=29.25, y=13.00, z=130.83] died, message: 'Armorer was killed'
+[07Dec2024 11:36:08.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/39262, l='ServerLevel[world]', x=56.95, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[07Dec2024 11:36:08.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/39264, l='ServerLevel[world]', x=42.50, y=13.00, z=127.52] died, message: 'Armorer was killed'
