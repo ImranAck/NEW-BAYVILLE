@@ -825,3 +825,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 12:04:41.729] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/43762, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
 [07Dec2024 12:04:51.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
 [07Dec2024 12:04:51.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[07Dec2024 12:27:20.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:34583] logged in with entity id 44154 at (35.28573736042633, 31.57634025049707, 66.54803771671713)
+[07Dec2024 12:27:20.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
