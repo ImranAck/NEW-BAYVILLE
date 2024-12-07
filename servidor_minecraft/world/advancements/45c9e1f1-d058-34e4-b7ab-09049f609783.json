@@ -3670,6 +3670,78 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-07 11:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-07 11:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-07 11:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-07 11:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-07 11:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-07 11:17:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-07 11:24:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-12-07 11:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-07 11:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-07 11:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-07 11:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-07 11:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-07 11:38:13 +0000"
@@ -3685,12 +3757,6 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-07 11:38:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
-    "criteria": {
-      "has_sweet_berries": "2024-12-07 11:24:04 +0000"
     },
     "done": true
   },
@@ -3730,12 +3796,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2024-12-07 11:17:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-07 11:38:13 +0000"
@@ -3745,30 +3805,6 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2024-12-07 11:38:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_glazed_terracotta": {
-    "criteria": {
-      "has_gray_terracotta": "2024-12-07 11:28:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2024-12-07 11:17:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-07 11:33:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2024-12-07 11:17:29 +0000"
     },
     "done": true
   },
@@ -3790,27 +3826,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2024-12-07 11:17:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-07 11:38:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-07 11:33:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-07 11:33:43 +0000"
     },
     "done": true
   },
@@ -3820,21 +3838,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2024-12-07 11:17:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-07 11:38:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2024-12-07 11:24:04 +0000"
     },
     "done": true
   },
@@ -3856,9 +3862,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "trafficcraft:assign_traffic_sign_pattern": {
     "criteria": {
-      "has_red_wool": "2024-12-07 11:17:29 +0000"
+      "req": "2024-12-07 11:55:52 +0000"
+    },
+    "done": true
+  },
+  "trafficcraft:traffic_sign": {
+    "criteria": {
+      "requirement": "2024-12-07 11:54:56 +0000"
+    },
+    "done": true
+  },
+  "trafficcraft:delineator": {
+    "criteria": {
+      "requirement": "2024-12-07 12:02:48 +0000"
     },
     "done": true
   },
