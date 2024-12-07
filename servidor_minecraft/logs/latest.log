@@ -760,3 +760,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 11:03:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
 [07Dec2024 11:05:39.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
 [07Dec2024 11:05:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 11:10:08.183] [WorldEdit Task Executor - 8/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Imranack loaded /workspaces/NEW-BAYVILLE/servidor_minecraft/config/worldedit/schematics/LIDLSCHEMATIC.schematic
+[07Dec2024 11:10:55.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[07Dec2024 11:12:46.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[07Dec2024 11:13:10.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[07Dec2024 11:14:06.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/19020, l='ServerLevel[world]', x=95.50, y=13.10, z=-57.58] died, message: 'Fisherman was killed'
+[07Dec2024 11:14:07.632] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/19022, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 11:15:45.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Changed the block at 25, 51, -36]
