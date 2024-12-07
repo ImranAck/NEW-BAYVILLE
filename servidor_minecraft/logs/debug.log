@@ -6997,3 +6997,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 12:37:25.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46491, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
 [07Dec2024 12:37:32.030] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46493, l='ServerLevel[world]', x=92.57, y=14.10, z=-53.25] died, message: 'Fisherman was killed'
 [07Dec2024 12:37:36.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46495, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:40:25.932] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46497, l='ServerLevel[world]', x=93.35, y=11.10, z=-54.40] died, message: 'Fisherman was killed'
+[07Dec2024 12:40:27.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46501, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:40:30.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46503, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:40:43.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46505, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:42:20.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46510, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:42:24.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 12:42:24.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 12:43:31.280] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46512, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:43:33.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46514, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:45:18.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46517, l='ServerLevel[world]', x=96.43, y=13.10, z=-56.38] died, message: 'Fisherman was killed'
+[07Dec2024 12:45:28.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46519, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:45:32.431] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46521, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:45:48.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46523, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:46:27.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46526, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 12:47:24.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 12:47:24.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 12:47:46.830] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46531, l='ServerLevel[world]', x=96.55, y=13.10, z=-59.55] died, message: 'Fisherman was killed'
