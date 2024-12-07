@@ -682,3 +682,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 10:23:10.815] [WorldEdit Task Executor - 6/WARN] [com.sk89q.worldedit.extent.clipboard.io.SpongeSchematicReader/]: Invalid BlockState in palette: minecraft:tuff_wall[east=none,waterlogged=false,south=tall,north=tall,west=none,up=true]. Block will be replaced with air.
 [07Dec2024 10:23:10.815] [WorldEdit Task Executor - 6/WARN] [com.sk89q.worldedit.extent.clipboard.io.SpongeSchematicReader/]: Invalid BlockState in palette: minecraft:tuff_wall[east=none,waterlogged=false,south=none,north=none,west=none,up=true]. Block will be replaced with air.
 [07Dec2024 10:23:10.823] [WorldEdit Task Executor - 6/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Imranack loaded /workspaces/NEW-BAYVILLE/servidor_minecraft/config/worldedit/schematics/Alte_Reichsbank_Hamburg_by_SugarJerry.schem
+[07Dec2024 10:42:15.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 10:42:23.085] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:42:34.041] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/5876, l='ServerLevel[world]', x=186.50, y=11.90, z=268.50] died, message: 'Butcher was killed'
+[07Dec2024 10:42:34.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5893, l='ServerLevel[world]', x=181.50, y=10.90, z=263.50] died, message: 'Villager was killed'
+[07Dec2024 10:42:34.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5894, l='ServerLevel[world]', x=188.50, y=10.90, z=275.45] died, message: 'Villager was killed'
+[07Dec2024 10:42:34.045] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/5895, l='ServerLevel[world]', x=206.50, y=10.90, z=245.50] died, message: 'Cartographer was killed'
+[07Dec2024 10:42:34.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/5896, l='ServerLevel[world]', x=196.50, y=10.90, z=243.50] died, message: 'Cartographer was killed'
+[07Dec2024 10:42:34.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5897, l='ServerLevel[world]', x=183.20, y=10.90, z=277.09] died, message: 'Villager was killed'
+[07Dec2024 10:42:34.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5898, l='ServerLevel[world]', x=188.50, y=10.90, z=262.50] died, message: 'Armorer was killed'
+[07Dec2024 10:42:34.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5899, l='ServerLevel[world]', x=193.50, y=10.90, z=254.50] died, message: 'Armorer was killed'
+[07Dec2024 10:43:10.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 10:43:14.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 48)]
+[07Dec2024 10:43:20.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6006, l='ServerLevel[world]', x=189.50, y=13.00, z=73.50] died, message: 'Armorer was killed'
+[07Dec2024 10:44:01.543] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Dec2024 10:44:03.429] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:03.729] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:03.730] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.729] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.730] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.731] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.732] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.733] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.733] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.734] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.735] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.736] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.736] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.737] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.738] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.739] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.829] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.830] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.831] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.831] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.832] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.832] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.833] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.834] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.834] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.835] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.835] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.836] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:44:17.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:45:51.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/6583, l='ServerLevel[world]', x=-484.50, y=16.00, z=-471.50] died, message: 'Toolsmith was killed'
