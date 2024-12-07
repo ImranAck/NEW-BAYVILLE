@@ -212,12 +212,6 @@
     },
     "done": true
   },
-  "jeg:recipes/jeg/workbench": {
-    "criteria": {
-      "has_planks": "2024-10-30 15:22:12 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_spruce_planks": "2024-10-30 15:22:12 +0000"
@@ -989,6 +983,18 @@
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2024-10-30 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "trafficcraft:root": {
+    "criteria": {
+      "requirement": "2024-12-07 14:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-07 14:19:50 +0000"
     },
     "done": true
   },
