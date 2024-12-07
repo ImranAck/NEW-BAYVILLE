@@ -1242,3 +1242,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 16:13:28.116] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [07Dec2024 16:13:28.117] [Server thread/INFO] [cuffed/]: attempting to put restraints on Gaga
 [07Dec2024 16:14:25.179] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:14:40.213] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:14:42.030] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:14:42.532] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:14:43.864] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:14:44.576] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:14:44.978] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:14:45.475] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:14:45.775] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:14:46.082] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:14:46.725] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:15:20.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Imranack) moved wrongly! 0.4686437503532659
+[07Dec2024 16:16:28.274] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:16:29.326] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:16:43.265] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 16:16:47.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of Imranack) moved wrongly! 0.41196677701972817
+[07Dec2024 16:16:47.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of Imranack) moved wrongly! 0.9257542759247315
+[07Dec2024 16:17:01.810] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:17:02.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[07Dec2024 16:17:02.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[07Dec2024 16:18:07.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.2528525595317319
+[07Dec2024 16:18:07.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.375
+[07Dec2024 16:18:07.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.375
+[07Dec2024 16:18:10.439] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:18:22.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BbDe93[/127.189.193.26:56255] logged in with entity id 5232 at (-17.5, 14.0, 237.5)
+[07Dec2024 16:18:22.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BbDe93 joined the game
+[07Dec2024 16:18:36.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:46567] logged in with entity id 5235 at (-70.25872547734271, 13.8, 147.5335197776915)
+[07Dec2024 16:18:36.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[07Dec2024 16:18:50.619] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:19:20.070] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:19:26.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 500 to [bank] for Gaga (now 9400)]
+[07Dec2024 16:20:07.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of Imranack) moved wrongly! 0.35945490205615727
+[07Dec2024 16:20:18.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BbDe93 lost connection: Disconnected
+[07Dec2024 16:20:18.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BbDe93 left the game
+[07Dec2024 16:20:38.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Kicked Gaga: Kicked by an operator]
+[07Dec2024 16:20:38.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Kicked by an operator
+[07Dec2024 16:20:38.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
+[07Dec2024 16:20:55.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[07Dec2024 16:20:57.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 16:21:03.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5406, l='ServerLevel[world]', x=49.53, y=13.00, z=126.25] died, message: 'Armorer was killed'
+[07Dec2024 16:21:03.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5408, l='ServerLevel[world]', x=40.54, y=13.00, z=127.35] died, message: 'Armorer was killed'
+[07Dec2024 16:21:15.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gaga[/127.147.149.37:46767] logged in with entity id 5433 at (68.62881282089415, 13.0, 256.9993616829555)
+[07Dec2024 16:21:15.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga joined the game
+[07Dec2024 16:21:25.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 13000]
+[07Dec2024 16:21:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 1000]
+[07Dec2024 16:21:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[07Dec2024 16:21:45.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 16:23:04.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5615, l='ServerLevel[world]', x=59.55, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[07Dec2024 16:23:04.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5617, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[07Dec2024 16:23:44.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5669, l='ServerLevel[world]', x=49.93, y=13.00, z=127.95] died, message: 'Armorer was killed'
+[07Dec2024 16:23:44.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5671, l='ServerLevel[world]', x=46.93, y=13.00, z=128.06] died, message: 'Armorer was killed'
+[07Dec2024 16:23:55.187] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.SpongeSchematicReader/]: Schematic was made in a newer Minecraft version (3953 > 3465). Data may be incompatible.
+[07Dec2024 16:23:55.201] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.SpongeSchematicReader/]: Invalid BlockState in palette: minecraft:tuff_wall[east=tall,waterlogged=false,south=none,north=none,west=tall,up=true]. Block will be replaced with air.
+[07Dec2024 16:23:55.202] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.SpongeSchematicReader/]: Invalid BlockState in palette: minecraft:tuff_wall[east=none,waterlogged=false,south=tall,north=tall,west=none,up=true]. Block will be replaced with air.
+[07Dec2024 16:23:55.203] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.SpongeSchematicReader/]: Invalid BlockState in palette: minecraft:tuff_wall[east=none,waterlogged=false,south=none,north=none,west=none,up=true]. Block will be replaced with air.
+[07Dec2024 16:23:55.265] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Imranack loaded /workspaces/NEW-BAYVILLE/servidor_minecraft/config/worldedit/schematics/Alte_Reichsbank_Hamburg_by_SugarJerry.schem
+[07Dec2024 16:23:55.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5697, l='ServerLevel[world]', x=-24.50, y=3.00, z=163.50] died, message: 'Villager was killed'
+[07Dec2024 16:23:55.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5698, l='ServerLevel[world]', x=-9.50, y=2.94, z=162.50] died, message: 'Villager was killed'
+[07Dec2024 16:23:55.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5700, l='ServerLevel[world]', x=5.50, y=4.00, z=166.50] died, message: 'Villager was killed'
+[07Dec2024 16:24:05.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5699, l='ServerLevel[world]', x=-1.50, y=3.00, z=158.85] died, message: 'Villager was killed'
+[07Dec2024 16:24:05.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5701, l='ServerLevel[world]', x=-22.50, y=3.00, z=159.69] died, message: 'Villager was killed'
+[07Dec2024 16:24:17.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5718, l='ServerLevel[world]', x=45.59, y=13.00, z=136.51] died, message: 'Armorer was killed'
+[07Dec2024 16:24:17.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5720, l='ServerLevel[world]', x=47.51, y=13.00, z=121.18] died, message: 'Armorer was killed'
+[07Dec2024 16:24:34.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/5651, l='ServerLevel[world]', x=-103.50, y=15.00, z=85.50] died, message: 'Butcher was killed'
+[07Dec2024 16:24:42.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Gaga's game mode to Survival Mode]
