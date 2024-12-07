@@ -650,3 +650,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 14:31:12.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
 [07Dec2024 14:33:17.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:33325] logged in with entity id 719 at (116.07832194414048, 13.0, 0.11512805167732365)
 [07Dec2024 14:33:17.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[07Dec2024 14:33:56.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:34:16.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/808, l='ServerLevel[world]', x=-118.50, y=15.00, z=51.50] died, message: 'Villager was killed'
+[07Dec2024 14:34:16.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/810, l='ServerLevel[world]', x=-125.50, y=20.00, z=37.50] died, message: 'Villager was killed'
+[07Dec2024 14:35:25.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/945, l='ServerLevel[world]', x=-103.50, y=15.00, z=85.50] died, message: 'Butcher was killed'
+[07Dec2024 14:36:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Creative Mode]
+[07Dec2024 14:41:27.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/821, l='ServerLevel[world]', x=59.52, y=13.00, z=133.33] died, message: 'Armorer was killed'
+[07Dec2024 14:41:27.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/823, l='ServerLevel[world]', x=56.85, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[07Dec2024 14:42:41.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1140, l='ServerLevel[world]', x=49.50, y=13.00, z=122.27] died, message: 'Armorer was killed'
+[07Dec2024 14:42:41.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1142, l='ServerLevel[world]', x=50.62, y=13.00, z=129.59] died, message: 'Armorer was killed'
+[07Dec2024 14:43:18.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1155, l='ServerLevel[world]', x=57.65, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 14:43:18.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1157, l='ServerLevel[world]', x=40.50, y=13.00, z=121.16] died, message: 'Armorer was killed'
+[07Dec2024 14:43:27.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1173, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[07Dec2024 14:43:27.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1175, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[07Dec2024 14:43:42.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1182, l='ServerLevel[world]', x=55.26, y=13.00, z=136.53] died, message: 'Armorer was killed'
+[07Dec2024 14:43:42.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1184, l='ServerLevel[world]', x=53.64, y=13.00, z=127.58] died, message: 'Armorer was killed'
