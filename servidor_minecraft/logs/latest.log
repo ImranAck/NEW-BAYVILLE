@@ -1448,3 +1448,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 16:48:43.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
 [07Dec2024 16:49:57.174] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7186244[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:36891) lost connection: Disconnected
 [07Dec2024 16:53:55.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [World 1-2]
+[07Dec2024 17:16:23.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 17:16:27.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 17:18:20.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[07Dec2024 17:18:20.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
