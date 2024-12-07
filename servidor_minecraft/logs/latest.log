@@ -1306,3 +1306,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 16:24:17.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5720, l='ServerLevel[world]', x=47.51, y=13.00, z=121.18] died, message: 'Armorer was killed'
 [07Dec2024 16:24:34.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/5651, l='ServerLevel[world]', x=-103.50, y=15.00, z=85.50] died, message: 'Butcher was killed'
 [07Dec2024 16:24:42.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Gaga's game mode to Survival Mode]
+[07Dec2024 16:26:11.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 243)]
+[07Dec2024 16:26:53.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7110, l='ServerLevel[world]', x=51.02, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[07Dec2024 16:26:53.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7112, l='ServerLevel[world]', x=51.94, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[07Dec2024 16:27:09.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 5000 experience points to Gaga]
+[07Dec2024 16:29:48.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Changed the block at -397, 87, 351]
+[07Dec2024 16:30:23.719] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:30:24.019] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:30:24.020] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:30:43.970] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:30:44.269] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:30:44.270] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:30:54.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 383)]
+[07Dec2024 16:31:22.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 16:31:27.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[07Dec2024 16:31:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[07Dec2024 16:31:32.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 16:31:56.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:43647] logged in with entity id 8071 at (89.88092353197364, 11.0625, 311.81757850254075)
+[07Dec2024 16:31:56.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[07Dec2024 16:32:03.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 13)]
+[07Dec2024 16:32:09.570] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:32:09.870] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:32:09.870] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:32:14.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 6)]
+[07Dec2024 16:32:17.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! 10.26399947524699,3.5184028176872832,-1.4014134635983169
+[07Dec2024 16:32:31.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Changed the block at -555, 43, 13]
+[07Dec2024 16:32:31.768] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:32:32.087] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:32:32.260] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:32:38.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Changed the block at -555, 75, 12]
+[07Dec2024 16:32:49.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8198, l='ServerLevel[world]', x=45.25, y=13.00, z=136.51] died, message: 'Armorer was killed'
+[07Dec2024 16:32:49.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8200, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[07Dec2024 16:33:00.319] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:33:00.619] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:33:00.619] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:33:11.420] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:33:11.719] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:33:11.719] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:33:54.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:33:54.869] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:33:54.869] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:34:45.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! -0.2845594271271352,0.0,-10.091745657381935
