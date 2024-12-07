@@ -621,3 +621,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 13:36:28.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5802, l='ServerLevel[world]', x=-178.10, y=-1.30, z=347.78] died, message: 'Villager was killed'
 [07Dec2024 13:36:50.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
 [07Dec2024 13:37:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 13:40:14.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 13:40:32.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 13:40:45.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 1000]
+[07Dec2024 13:42:37.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6696, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[07Dec2024 13:42:37.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6698, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[07Dec2024 13:42:46.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! 9.506861416866684,1.4950660194469805,-4.000544185604561
+[07Dec2024 13:43:09.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6738, l='ServerLevel[world]', x=189.50, y=13.00, z=73.50] died, message: 'Armorer was killed'
+[07Dec2024 13:43:21.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6753, l='ServerLevel[world]', x=189.50, y=13.00, z=73.50] died, message: 'Armorer was killed'
+[07Dec2024 13:44:59.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Accessibility?]
+[07Dec2024 13:45:09.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6892, l='ServerLevel[world]', x=59.55, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[07Dec2024 13:45:09.688] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6894, l='ServerLevel[world]', x=29.32, y=13.00, z=130.52] died, message: 'Armorer was killed'
+[07Dec2024 13:45:16.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Crash Course]
+[07Dec2024 13:47:14.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7320, l='ServerLevel[world]', x=50.59, y=13.00, z=132.58] died, message: 'Armorer was killed'
+[07Dec2024 13:47:14.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7322, l='ServerLevel[world]', x=37.11, y=13.00, z=136.03] died, message: 'Armorer was killed'
+[07Dec2024 13:47:42.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7400, l='ServerLevel[world]', x=59.55, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 13:47:42.588] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7402, l='ServerLevel[world]', x=40.51, y=13.00, z=124.66] died, message: 'Armorer was killed'
