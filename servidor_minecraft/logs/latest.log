@@ -727,3 +727,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 10:44:17.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [07Dec2024 10:44:17.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [07Dec2024 10:45:51.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/6583, l='ServerLevel[world]', x=-484.50, y=16.00, z=-471.50] died, message: 'Toolsmith was killed'
+[07Dec2024 10:47:16.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 10:47:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 10:48:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 10:48:37.429] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:48:37.729] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:48:37.731] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 10:48:41.553] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Dec2024 10:48:42.464] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Dec2024 10:48:57.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! 9.963500106876296,0.0,-4.353255013445789
+[07Dec2024 10:49:06.556] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Dec2024 10:49:43.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 10:50:17.661] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Dec2024 10:51:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Barrier] to Imranack]
+[07Dec2024 10:54:27.056] [WorldEdit Task Executor - 7/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Imranack loaded /workspaces/NEW-BAYVILLE/servidor_minecraft/config/worldedit/schematics/LIDLSCHEMATIC.schematic
+[07Dec2024 10:55:25.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7993, l='ServerLevel[world]', x=55.45, y=13.00, z=127.53] died, message: 'Armorer was killed'
+[07Dec2024 10:55:25.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7995, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[07Dec2024 10:57:03.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8296, l='ServerLevel[world]', x=54.58, y=13.00, z=134.58] died, message: 'Armorer was killed'
+[07Dec2024 10:57:03.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8298, l='ServerLevel[world]', x=55.30, y=13.00, z=120.57] died, message: 'Armorer was killed'
+[07Dec2024 10:58:42.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[07Dec2024 10:59:58.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[07Dec2024 11:00:58.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/13632, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[07Dec2024 11:00:58.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/13634, l='ServerLevel[world]', x=44.66, y=13.00, z=130.34] died, message: 'Armorer was killed'
+[07Dec2024 11:01:07.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/13747, l='ServerLevel[world]', x=50.34, y=13.00, z=128.93] died, message: 'Armorer was killed'
+[07Dec2024 11:01:07.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/13749, l='ServerLevel[world]', x=49.52, y=13.00, z=125.30] died, message: 'Armorer was killed'
+[07Dec2024 11:01:59.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Changed the block at 28, 62, -11]
+[07Dec2024 11:02:35.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[07Dec2024 11:02:50.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! 5.639124632361273,0.556737065185601,9.278619045283364
+[07Dec2024 11:03:10.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
+[07Dec2024 11:03:10.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[07Dec2024 11:03:46.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:54211] logged in with entity id 13968 at (80.20358611674884, 69.88621051292348, 62.037110044922905)
+[07Dec2024 11:03:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[07Dec2024 11:05:39.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 11:05:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
