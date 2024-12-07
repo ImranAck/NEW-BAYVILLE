@@ -3622,3 +3622,342 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 13:47:46.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9jse0g66j6a]: started parsing
 [07Dec2024 13:47:46.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9jse0g66j6a]: Consuming argument `cobblestone`
 [07Dec2024 13:47:46.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9jse0g66j6a]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:49:40.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 13:49:40.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 13:50:45.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7434, l='ServerLevel[world]', x=54.86, y=13.00, z=121.24] died, message: 'Armorer was killed'
+[07Dec2024 13:50:45.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7436, l='ServerLevel[world]', x=38.28, y=13.00, z=136.52] died, message: 'Armorer was killed'
+[07Dec2024 13:50:53.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r5bpb9qyxakq]: started parsing
+[07Dec2024 13:50:53.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r5bpb9qyxakq]: Consuming argument `cobblestone`
+[07Dec2024 13:50:53.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r5bpb9qyxakq]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:50:53.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ph3mtxqkdzsr]: started parsing
+[07Dec2024 13:50:53.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ph3mtxqkdzsr]: Consuming argument `cobblestone`
+[07Dec2024 13:50:53.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ph3mtxqkdzsr]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:50:55.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18adqw63i0poq]: started parsing
+[07Dec2024 13:50:55.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18adqw63i0poq]: Consuming argument `grass_block`
+[07Dec2024 13:50:55.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18adqw63i0poq]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:50:55.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgir7b51dnly]: started parsing
+[07Dec2024 13:50:55.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgir7b51dnly]: Consuming argument `grass_block`
+[07Dec2024 13:50:55.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgir7b51dnly]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:50:55.925] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15nlhflwoxtsw]: started parsing
+[07Dec2024 13:50:55.925] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15nlhflwoxtsw]: Consuming argument `grass_bloc`
+[07Dec2024 13:50:56.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14fxy22dhipyo]: started parsing
+[07Dec2024 13:50:56.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14fxy22dhipyo]: Consuming argument `grass_blo`
+[07Dec2024 13:50:56.193] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hex6328bsb2r]: started parsing
+[07Dec2024 13:50:56.193] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hex6328bsb2r]: Consuming argument `grass_bl`
+[07Dec2024 13:50:56.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q5bcf9soajq2]: started parsing
+[07Dec2024 13:50:56.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q5bcf9soajq2]: Consuming argument `grass_b`
+[07Dec2024 13:50:56.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [121i00t9o55su]: started parsing
+[07Dec2024 13:50:56.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [121i00t9o55su]: Consuming argument `grass_`
+[07Dec2024 13:50:56.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztxunj0p04ob]: started parsing
+[07Dec2024 13:50:56.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztxunj0p04ob]: Consuming argument `grass`
+[07Dec2024 13:50:56.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztxunj0p04ob]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:50:56.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zk2t2di9mjed]: started parsing
+[07Dec2024 13:50:56.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zk2t2di9mjed]: Consuming argument `gras`
+[07Dec2024 13:50:56.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m7iox8jdlla0]: started parsing
+[07Dec2024 13:50:56.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m7iox8jdlla0]: Consuming argument `gra`
+[07Dec2024 13:50:56.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k6duba51vq0q]: started parsing
+[07Dec2024 13:50:56.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k6duba51vq0q]: Consuming argument `gr`
+[07Dec2024 13:50:57.019] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ihgt6wanlgcx]: started parsing
+[07Dec2024 13:50:57.019] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ihgt6wanlgcx]: Consuming argument `g`
+[07Dec2024 13:50:57.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ajqv4tprsho7]: started parsing
+[07Dec2024 13:50:57.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ajqv4tprsho7]: Consuming argument ``
+[07Dec2024 13:50:57.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ih7k5915rqfb]: started parsing
+[07Dec2024 13:50:57.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ih7k5915rqfb]: Consuming argument `b`
+[07Dec2024 13:50:58.034] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12zfeqzg4sb6w]: started parsing
+[07Dec2024 13:50:58.034] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12zfeqzg4sb6w]: Consuming argument `ba`
+[07Dec2024 13:50:58.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07fomvfdmsq9z]: started parsing
+[07Dec2024 13:50:58.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07fomvfdmsq9z]: Consuming argument `bar`
+[07Dec2024 13:50:58.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15drmbjbm7b7m]: started parsing
+[07Dec2024 13:50:58.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15drmbjbm7b7m]: Consuming argument `barr`
+[07Dec2024 13:50:58.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zwgc8waz71up]: started parsing
+[07Dec2024 13:50:58.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zwgc8waz71up]: Consuming argument `barri`
+[07Dec2024 13:50:58.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16yjz1yjc39th]: started parsing
+[07Dec2024 13:50:58.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16yjz1yjc39th]: Consuming argument `barrie`
+[07Dec2024 13:50:59.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sxihc0bo8jbg]: started parsing
+[07Dec2024 13:50:59.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sxihc0bo8jbg]: Consuming argument `barrier`
+[07Dec2024 13:50:59.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sxihc0bo8jbg]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:51:01.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00u45l4lpj0u3]: started parsing
+[07Dec2024 13:51:01.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00u45l4lpj0u3]: Consuming argument `barrie`
+[07Dec2024 13:51:01.272] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08xmhs76me4w8]: started parsing
+[07Dec2024 13:51:01.272] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08xmhs76me4w8]: Consuming argument `barri`
+[07Dec2024 13:51:01.415] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01ci9d9fhrr6a]: started parsing
+[07Dec2024 13:51:01.415] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01ci9d9fhrr6a]: Consuming argument `barr`
+[07Dec2024 13:51:01.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18oapgskyr9z5]: started parsing
+[07Dec2024 13:51:01.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18oapgskyr9z5]: Consuming argument `bar`
+[07Dec2024 13:51:05.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pvo4cgyh1xum]: started parsing
+[07Dec2024 13:51:05.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pvo4cgyh1xum]: Consuming argument `cobblestone`
+[07Dec2024 13:51:05.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pvo4cgyh1xum]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:51:05.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sd7qlcu2ykyc]: started parsing
+[07Dec2024 13:51:05.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sd7qlcu2ykyc]: Consuming argument `cobblestone`
+[07Dec2024 13:51:05.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sd7qlcu2ykyc]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:51:05.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cx3bgc3drrcy]: started parsing
+[07Dec2024 13:51:05.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cx3bgc3drrcy]: Consuming argument `cobbleston`
+[07Dec2024 13:51:06.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [105duwyrhqw0p]: started parsing
+[07Dec2024 13:51:06.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [105duwyrhqw0p]: Consuming argument `cobblesto`
+[07Dec2024 13:51:06.305] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tr22wqh46mdk]: started parsing
+[07Dec2024 13:51:06.305] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tr22wqh46mdk]: Consuming argument `cobblest`
+[07Dec2024 13:51:06.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d6oafkxcgvg4]: started parsing
+[07Dec2024 13:51:06.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d6oafkxcgvg4]: Consuming argument `cobbles`
+[07Dec2024 13:51:06.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qy4piyycb1iy]: started parsing
+[07Dec2024 13:51:06.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qy4piyycb1iy]: Consuming argument `cobble`
+[07Dec2024 13:51:06.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wvrq23zi8ch0]: started parsing
+[07Dec2024 13:51:06.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wvrq23zi8ch0]: Consuming argument `cobbl`
+[07Dec2024 13:51:06.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03z28jivi2m25]: started parsing
+[07Dec2024 13:51:06.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03z28jivi2m25]: Consuming argument `cobb`
+[07Dec2024 13:51:06.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ase9teli8mi9]: started parsing
+[07Dec2024 13:51:06.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ase9teli8mi9]: Consuming argument `cob`
+[07Dec2024 13:51:06.497] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q747ohymr02o]: started parsing
+[07Dec2024 13:51:06.497] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q747ohymr02o]: Consuming argument `co`
+[07Dec2024 13:51:06.522] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dmm3pvrk4hmz]: started parsing
+[07Dec2024 13:51:06.522] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dmm3pvrk4hmz]: Consuming argument `c`
+[07Dec2024 13:51:06.568] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wk4e8yybeq3o]: started parsing
+[07Dec2024 13:51:06.568] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wk4e8yybeq3o]: Consuming argument ``
+[07Dec2024 13:51:06.964] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xdtb7wgh30e0]: started parsing
+[07Dec2024 13:51:06.964] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xdtb7wgh30e0]: Consuming argument `r`
+[07Dec2024 13:51:07.223] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109ixzl6qb7vl]: started parsing
+[07Dec2024 13:51:07.223] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109ixzl6qb7vl]: Consuming argument `ro`
+[07Dec2024 13:51:07.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13jpl9gbwhtmv]: started parsing
+[07Dec2024 13:51:07.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13jpl9gbwhtmv]: Consuming argument `roa`
+[07Dec2024 13:51:07.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w1xfnebfr44f]: started parsing
+[07Dec2024 13:51:07.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w1xfnebfr44f]: Consuming argument `roas`
+[07Dec2024 13:51:08.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xaohlmxbamri]: started parsing
+[07Dec2024 13:51:08.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xaohlmxbamri]: Consuming argument `roa`
+[07Dec2024 13:51:08.344] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p9mwdefxqgsx]: started parsing
+[07Dec2024 13:51:08.344] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p9mwdefxqgsx]: Consuming argument `road`
+[07Dec2024 13:51:09.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [164rbbhoqqqh6]: started parsing
+[07Dec2024 13:51:09.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [164rbbhoqqqh6]: Consuming argument `road:`
+[07Dec2024 13:51:10.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h8itb10amyi8]: started parsing
+[07Dec2024 13:51:10.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h8itb10amyi8]: Consuming argument `road:b`
+[07Dec2024 13:51:10.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z8p7ml1qkct1]: started parsing
+[07Dec2024 13:51:10.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z8p7ml1qkct1]: Consuming argument `road:ba`
+[07Dec2024 13:51:10.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tktmupn8q9mu]: started parsing
+[07Dec2024 13:51:10.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tktmupn8q9mu]: Consuming argument `road:bar`
+[07Dec2024 13:51:11.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h50obzf0hkid]: started parsing
+[07Dec2024 13:51:11.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h50obzf0hkid]: Consuming argument `road:barr`
+[07Dec2024 13:51:11.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1a9tgimkhap]: started parsing
+[07Dec2024 13:51:11.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1a9tgimkhap]: Consuming argument `road:barri`
+[07Dec2024 13:51:11.443] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [195uqd6hxlkmo]: started parsing
+[07Dec2024 13:51:11.443] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [195uqd6hxlkmo]: Consuming argument `road:barrie`
+[07Dec2024 13:51:11.793] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0laagy7tzpbuo]: started parsing
+[07Dec2024 13:51:11.793] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0laagy7tzpbuo]: Consuming argument `road:barrier`
+[07Dec2024 13:51:12.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w9irmoiyprhe]: started parsing
+[07Dec2024 13:51:12.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w9irmoiyprhe]: Consuming argument `road:barrier:`
+[07Dec2024 13:51:12.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c9g39rkcbva0]: started parsing
+[07Dec2024 13:51:12.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c9g39rkcbva0]: Consuming argument `road:barrier:f`
+[07Dec2024 13:51:12.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sxoukapni10j]: started parsing
+[07Dec2024 13:51:12.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sxoukapni10j]: Consuming argument `road:barrier:fe`
+[07Dec2024 13:51:12.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a0yie4eynhxf]: started parsing
+[07Dec2024 13:51:12.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a0yie4eynhxf]: Consuming argument `road:barrier:fen`
+[07Dec2024 13:51:13.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vd1q4acepp70]: started parsing
+[07Dec2024 13:51:13.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vd1q4acepp70]: Consuming argument `road:barrier:fenc`
+[07Dec2024 13:51:13.299] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [113cq4slrbcr3]: started parsing
+[07Dec2024 13:51:13.299] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [113cq4slrbcr3]: Consuming argument `road:barrier:fence`
+[07Dec2024 13:51:13.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [132chvds14i1f]: started parsing
+[07Dec2024 13:51:13.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [132chvds14i1f]: Consuming argument `road:barrier:fence`
+[07Dec2024 13:51:17.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12ve8y659o4g5]: started parsing
+[07Dec2024 13:51:17.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12ve8y659o4g5]: Consuming argument `road:barrier:fence`
+[07Dec2024 13:51:17.155] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02u29qmzsq11l]: started parsing
+[07Dec2024 13:51:17.155] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02u29qmzsq11l]: Consuming argument `road:barrier:fence`
+[07Dec2024 13:51:17.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i4y614ior3m3]: started parsing
+[07Dec2024 13:51:17.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i4y614ior3m3]: Consuming argument `road:barrier:fenc`
+[07Dec2024 13:51:18.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ly6p4538f9pd]: started parsing
+[07Dec2024 13:51:18.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ly6p4538f9pd]: Consuming argument `road:barrier:fen`
+[07Dec2024 13:51:18.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ni5yoxnfwua9]: started parsing
+[07Dec2024 13:51:18.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ni5yoxnfwua9]: Consuming argument `road:barrier:fe`
+[07Dec2024 13:51:18.510] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h4b0iwnznt5m]: started parsing
+[07Dec2024 13:51:18.510] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h4b0iwnznt5m]: Consuming argument `road:barrier:f`
+[07Dec2024 13:51:18.511] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bwhuc36i7kax]: started parsing
+[07Dec2024 13:51:18.511] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bwhuc36i7kax]: Consuming argument `road:barrier:`
+[07Dec2024 13:51:18.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icp09i6z12of]: started parsing
+[07Dec2024 13:51:18.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icp09i6z12of]: Consuming argument `road:barrier`
+[07Dec2024 13:51:18.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zf8l0742ma9t]: started parsing
+[07Dec2024 13:51:18.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zf8l0742ma9t]: Consuming argument `road:barrie`
+[07Dec2024 13:51:18.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sqvrllxtncle]: started parsing
+[07Dec2024 13:51:18.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sqvrllxtncle]: Consuming argument `road:barri`
+[07Dec2024 13:51:18.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12vfnvgto6oer]: started parsing
+[07Dec2024 13:51:18.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12vfnvgto6oer]: Consuming argument `road:barr`
+[07Dec2024 13:51:18.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z5hemnbl8hfu]: started parsing
+[07Dec2024 13:51:18.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z5hemnbl8hfu]: Consuming argument `road:bar`
+[07Dec2024 13:51:18.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w904sr8l9k3h]: started parsing
+[07Dec2024 13:51:18.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w904sr8l9k3h]: Consuming argument `road:ba`
+[07Dec2024 13:51:18.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [028lcutz3lacu]: started parsing
+[07Dec2024 13:51:18.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [028lcutz3lacu]: Consuming argument `road:b`
+[07Dec2024 13:51:18.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngqiiloik3f1]: started parsing
+[07Dec2024 13:51:18.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngqiiloik3f1]: Consuming argument `road:`
+[07Dec2024 13:51:18.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [013q3z2rljv0t]: started parsing
+[07Dec2024 13:51:18.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [013q3z2rljv0t]: Consuming argument `road`
+[07Dec2024 13:51:20.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r8wou4m0jhfr]: started parsing
+[07Dec2024 13:51:20.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r8wou4m0jhfr]: Consuming argument `road_`
+[07Dec2024 13:51:21.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1574vgnwvc6va]: started parsing
+[07Dec2024 13:51:21.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1574vgnwvc6va]: Consuming argument `road_f`
+[07Dec2024 13:51:21.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x5w0nkestmh9]: started parsing
+[07Dec2024 13:51:21.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x5w0nkestmh9]: Consuming argument `road_fe`
+[07Dec2024 13:51:22.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vqmabe1s9500]: started parsing
+[07Dec2024 13:51:22.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vqmabe1s9500]: Consuming argument `road_fe,`
+[07Dec2024 13:51:24.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01an8cw3rmlyx]: started parsing
+[07Dec2024 13:51:24.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01an8cw3rmlyx]: Consuming argument `road_fe`
+[07Dec2024 13:51:24.492] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w2q58swwcy57]: started parsing
+[07Dec2024 13:51:24.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w2q58swwcy57]: Consuming argument `road_fen`
+[07Dec2024 13:51:25.152] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03kpu9lj0dkei]: started parsing
+[07Dec2024 13:51:25.152] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03kpu9lj0dkei]: Consuming argument `road_fenc`
+[07Dec2024 13:51:25.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fyu3a68objqt]: started parsing
+[07Dec2024 13:51:25.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fyu3a68objqt]: Consuming argument `road_fence`
+[07Dec2024 13:51:26.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v2nrihbvf158]: started parsing
+[07Dec2024 13:51:26.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v2nrihbvf158]: Consuming argument `road_fenc`
+[07Dec2024 13:51:26.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j0nwt2cww5q6]: started parsing
+[07Dec2024 13:51:26.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j0nwt2cww5q6]: Consuming argument `road_fen`
+[07Dec2024 13:51:26.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p7wmig0gvb8p]: started parsing
+[07Dec2024 13:51:26.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p7wmig0gvb8p]: Consuming argument `road_fe`
+[07Dec2024 13:51:26.781] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2m12vptl2e4]: started parsing
+[07Dec2024 13:51:26.781] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2m12vptl2e4]: Consuming argument `road_f`
+[07Dec2024 13:51:27.153] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rn7pn00zt41i]: started parsing
+[07Dec2024 13:51:27.153] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rn7pn00zt41i]: Consuming argument `road_`
+[07Dec2024 13:51:27.466] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fpf7paddwy08]: started parsing
+[07Dec2024 13:51:27.466] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fpf7paddwy08]: Consuming argument `road_b`
+[07Dec2024 13:51:27.614] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [130f0ggskxxyk]: started parsing
+[07Dec2024 13:51:27.614] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [130f0ggskxxyk]: Consuming argument `road_ba`
+[07Dec2024 13:51:28.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02fjf6yqbz3bg]: started parsing
+[07Dec2024 13:51:28.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02fjf6yqbz3bg]: Consuming argument `road_bar`
+[07Dec2024 13:51:28.502] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w7q3xose4knh]: started parsing
+[07Dec2024 13:51:28.502] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w7q3xose4knh]: Consuming argument `road_barr`
+[07Dec2024 13:51:28.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vt65bxxphby9]: started parsing
+[07Dec2024 13:51:28.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vt65bxxphby9]: Consuming argument `road_barri`
+[07Dec2024 13:51:28.742] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01hxtd1z7plzn]: started parsing
+[07Dec2024 13:51:28.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01hxtd1z7plzn]: Consuming argument `road_barrie`
+[07Dec2024 13:51:28.873] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n2ial6ibfynn]: started parsing
+[07Dec2024 13:51:28.873] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n2ial6ibfynn]: Consuming argument `road_barrier`
+[07Dec2024 13:51:29.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cn2jnu0jtcqf]: started parsing
+[07Dec2024 13:51:29.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cn2jnu0jtcqf]: Consuming argument `road_barrier`
+[07Dec2024 13:51:33.717] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xayhf34mrb0]: started parsing
+[07Dec2024 13:51:33.717] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xayhf34mrb0]: Consuming argument `road_barrier`
+[07Dec2024 13:51:33.718] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eu535bgv3y22]: started parsing
+[07Dec2024 13:51:33.718] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eu535bgv3y22]: Consuming argument `road_barrier`
+[07Dec2024 13:51:34.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [117cs0l124h0w]: started parsing
+[07Dec2024 13:51:34.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [117cs0l124h0w]: Consuming argument `road_barrier_`
+[07Dec2024 13:51:35.580] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m0lv1aewodjw]: started parsing
+[07Dec2024 13:51:35.580] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m0lv1aewodjw]: Consuming argument `road_barrier_f`
+[07Dec2024 13:51:35.794] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oak6p0pr7pzd]: started parsing
+[07Dec2024 13:51:35.794] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oak6p0pr7pzd]: Consuming argument `road_barrier_fe`
+[07Dec2024 13:51:36.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mlp4jcvpti98]: started parsing
+[07Dec2024 13:51:36.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mlp4jcvpti98]: Consuming argument `road_barrier_fen`
+[07Dec2024 13:51:36.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d5kc7tnmm0jg]: started parsing
+[07Dec2024 13:51:36.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d5kc7tnmm0jg]: Consuming argument `road_barrier_fenc`
+[07Dec2024 13:51:36.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oesoyauwbmw3]: started parsing
+[07Dec2024 13:51:36.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oesoyauwbmw3]: Consuming argument `road_barrier_fence`
+[07Dec2024 13:51:36.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ifdssjyl394g]: started parsing
+[07Dec2024 13:51:36.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ifdssjyl394g]: Consuming argument `road_barrier_fence`
+[07Dec2024 13:51:42.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [118cbfx3jrb6y]: started parsing
+[07Dec2024 13:51:42.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [118cbfx3jrb6y]: Consuming argument `road_barrier_fence`
+[07Dec2024 13:51:42.619] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eix7eozpiywj]: started parsing
+[07Dec2024 13:51:42.619] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eix7eozpiywj]: Consuming argument `road_barrier_fence`
+[07Dec2024 13:51:43.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ls2yvnnvgvh]: started parsing
+[07Dec2024 13:51:43.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ls2yvnnvgvh]: Consuming argument `road_barrier_fenc`
+[07Dec2024 13:51:43.671] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y7v2oxpsjfg0]: started parsing
+[07Dec2024 13:51:43.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y7v2oxpsjfg0]: Consuming argument `road_barrier_fen`
+[07Dec2024 13:51:43.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m1bik2m273gc]: started parsing
+[07Dec2024 13:51:43.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m1bik2m273gc]: Consuming argument `road_barrier_fe`
+[07Dec2024 13:51:43.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1phkrby0chha5]: started parsing
+[07Dec2024 13:51:43.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1phkrby0chha5]: Consuming argument `road_barrier_f`
+[07Dec2024 13:51:43.776] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wny7jp4jttqx]: started parsing
+[07Dec2024 13:51:43.776] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wny7jp4jttqx]: Consuming argument `road_barrier_`
+[07Dec2024 13:51:43.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10rsn1rr42rrz]: started parsing
+[07Dec2024 13:51:43.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10rsn1rr42rrz]: Consuming argument `road_barrier`
+[07Dec2024 13:51:43.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [011zo1chlfpmf]: started parsing
+[07Dec2024 13:51:43.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [011zo1chlfpmf]: Consuming argument `road_barrie`
+[07Dec2024 13:51:43.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10smai7yerhoo]: started parsing
+[07Dec2024 13:51:43.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10smai7yerhoo]: Consuming argument `road_barri`
+[07Dec2024 13:51:43.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ddlm70dw62he]: started parsing
+[07Dec2024 13:51:43.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ddlm70dw62he]: Consuming argument `road_barr`
+[07Dec2024 13:51:43.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r9vil0u8uqjd]: started parsing
+[07Dec2024 13:51:43.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r9vil0u8uqjd]: Consuming argument `road_bar`
+[07Dec2024 13:51:43.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vni63jb9if5j]: started parsing
+[07Dec2024 13:51:43.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vni63jb9if5j]: Consuming argument `road_ba`
+[07Dec2024 13:51:44.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uzrzj3uvmmjc]: started parsing
+[07Dec2024 13:51:44.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uzrzj3uvmmjc]: Consuming argument `road_b`
+[07Dec2024 13:51:44.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11wco9l0gcxgt]: started parsing
+[07Dec2024 13:51:44.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11wco9l0gcxgt]: Consuming argument `road_`
+[07Dec2024 13:51:44.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18jpbni1uy7no]: started parsing
+[07Dec2024 13:51:44.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18jpbni1uy7no]: Consuming argument `road`
+[07Dec2024 13:51:44.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06akubzpeedzn]: started parsing
+[07Dec2024 13:51:44.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06akubzpeedzn]: Consuming argument `roa`
+[07Dec2024 13:51:44.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qo5yjaibqrt7]: started parsing
+[07Dec2024 13:51:44.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qo5yjaibqrt7]: Consuming argument `ro`
+[07Dec2024 13:51:44.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08gs9s4zqcxz0]: started parsing
+[07Dec2024 13:51:44.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08gs9s4zqcxz0]: Consuming argument `r`
+[07Dec2024 13:51:44.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03j8xx1bv5x0z]: started parsing
+[07Dec2024 13:51:44.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03j8xx1bv5x0z]: Consuming argument ``
+[07Dec2024 13:51:44.980] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i9rqax5n4483]: started parsing
+[07Dec2024 13:51:44.980] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i9rqax5n4483]: Consuming argument ``
+[07Dec2024 13:51:45.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1afoxlh37fe55]: started parsing
+[07Dec2024 13:51:45.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1afoxlh37fe55]: Consuming argument `t`
+[07Dec2024 13:51:45.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hrv3omh6y3rz]: started parsing
+[07Dec2024 13:51:45.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hrv3omh6y3rz]: Consuming argument `tr`
+[07Dec2024 13:51:45.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1srlhtibm6k3e]: started parsing
+[07Dec2024 13:51:45.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1srlhtibm6k3e]: Consuming argument `tra`
+[07Dec2024 13:51:47.470] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xrnquxt6mkql]: started parsing
+[07Dec2024 13:51:47.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xrnquxt6mkql]: Consuming argument `trafficcraft:r`
+[07Dec2024 13:51:50.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bgpjmfenc1d2]: started parsing
+[07Dec2024 13:51:50.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bgpjmfenc1d2]: Consuming argument `trafficcraft:road_barrier_fence`
+[07Dec2024 13:51:50.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bgpjmfenc1d2]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:20.787] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7595, l='ServerLevel[world]', x=46.49, y=13.00, z=128.49] died, message: 'Armorer was killed'
+[07Dec2024 13:52:20.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7597, l='ServerLevel[world]', x=42.47, y=13.00, z=122.56] died, message: 'Armorer was killed'
+[07Dec2024 13:52:21.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wgpfq3n1kcsd]: started parsing
+[07Dec2024 13:52:21.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wgpfq3n1kcsd]: Consuming argument `trafficcraft:road_barrier_fence`
+[07Dec2024 13:52:21.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wgpfq3n1kcsd]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:21.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9f5h5ku19zr]: started parsing
+[07Dec2024 13:52:21.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9f5h5ku19zr]: Consuming argument `trafficcraft:road_barrier_fence`
+[07Dec2024 13:52:21.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9f5h5ku19zr]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:21.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1imhvh1wvppk4]: started parsing
+[07Dec2024 13:52:21.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1imhvh1wvppk4]: Consuming argument `road_barrier_fence`
+[07Dec2024 13:52:21.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0ajdvaqr6gp]: started parsing
+[07Dec2024 13:52:21.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0ajdvaqr6gp]: Consuming argument `road_barrier_fence`
+[07Dec2024 13:52:21.822] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06icf4w9vwz10]: started parsing
+[07Dec2024 13:52:21.822] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06icf4w9vwz10]: Consuming argument `road_barrier`
+[07Dec2024 13:52:21.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egjwo6hdbtx9]: started parsing
+[07Dec2024 13:52:21.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egjwo6hdbtx9]: Consuming argument `road_barrier`
+[07Dec2024 13:52:22.218] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qbn7e9cwj2w4]: started parsing
+[07Dec2024 13:52:22.218] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qbn7e9cwj2w4]: Consuming argument `road:barrier:fence`
+[07Dec2024 13:52:22.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bivwr4yluan4]: started parsing
+[07Dec2024 13:52:22.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bivwr4yluan4]: Consuming argument `road:barrier:fence`
+[07Dec2024 13:52:22.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mog3u8e8cgyw]: started parsing
+[07Dec2024 13:52:22.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mog3u8e8cgyw]: Consuming argument `cobblestone`
+[07Dec2024 13:52:22.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mog3u8e8cgyw]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:22.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ng35eb7okh8n]: started parsing
+[07Dec2024 13:52:22.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ng35eb7okh8n]: Consuming argument `cobblestone`
+[07Dec2024 13:52:22.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ng35eb7okh8n]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:22.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dnxet9tboand]: started parsing
+[07Dec2024 13:52:22.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dnxet9tboand]: Consuming argument `grass_block`
+[07Dec2024 13:52:22.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dnxet9tboand]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:22.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aouvl1rklgjw]: started parsing
+[07Dec2024 13:52:22.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aouvl1rklgjw]: Consuming argument `grass_block`
+[07Dec2024 13:52:22.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aouvl1rklgjw]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:23.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nvy3l7i4xuu7]: started parsing
+[07Dec2024 13:52:23.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nvy3l7i4xuu7]: Consuming argument `air`
+[07Dec2024 13:52:23.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nvy3l7i4xuu7]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:23.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w9kyeh6cpwvh]: started parsing
+[07Dec2024 13:52:23.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w9kyeh6cpwvh]: Consuming argument `air`
+[07Dec2024 13:52:23.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w9kyeh6cpwvh]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:23.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [036utjkj6fu25]: started parsing
+[07Dec2024 13:52:23.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [036utjkj6fu25]: Consuming argument `air`
+[07Dec2024 13:52:23.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [036utjkj6fu25]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:41.383] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ax1ezxbedkmm]: started parsing
+[07Dec2024 13:52:41.383] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ax1ezxbedkmm]: Consuming argument `air`
+[07Dec2024 13:52:41.383] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ax1ezxbedkmm]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:41.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gv0wqynw1tt]: started parsing
+[07Dec2024 13:52:41.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gv0wqynw1tt]: Consuming argument `air`
+[07Dec2024 13:52:41.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gv0wqynw1tt]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:41.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10hdzznqphb3y]: started parsing
+[07Dec2024 13:52:41.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10hdzznqphb3y]: Consuming argument `trafficcraft:road_barrier_fence`
+[07Dec2024 13:52:41.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10hdzznqphb3y]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:41.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o1wdc1ri9052]: started parsing
+[07Dec2024 13:52:41.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o1wdc1ri9052]: Consuming argument `trafficcraft:road_barrier_fence`
+[07Dec2024 13:52:41.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o1wdc1ri9052]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:42.393] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0swomn6zqicy9]: started parsing
+[07Dec2024 13:52:42.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0swomn6zqicy9]: Consuming argument `trafficcraft:road_barrier_fence`
+[07Dec2024 13:52:42.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0swomn6zqicy9]: Finished looking at arguments. Finalizing command.
+[07Dec2024 13:52:51.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7662, l='ServerLevel[world]', x=59.47, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[07Dec2024 13:52:51.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7664, l='ServerLevel[world]', x=49.52, y=13.00, z=124.58] died, message: 'Armorer was killed'
+[07Dec2024 13:53:50.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[07Dec2024 13:53:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[07Dec2024 13:54:40.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 13:54:40.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -637,3 +637,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 13:47:14.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7322, l='ServerLevel[world]', x=37.11, y=13.00, z=136.03] died, message: 'Armorer was killed'
 [07Dec2024 13:47:42.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7400, l='ServerLevel[world]', x=59.55, y=13.00, z=136.55] died, message: 'Armorer was killed'
 [07Dec2024 13:47:42.588] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7402, l='ServerLevel[world]', x=40.51, y=13.00, z=124.66] died, message: 'Armorer was killed'
+[07Dec2024 13:50:45.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7434, l='ServerLevel[world]', x=54.86, y=13.00, z=121.24] died, message: 'Armorer was killed'
+[07Dec2024 13:50:45.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7436, l='ServerLevel[world]', x=38.28, y=13.00, z=136.52] died, message: 'Armorer was killed'
+[07Dec2024 13:52:20.787] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7595, l='ServerLevel[world]', x=46.49, y=13.00, z=128.49] died, message: 'Armorer was killed'
+[07Dec2024 13:52:20.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7597, l='ServerLevel[world]', x=42.47, y=13.00, z=122.56] died, message: 'Armorer was killed'
+[07Dec2024 13:52:51.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7662, l='ServerLevel[world]', x=59.47, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[07Dec2024 13:52:51.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7664, l='ServerLevel[world]', x=49.52, y=13.00, z=124.58] died, message: 'Armorer was killed'
+[07Dec2024 13:53:50.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[07Dec2024 13:53:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
