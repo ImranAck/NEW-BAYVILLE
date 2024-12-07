@@ -9163,3 +9163,122 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 16:44:49.305] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hqzj4h95n6mw]: Consuming argument `down`
 [07Dec2024 16:44:49.305] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hqzj4h95n6mw]: Consuming argument `1`
 [07Dec2024 16:44:49.305] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hqzj4h95n6mw]: Finished looking at arguments. Finalizing command.
+[07Dec2024 16:45:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 4500 to [bank] for Momo93bg (now 4819)]
+[07Dec2024 16:45:16.169] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:45:16.469] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:45:16.470] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:46:18.286] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:46:20.813] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:46:21.153] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:46:22.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 16:46:23.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:46:23.819] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:46:23.819] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:46:31.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 16:47:01.129] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:47:01.278] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:48:20.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f4jv6zy09vuc]: started parsing
+[07Dec2024 16:48:20.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f4jv6zy09vuc]: Consuming argument ``
+[07Dec2024 16:48:21.579] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0btuqtracwoit]: started parsing
+[07Dec2024 16:48:21.579] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0btuqtracwoit]: Consuming argument `i`
+[07Dec2024 16:48:21.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19vbthgjpbk69]: started parsing
+[07Dec2024 16:48:21.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19vbthgjpbk69]: Consuming argument `ir`
+[07Dec2024 16:48:21.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wgi1mme9ei5c]: started parsing
+[07Dec2024 16:48:21.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wgi1mme9ei5c]: Consuming argument `iro`
+[07Dec2024 16:48:23.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwy28y04kntd]: started parsing
+[07Dec2024 16:48:23.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwy28y04kntd]: Consuming argument `iron_block`
+[07Dec2024 16:48:23.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwy28y04kntd]: Finished looking at arguments. Finalizing command.
+[07Dec2024 16:48:35.393] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b7vv88s6dn3z]: started parsing
+[07Dec2024 16:48:35.393] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b7vv88s6dn3z]: Consuming argument `iron_block`
+[07Dec2024 16:48:35.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b7vv88s6dn3z]: Finished looking at arguments. Finalizing command.
+[07Dec2024 16:48:35.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04657otg62tnv]: started parsing
+[07Dec2024 16:48:35.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04657otg62tnv]: Consuming argument `iron_block`
+[07Dec2024 16:48:35.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04657otg62tnv]: Finished looking at arguments. Finalizing command.
+[07Dec2024 16:48:35.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gmsudxykdri0]: started parsing
+[07Dec2024 16:48:35.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gmsudxykdri0]: Consuming argument `iron_block`
+[07Dec2024 16:48:35.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gmsudxykdri0]: Finished looking at arguments. Finalizing command.
+[07Dec2024 16:48:41.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Disconnected
+[07Dec2024 16:48:41.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
+[07Dec2024 16:48:43.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[07Dec2024 16:48:43.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[07Dec2024 16:49:27.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 16:49:27.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 16:49:27.864] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 27 messages to dispatch.
+[07Dec2024 16:49:27.874] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[07Dec2024 16:49:27.926] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[07Dec2024 16:49:27.978] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[07Dec2024 16:49:28.025] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[07Dec2024 16:49:28.075] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[07Dec2024 16:49:28.125] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[07Dec2024 16:49:28.176] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[07Dec2024 16:49:28.224] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[07Dec2024 16:49:28.274] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[07Dec2024 16:49:28.324] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[07Dec2024 16:49:28.374] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[07Dec2024 16:49:28.424] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[07Dec2024 16:49:28.475] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[07Dec2024 16:49:28.523] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[07Dec2024 16:49:28.576] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[07Dec2024 16:49:28.625] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry cuffed:restraints' to 'fml:handshake' sequence 15
+[07Dec2024 16:49:28.675] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[07Dec2024 16:49:28.724] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[07Dec2024 16:49:28.774] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[07Dec2024 16:49:28.824] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[07Dec2024 16:49:28.874] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 20
+[07Dec2024 16:49:28.926] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 21
+[07Dec2024 16:49:28.976] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 22
+[07Dec2024 16:49:29.024] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 23
+[07Dec2024 16:49:29.075] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 24
+[07Dec2024 16:49:29.124] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cuffed-server.toml' to 'fml:handshake' sequence 25
+[07Dec2024 16:49:29.175] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 26
+[07Dec2024 16:49:57.174] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7186244[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:36891) lost connection: Disconnected
+[07Dec2024 16:53:55.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [World 1-2]
+[07Dec2024 16:54:27.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 16:54:27.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 16:54:44.035] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b39lqigu7o3e]: started parsing
+[07Dec2024 16:54:44.035] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b39lqigu7o3e]: Consuming argument `iron_block`
+[07Dec2024 16:54:44.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b39lqigu7o3e]: Finished looking at arguments. Finalizing command.
+[07Dec2024 16:54:44.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0pm8wa1psjz]: started parsing
+[07Dec2024 16:54:44.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0pm8wa1psjz]: Consuming argument `iron_block`
+[07Dec2024 16:54:44.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0pm8wa1psjz]: Finished looking at arguments. Finalizing command.
+[07Dec2024 16:54:45.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uyis77y58xfc]: started parsing
+[07Dec2024 16:54:45.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uyis77y58xfc]: Consuming argument `iron_bloc`
+[07Dec2024 16:54:45.341] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wnsr0lr3goem]: started parsing
+[07Dec2024 16:54:45.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wnsr0lr3goem]: Consuming argument `iron_blo`
+[07Dec2024 16:54:45.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w2n74htc6lto]: started parsing
+[07Dec2024 16:54:45.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w2n74htc6lto]: Consuming argument `iron_bl`
+[07Dec2024 16:54:45.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pw1zgkr7tpej]: started parsing
+[07Dec2024 16:54:45.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pw1zgkr7tpej]: Consuming argument `iron_b`
+[07Dec2024 16:54:45.344] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1idrmc06rcj1u]: started parsing
+[07Dec2024 16:54:45.344] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1idrmc06rcj1u]: Consuming argument `iron_`
+[07Dec2024 16:54:45.466] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xosq87bopfug]: started parsing
+[07Dec2024 16:54:45.466] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xosq87bopfug]: Consuming argument `iron`
+[07Dec2024 16:54:45.594] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0otmo8nk8591t]: started parsing
+[07Dec2024 16:54:45.594] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0otmo8nk8591t]: Consuming argument `iro`
+[07Dec2024 16:54:45.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11kvqd8a043im]: started parsing
+[07Dec2024 16:54:45.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11kvqd8a043im]: Consuming argument `ir`
+[07Dec2024 16:54:46.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c939gf2b4ojy]: started parsing
+[07Dec2024 16:54:46.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c939gf2b4ojy]: Consuming argument `i`
+[07Dec2024 16:54:46.785] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16k9uox79ryer]: started parsing
+[07Dec2024 16:54:46.785] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16k9uox79ryer]: Consuming argument ``
+[07Dec2024 16:54:47.001] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lzddux8k3zwy]: started parsing
+[07Dec2024 16:54:47.001] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lzddux8k3zwy]: Consuming argument `S`
+[07Dec2024 16:54:47.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s9tp9ht9k9ru]: started parsing
+[07Dec2024 16:54:47.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s9tp9ht9k9ru]: Consuming argument `SM`
+[07Dec2024 16:54:47.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dzwjzcliv5qb]: started parsing
+[07Dec2024 16:54:47.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dzwjzcliv5qb]: Consuming argument `S`
+[07Dec2024 16:54:48.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zjxlkfwyzcuv]: started parsing
+[07Dec2024 16:54:48.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zjxlkfwyzcuv]: Consuming argument ``
+[07Dec2024 16:54:48.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ttwdnm4u97uk]: started parsing
+[07Dec2024 16:54:48.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ttwdnm4u97uk]: Consuming argument `s`
+[07Dec2024 16:54:48.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wu6jcvs14bx4]: started parsing
+[07Dec2024 16:54:48.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wu6jcvs14bx4]: Consuming argument `sm`
+[07Dec2024 16:54:49.012] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1idjdmf09cmdk]: started parsing
+[07Dec2024 16:54:49.012] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1idjdmf09cmdk]: Consuming argument `smo`
+[07Dec2024 16:54:49.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091keel9qcerm]: started parsing
+[07Dec2024 16:54:49.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091keel9qcerm]: Consuming argument `smoo`
+[07Dec2024 16:54:49.650] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b7vfyxgoyawj]: started parsing
+[07Dec2024 16:54:49.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b7vfyxgoyawj]: Consuming argument `smoot`
+[07Dec2024 16:54:54.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o3k6k5qdsvfa]: started parsing
+[07Dec2024 16:54:54.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o3k6k5qdsvfa]: Consuming argument `smooth_stone_slab`
+[07Dec2024 16:54:54.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o3k6k5qdsvfa]: Finished looking at arguments. Finalizing command.

@@ -4222,6 +4222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-07 16:48:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-07 16:24:34 +0000"
@@ -4243,6 +4249,12 @@
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2024-12-07 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "trafficcraft:manhole": {
+    "criteria": {
+      "requirement": "2024-12-07 16:53:55 +0000"
     },
     "done": true
   },

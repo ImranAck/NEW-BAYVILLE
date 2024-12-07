@@ -1428,3 +1428,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 16:44:22.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [07Dec2024 16:44:22.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [07Dec2024 16:44:40.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Adventure Mode]
+[07Dec2024 16:45:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 4500 to [bank] for Momo93bg (now 4819)]
+[07Dec2024 16:45:16.169] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:45:16.469] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:45:16.470] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:46:18.286] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:46:20.813] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:46:21.153] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:46:22.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 16:46:23.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:46:23.819] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:46:23.819] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:46:31.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 16:47:01.129] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:47:01.278] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:48:41.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Disconnected
+[07Dec2024 16:48:41.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
+[07Dec2024 16:48:43.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[07Dec2024 16:48:43.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[07Dec2024 16:49:57.174] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7186244[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:36891) lost connection: Disconnected
+[07Dec2024 16:53:55.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [World 1-2]
