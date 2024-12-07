@@ -850,3 +850,141 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 15:23:48.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 5)]
 [07Dec2024 15:23:49.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Modified entity data of Remove nearby vehicles]
 [07Dec2024 15:23:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Modified entity data of Remove nearby vehicles]
+[07Dec2024 15:24:28.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 5)]
+[07Dec2024 15:25:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 13)]
+[07Dec2024 15:27:19.881] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:27:20.053] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:27:20.433] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:27:37.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 8500 to [bank] for Gaga (now 8510)]
+[07Dec2024 15:28:04.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2898, l='ServerLevel[world]', x=34.62, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 15:28:04.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2900, l='ServerLevel[world]', x=52.33, y=13.00, z=128.33] died, message: 'Armorer was killed'
+[07Dec2024 15:28:11.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 14)]
+[07Dec2024 15:28:13.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 14)]
+[07Dec2024 15:28:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 14)]
+[07Dec2024 15:28:20.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 14)]
+[07Dec2024 15:28:25.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Triggered [tr] (set value to 6)]
+[07Dec2024 15:28:37.339] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:28:38.642] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:28:41.392] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:30:03.578] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:30:03.581] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[07Dec2024 15:30:06.375] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:30:07.358] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:30:07.359] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[07Dec2024 15:30:26.828] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:30:35.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Imranack to Gaga]
+[07Dec2024 15:30:39.194] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:30:39.194] [Server thread/INFO] [cuffed/]: attempting to put restraints on Gaga
+[07Dec2024 15:31:13.220] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 15:31:22.775] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:31:30.326] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:31:31.527] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:31:32.238] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:31:36.627] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 2000 from [bank] for Gaga (now 6810)]
+[07Dec2024 15:32:19.442] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:21.829] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:25.901] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:31.092] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:31.985] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:32.388] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:32.590] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:32.792] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:32.992] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:33.132] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:33.340] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:33.542] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:33.733] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:33.939] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:34.141] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:34.332] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:34.490] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:34.648] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:34.878] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:34.997] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:35.190] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:35.398] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:35.583] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:35.793] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:36.183] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:38.194] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:39.891] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:40.533] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:40.887] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:43.640] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:45.543] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:46.635] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:46.834] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:47.035] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:32:59.986] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:00.238] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:01.135] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:01.378] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:02.630] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:05.681] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:21.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[07Dec2024 15:33:22.863] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:23.746] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:24.287] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:29.150] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:50.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set [bank] for Gaga to 2000]
+[07Dec2024 15:33:51.578] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:33:56.813] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:34:05.276] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:34:06.066] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:34:06.293] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:34:07.909] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:34:15.940] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:34:18.384] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:34:31.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/3441, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Weaponsmith was killed'
+[07Dec2024 15:34:31.471] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/3457, l='ServerLevel[world]', x=46.50, y=12.90, z=262.50] died, message: 'Cartographer was killed'
+[07Dec2024 15:34:32.958] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:34:32.959] [Server thread/INFO] [cuffed/]: attempting to put restraints on Gaga
+[07Dec2024 15:34:41.857] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:34:45.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 15:34:50.834] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:34:50.834] [Server thread/INFO] [cuffed/]: attempting to put restraints on Gaga
+[07Dec2024 15:34:52.286] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:34:52.286] [Server thread/INFO] [cuffed/]: attempting to put restraints on Gaga
+[07Dec2024 15:35:14.327] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:35:14.625] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:35:14.814] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:35:14.954] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:35:28.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Disconnected
+[07Dec2024 15:35:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
+[07Dec2024 15:36:18.878] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:36:27.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/3302, l='ServerLevel[world]', x=57.27, y=13.00, z=136.51] died, message: 'Armorer was killed'
+[07Dec2024 15:36:27.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/3304, l='ServerLevel[world]', x=47.63, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 15:37:18.828] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:37:29.785] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:37:46.177] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:37:52.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/3674, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 15:39:18.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[07Dec2024 15:39:18.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[07Dec2024 15:39:59.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gaga[/127.147.149.37:33233] logged in with entity id 3736 at (67.60647540168924, 13.0, 265.0604304953634)
+[07Dec2024 15:39:59.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga joined the game
+[07Dec2024 15:41:33.244] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:42:11.276] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:42:17.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 15:42:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 15:42:22.437] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:42:26.163] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:42:33.376] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:42:36.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/3913, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 15:42:39.220] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 15:42:50.404] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:42:51.836] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:42:52.675] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:42:52.880] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:42:54.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:40593] logged in with entity id 3959 at (59.97051518381987, 13.0, 82.22766130465362)
+[07Dec2024 15:42:54.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[07Dec2024 15:43:27.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 15:43:44.245] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:43:45.925] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:43:48.577] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:43:52.495] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 15:44:01.729] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:44:02.626] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:44:06.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[07Dec2024 15:44:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set [bank] for Gaga to 9000]
+[07Dec2024 15:44:21.126] [Server thread/INFO] [cuffed/]: Imranack is interacting!
