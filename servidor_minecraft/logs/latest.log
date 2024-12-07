@@ -665,3 +665,98 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 14:43:27.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1175, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
 [07Dec2024 14:43:42.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1182, l='ServerLevel[world]', x=55.26, y=13.00, z=136.53] died, message: 'Armorer was killed'
 [07Dec2024 14:43:42.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1184, l='ServerLevel[world]', x=53.64, y=13.00, z=127.58] died, message: 'Armorer was killed'
+[07Dec2024 14:44:24.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1199, l='ServerLevel[world]', x=50.51, y=13.00, z=135.49] died, message: 'Armorer was killed'
+[07Dec2024 14:44:24.421] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1201, l='ServerLevel[world]', x=51.61, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 14:44:43.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:44:45.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:44:49.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1207, l='ServerLevel[world]', x=54.20, y=13.00, z=136.20] died, message: 'Armorer was killed'
+[07Dec2024 14:44:49.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1209, l='ServerLevel[world]', x=38.38, y=13.00, z=127.52] died, message: 'Armorer was killed'
+[07Dec2024 14:44:52.650] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'jeg:recipes/jeg/workbench' in progress file ./world/advancements/127c64f7-9ca6-3f72-a867-0b9b8322d335.json - it doesn't exist anymore?
+[07Dec2024 14:44:52.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Florion[/127.147.149.37:43237] logged in with entity id 1220 at (73.53755266398286, 13.0, 322.285012500653)
+[07Dec2024 14:44:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion joined the game
+[07Dec2024 14:45:01.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1274, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[07Dec2024 14:45:01.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1276, l='ServerLevel[world]', x=41.88, y=13.00, z=134.11] died, message: 'Armorer was killed'
+[07Dec2024 14:45:21.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1284, l='ServerLevel[world]', x=57.51, y=13.00, z=134.53] died, message: 'Armorer was killed'
+[07Dec2024 14:45:21.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1286, l='ServerLevel[world]', x=40.55, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 14:47:21.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Summoned new Armor Stand]
+[07Dec2024 14:47:28.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:47:30.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:47:39.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:47:40.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:48:05.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Modified entity data of Armor Stand]
+[07Dec2024 14:48:09.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:48:10.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:48:47.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Florion lost connection: Disconnected
+[07Dec2024 14:48:47.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion left the game
+[07Dec2024 14:49:21.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Florion[/127.147.149.37:55059] logged in with entity id 1341 at (85.50351836607751, 17.0, 312.67127186439785)
+[07Dec2024 14:49:21.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion joined the game
+[07Dec2024 14:49:58.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Summoned new Armor Stand]
+[07Dec2024 14:50:00.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:50:06.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Modified entity data of Armor Stand]
+[07Dec2024 14:50:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:50:42.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Modified entity data of Gas station]
+[07Dec2024 14:50:45.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:50:50.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:51:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 1000]
+[07Dec2024 14:51:42.369] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.370] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.371] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.371] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.372] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.373] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.373] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.374] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.374] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.375] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.375] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.376] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.377] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.377] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.378] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.378] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.379] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.380] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:51:42.380] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 14:53:06.179] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:54:17.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1534, l='ServerLevel[world]', x=54.29, y=13.00, z=136.51] died, message: 'Armorer was killed'
+[07Dec2024 14:54:17.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1536, l='ServerLevel[world]', x=49.50, y=13.00, z=121.07] died, message: 'Armorer was killed'
+[07Dec2024 14:54:18.278] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:54:29.229] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:54:40.828] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[07Dec2024 14:54:52.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion was killed
+[07Dec2024 14:54:56.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1628, l='ServerLevel[world]', x=-24.50, y=3.00, z=163.50] died, message: 'Villager was killed'
+[07Dec2024 14:54:56.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1630, l='ServerLevel[world]', x=-3.50, y=3.00, z=157.50] died, message: 'Villager was killed'
+[07Dec2024 14:54:56.672] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1632, l='ServerLevel[world]', x=-22.50, y=3.00, z=158.50] died, message: 'Villager was killed'
+[07Dec2024 14:55:04.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1629, l='ServerLevel[world]', x=5.10, y=4.00, z=166.55] died, message: 'Villager was killed'
+[07Dec2024 14:55:04.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1631, l='ServerLevel[world]', x=5.50, y=4.00, z=166.50] died, message: 'Villager was killed'
+[07Dec2024 14:55:05.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:55:10.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Creative Mode]
+[07Dec2024 14:55:19.755] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:55:27.533] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:55:29.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1656, l='ServerLevel[world]', x=-118.50, y=15.00, z=51.50] died, message: 'Villager was killed'
+[07Dec2024 14:55:29.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1658, l='ServerLevel[world]', x=-125.50, y=20.00, z=37.50] died, message: 'Villager was killed'
+[07Dec2024 14:56:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Florion's game mode to Creative Mode]
+[07Dec2024 14:56:06.444] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:56:07.437] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:56:08.429] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:56:09.212] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:56:54.300] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[07Dec2024 14:56:57.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion was killed
+[07Dec2024 14:57:03.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:57:13.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:57:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Creative Mode]
+[07Dec2024 14:57:32.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Florion to Imranack]
+[07Dec2024 14:57:33.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1905, l='ServerLevel[world]', x=-118.50, y=15.00, z=51.50] died, message: 'Villager was killed'
+[07Dec2024 14:57:33.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1907, l='ServerLevel[world]', x=-125.50, y=20.00, z=37.50] died, message: 'Villager was killed'
+[07Dec2024 14:57:42.536] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:58:39.935] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:58:54.545] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:59:19.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Florion lost connection: Disconnected
+[07Dec2024 14:59:19.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion left the game
+[07Dec2024 14:59:41.603] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:59:46.791] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:03:10.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Florion[/127.147.149.37:50749] logged in with entity id 2240 at (-107.63142607522416, 13.0, 260.79448804679464)
+[07Dec2024 15:03:10.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion joined the game
+[07Dec2024 15:03:45.937] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:03:54.885] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 15:03:56.836] [Server thread/INFO] [cuffed/]: Imranack is interacting!
