@@ -1347,3 +1347,84 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 16:33:54.869] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [07Dec2024 16:33:54.869] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [07Dec2024 16:34:45.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! -0.2845594271271352,0.0,-10.091745657381935
+[07Dec2024 16:34:57.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8566, l='ServerLevel[world]', x=49.53, y=13.00, z=126.25] died, message: 'Armorer was killed'
+[07Dec2024 16:34:57.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8568, l='ServerLevel[world]', x=59.55, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[07Dec2024 16:35:06.469] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:35:06.769] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:35:06.769] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:35:44.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8674, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[07Dec2024 16:35:44.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8676, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[07Dec2024 16:35:53.069] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:35:53.370] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:35:53.371] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:36:06.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8724, l='ServerLevel[world]', x=40.73, y=13.00, z=135.43] died, message: 'Armorer was killed'
+[07Dec2024 16:36:06.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8726, l='ServerLevel[world]', x=49.51, y=13.00, z=121.24] died, message: 'Armorer was killed'
+[07Dec2024 16:36:14.019] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8808, l='ServerLevel[world]', x=57.75, y=13.00, z=136.54] died, message: 'Armorer was killed'
+[07Dec2024 16:36:14.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8810, l='ServerLevel[world]', x=48.94, y=13.00, z=131.86] died, message: 'Armorer was killed'
+[07Dec2024 16:36:34.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8856, l='ServerLevel[world]', x=51.84, y=13.00, z=135.16] died, message: 'Armorer was killed'
+[07Dec2024 16:36:34.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8858, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[07Dec2024 16:37:11.819] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:37:12.119] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:37:12.120] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:37:49.719] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:37:50.019] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:37:50.020] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:38:35.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! -1.6335735925549386,0.5031735157055621,10.191906622691482
+[07Dec2024 16:39:22.419] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:39:31.416] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:39:32.966] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:39:34.116] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:39:42.536] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:39:53.435] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:40:03.027] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:40:14.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.356710245129193
+[07Dec2024 16:40:14.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.8315895162454012
+[07Dec2024 16:41:18.335] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:42:03.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.4754966342399882
+[07Dec2024 16:42:03.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.973133177703815
+[07Dec2024 16:42:17.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.2773909129625167
+[07Dec2024 16:42:17.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.7772442990237778
+[07Dec2024 16:42:17.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 1.2770984779162973
+[07Dec2024 16:42:17.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 1.7769532117906692
+[07Dec2024 16:42:20.483] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:42:34.515] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:42:48.765] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:42:52.327] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:43:14.128] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:43:14.765] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:43:15.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/150, l='ServerLevel[world]', x=166.50, y=12.00, z=-190.50] died, message: 'Farmer was killed'
+[07Dec2024 16:43:18.979] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:43:19.164] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:43:19.384] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:43:32.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9430, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[07Dec2024 16:43:32.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9431, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[07Dec2024 16:43:32.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9432, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[07Dec2024 16:43:32.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9433, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[07Dec2024 16:43:32.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9434, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[07Dec2024 16:43:45.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.3228842566398953
+[07Dec2024 16:43:45.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.8199055886284725
+[07Dec2024 16:43:45.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 1.3169554920679047
+[07Dec2024 16:43:45.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 1.8140253955225916
+[07Dec2024 16:43:45.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 2.3111092989877164
+[07Dec2024 16:43:45.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 2.80820300245999
+[07Dec2024 16:43:45.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 3.3053035659371375
+[07Dec2024 16:43:45.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.3230091064908578
+[07Dec2024 16:43:45.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.3230124678931361
+[07Dec2024 16:43:45.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.3230148208747039
+[07Dec2024 16:43:45.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.3230164679617502
+[07Dec2024 16:43:45.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.32301762092268405
+[07Dec2024 16:43:45.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.3230184279953079
+[07Dec2024 16:43:45.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.323018992946146
+[07Dec2024 16:43:45.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.32301938841172273
+[07Dec2024 16:43:45.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.3230196652376236
+[07Dec2024 16:43:46.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.32301985901574426
+[07Dec2024 16:43:46.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.8201361126657929
+[07Dec2024 16:43:46.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUV (vehicle of Gaga) moved wrongly! 0.3230200896117026
+[07Dec2024 16:43:58.514] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[07Dec2024 16:44:19.219] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:44:19.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:44:19.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:44:22.269] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:44:22.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:44:22.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[07Dec2024 16:44:40.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Adventure Mode]
