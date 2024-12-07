@@ -655,3 +655,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 14:06:59.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8838, l='ServerLevel[world]', x=40.72, y=13.00, z=135.28] died, message: 'Armorer was killed'
 [07Dec2024 14:08:07.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8952, l='ServerLevel[world]', x=59.55, y=13.00, z=136.53] died, message: 'Armorer was killed'
 [07Dec2024 14:08:07.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8954, l='ServerLevel[world]', x=35.53, y=13.00, z=130.51] died, message: 'Armorer was killed'
+[07Dec2024 14:10:09.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:10:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:11:57.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[07Dec2024 14:12:06.396] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:12:26.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:12:27.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:13:12.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:13:15.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:13:28.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:13:37.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:13:45.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:14:05.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:14:11.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:17:54.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[07Dec2024 14:17:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[07Dec2024 14:18:45.944] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'jeg:recipes/jeg/workbench' in progress file ./world/advancements/a8db6887-8889-3173-af6f-edec5f9bda83.json - it doesn't exist anymore?
+[07Dec2024 14:18:45.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:41441] logged in with entity id 9550 at (687.5615748123917, 15.0, -379.2906941879345)
+[07Dec2024 14:18:45.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[07Dec2024 14:18:46.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:60131] logged in with entity id 9551 at (-55.49648568623895, 27.606286347413228, 121.70112464703058)
+[07Dec2024 14:18:46.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[07Dec2024 14:19:01.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]

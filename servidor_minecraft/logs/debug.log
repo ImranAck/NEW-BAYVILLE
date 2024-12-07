@@ -4282,3 +4282,551 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 14:09:11.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wgr7bdg292rd]: started parsing
 [07Dec2024 14:09:11.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wgr7bdg292rd]: Consuming argument `air`
 [07Dec2024 14:09:11.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wgr7bdg292rd]: Finished looking at arguments. Finalizing command.
+[07Dec2024 14:09:32.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mfdoh36g37d]: started parsing
+[07Dec2024 14:09:32.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mfdoh36g37d]: Consuming argument `air`
+[07Dec2024 14:09:32.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mfdoh36g37d]: Finished looking at arguments. Finalizing command.
+[07Dec2024 14:09:32.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wtrr8hzm7x8c]: started parsing
+[07Dec2024 14:09:32.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wtrr8hzm7x8c]: Consuming argument `air`
+[07Dec2024 14:09:32.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wtrr8hzm7x8c]: Finished looking at arguments. Finalizing command.
+[07Dec2024 14:09:33.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13261bobr6vb1]: started parsing
+[07Dec2024 14:09:33.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13261bobr6vb1]: Consuming argument `air`
+[07Dec2024 14:09:33.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13261bobr6vb1]: Finished looking at arguments. Finalizing command.
+[07Dec2024 14:09:40.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 14:09:40.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 14:09:40.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nusm112dezea]: started parsing
+[07Dec2024 14:09:40.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nusm112dezea]: Finished looking at arguments. Finalizing command.
+[07Dec2024 14:09:57.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g4kvonuikyek]: started parsing
+[07Dec2024 14:09:57.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g4kvonuikyek]: Consuming argument `air`
+[07Dec2024 14:09:57.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g4kvonuikyek]: Finished looking at arguments. Finalizing command.
+[07Dec2024 14:09:57.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wrxzr6ibbe5i]: started parsing
+[07Dec2024 14:09:57.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wrxzr6ibbe5i]: Consuming argument `air`
+[07Dec2024 14:09:57.001] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wrxzr6ibbe5i]: Finished looking at arguments. Finalizing command.
+[07Dec2024 14:09:57.912] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bwlq89i0x129]: started parsing
+[07Dec2024 14:09:57.912] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bwlq89i0x129]: Consuming argument `air`
+[07Dec2024 14:09:57.912] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bwlq89i0x129]: Finished looking at arguments. Finalizing command.
+[07Dec2024 14:10:09.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:10:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:10:54.252] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2084616397 to 21
+[07Dec2024 14:11:57.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Key] to Imranack]
+[07Dec2024 14:12:06.396] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[07Dec2024 14:12:26.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:12:27.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:13:10.242] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate
+[07Dec2024 14:13:12.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:13:15.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:13:28.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:13:37.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:13:45.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:14:05.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:14:11.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 14:14:40.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 14:14:40.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 14:17:54.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[07Dec2024 14:17:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[07Dec2024 14:18:32.630] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 27 messages to dispatch.
+[07Dec2024 14:18:32.640] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[07Dec2024 14:18:32.689] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[07Dec2024 14:18:32.738] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[07Dec2024 14:18:32.746] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[07Dec2024 14:18:32.746] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[07Dec2024 14:18:32.747] [Netty Epoll Server IO #6/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:32.789] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[07Dec2024 14:18:32.789] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, cuffed, gamingdeco, police_mod, thief_style, geckolib, playeranimator, creativecore, moderndeco, betterfpsdist, furnitureexpanded, curios, modernfurniture, securitycraft, mr_tld, mainmod, inv_view_forge, entityculling, pointblank, customnpcs, worldedit, fbi_swat_armors, magicaljewelry, architectury, the_dirty_stuff, cupboard, trafficcraft, dragonlib, refurbished_furniture, saros_road_blocks_mod, framework, dragnvehicles, forge, mdm, lazrslib, playerrevive, emotecraft, electronic_device_mod]
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pointblank:pointblank' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thief_style:thief_style' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.11' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gamingdeco:gamingdeco' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'electronic_device_mod:electronic_device_mod' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customnpcs:packets' : Version test of 'CNPCS' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_dirty_stuff:the_dirty_stuff' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mainmod:mainmod' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mdm:mdm' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'police_mod:police_mod' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'saros_road_blocks_mod:saros_road_blocks_mod' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moderndeco:moderndeco' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cuffed:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:32.790] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[07Dec2024 14:18:32.791] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.791] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfurniture:modernfurniture' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.791] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[07Dec2024 14:18:32.791] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:32.791] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[07Dec2024 14:18:32.791] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[07Dec2024 14:18:32.834] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[07Dec2024 14:18:32.834] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:32.834] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:32.839] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[07Dec2024 14:18:32.856] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[07Dec2024 14:18:32.856] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:32.856] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:32.889] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[07Dec2024 14:18:32.940] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[07Dec2024 14:18:32.978] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[07Dec2024 14:18:32.979] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:32.979] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:32.989] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[07Dec2024 14:18:32.989] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[07Dec2024 14:18:32.989] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:32.989] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.029] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[07Dec2024 14:18:33.029] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.029] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.039] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[07Dec2024 14:18:33.088] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[07Dec2024 14:18:33.129] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[07Dec2024 14:18:33.129] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.129] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.139] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[07Dec2024 14:18:33.139] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[07Dec2024 14:18:33.139] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.139] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.181] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[07Dec2024 14:18:33.181] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.181] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.188] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[07Dec2024 14:18:33.206] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[07Dec2024 14:18:33.206] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.206] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.239] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[07Dec2024 14:18:33.276] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[07Dec2024 14:18:33.276] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.277] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.288] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[07Dec2024 14:18:33.306] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[07Dec2024 14:18:33.306] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.306] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.338] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[07Dec2024 14:18:33.389] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry cuffed:restraints' to 'fml:handshake' sequence 15
+[07Dec2024 14:18:33.438] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[07Dec2024 14:18:33.445] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[07Dec2024 14:18:33.446] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.446] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.488] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[07Dec2024 14:18:33.489] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[07Dec2024 14:18:33.489] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.489] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.489] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[07Dec2024 14:18:33.489] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.489] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.529] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[07Dec2024 14:18:33.529] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.529] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.539] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[07Dec2024 14:18:33.556] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[07Dec2024 14:18:33.556] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.556] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.588] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[07Dec2024 14:18:33.621] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[07Dec2024 14:18:33.621] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.621] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.638] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 20
+[07Dec2024 14:18:33.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[07Dec2024 14:18:33.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.688] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 21
+[07Dec2024 14:18:33.706] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[07Dec2024 14:18:33.706] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:33.706] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:33.738] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 22
+[07Dec2024 14:18:33.788] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 23
+[07Dec2024 14:18:33.838] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 24
+[07Dec2024 14:18:33.889] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cuffed-server.toml' to 'fml:handshake' sequence 25
+[07Dec2024 14:18:33.939] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 26
+[07Dec2024 14:18:39.462] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 27 messages to dispatch.
+[07Dec2024 14:18:39.489] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[07Dec2024 14:18:39.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[07Dec2024 14:18:39.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[07Dec2024 14:18:39.522] [Netty Epoll Server IO #7/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:39.539] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[07Dec2024 14:18:39.589] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[07Dec2024 14:18:39.609] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[07Dec2024 14:18:39.609] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, cuffed, gamingdeco, police_mod, thief_style, geckolib, playeranimator, creativecore, moderndeco, betterfpsdist, furnitureexpanded, curios, modernfurniture, securitycraft, mr_tld, mainmod, inv_view_forge, entityculling, pointblank, customnpcs, worldedit, fbi_swat_armors, magicaljewelry, architectury, the_dirty_stuff, cupboard, trafficcraft, dragonlib, refurbished_furniture, saros_road_blocks_mod, framework, dragnvehicles, forge, mdm, lazrslib, playerrevive, emotecraft, electronic_device_mod]
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pointblank:pointblank' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thief_style:thief_style' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.11' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gamingdeco:gamingdeco' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'electronic_device_mod:electronic_device_mod' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customnpcs:packets' : Version test of 'CNPCS' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_dirty_stuff:the_dirty_stuff' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mainmod:mainmod' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mdm:mdm' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'police_mod:police_mod' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'saros_road_blocks_mod:saros_road_blocks_mod' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moderndeco:moderndeco' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cuffed:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.610] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.611] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 14:18:39.611] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[07Dec2024 14:18:39.611] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.611] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfurniture:modernfurniture' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.611] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[07Dec2024 14:18:39.611] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[07Dec2024 14:18:39.611] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[07Dec2024 14:18:39.611] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[07Dec2024 14:18:39.638] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[07Dec2024 14:18:39.655] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[07Dec2024 14:18:39.655] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:39.655] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:39.689] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[07Dec2024 14:18:39.704] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[07Dec2024 14:18:39.704] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:39.704] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:39.738] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[07Dec2024 14:18:39.788] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[07Dec2024 14:18:39.802] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[07Dec2024 14:18:39.802] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:39.802] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:39.839] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[07Dec2024 14:18:39.839] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[07Dec2024 14:18:39.839] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:39.839] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:39.881] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[07Dec2024 14:18:39.881] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:39.881] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:39.888] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[07Dec2024 14:18:39.939] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[07Dec2024 14:18:39.954] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[07Dec2024 14:18:39.954] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:39.954] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:39.989] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[07Dec2024 14:18:40.000] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[07Dec2024 14:18:40.000] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.001] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.039] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[07Dec2024 14:18:40.040] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[07Dec2024 14:18:40.040] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.040] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.081] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[07Dec2024 14:18:40.081] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.081] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.089] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[07Dec2024 14:18:40.120] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[07Dec2024 14:18:40.120] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.121] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.140] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[07Dec2024 14:18:40.156] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[07Dec2024 14:18:40.156] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.156] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.189] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[07Dec2024 14:18:40.239] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry cuffed:restraints' to 'fml:handshake' sequence 15
+[07Dec2024 14:18:40.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[07Dec2024 14:18:40.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.289] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[07Dec2024 14:18:40.289] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[07Dec2024 14:18:40.289] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.289] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.329] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[07Dec2024 14:18:40.329] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.329] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.339] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[07Dec2024 14:18:40.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[07Dec2024 14:18:40.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.389] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[07Dec2024 14:18:40.405] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[07Dec2024 14:18:40.406] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.406] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.438] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[07Dec2024 14:18:40.471] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[07Dec2024 14:18:40.471] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.471] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.490] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 20
+[07Dec2024 14:18:40.505] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[07Dec2024 14:18:40.505] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.506] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.539] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 21
+[07Dec2024 14:18:40.554] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[07Dec2024 14:18:40.554] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:40.554] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:40.589] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 22
+[07Dec2024 14:18:40.639] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 23
+[07Dec2024 14:18:40.688] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 24
+[07Dec2024 14:18:40.739] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cuffed-server.toml' to 'fml:handshake' sequence 25
+[07Dec2024 14:18:40.789] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 26
+[07Dec2024 14:18:45.816] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[07Dec2024 14:18:45.816] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:45.817] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:45.857] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[07Dec2024 14:18:45.857] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:45.857] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:45.858] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[07Dec2024 14:18:45.858] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:45.858] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:45.858] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[07Dec2024 14:18:45.858] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:45.858] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:45.858] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[07Dec2024 14:18:45.858] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:45.858] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:45.889] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[07Dec2024 14:18:45.944] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'jeg:recipes/jeg/workbench' in progress file ./world/advancements/a8db6887-8889-3173-af6f-edec5f9bda83.json - it doesn't exist anymore?
+[07Dec2024 14:18:45.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:41441] logged in with entity id 9550 at (687.5615748123917, 15.0, -379.2906941879345)
+[07Dec2024 14:18:45.952] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@6eec2978 into net.minecraft.network.Connection@4d46a8d5
+[07Dec2024 14:18:45.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[07Dec2024 14:18:46.459] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[07Dec2024 14:18:46.459] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:46.459] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:46.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[07Dec2024 14:18:46.502] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:46.502] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:46.502] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[07Dec2024 14:18:46.502] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:46.502] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:46.503] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[07Dec2024 14:18:46.503] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:46.503] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:46.503] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[07Dec2024 14:18:46.503] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 14:18:46.503] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 14:18:46.518] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[07Dec2024 14:18:46.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:60131] logged in with entity id 9551 at (-55.49648568623895, 27.606286347413228, 121.70112464703058)
+[07Dec2024 14:18:46.546] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@23727db into net.minecraft.network.Connection@3489ea1
+[07Dec2024 14:18:46.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[07Dec2024 14:18:46.887] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 45c9e1f1-d058-34e4-b7ab-09049f609783 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[07Dec2024 14:18:47.442] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: a8db6887-8889-3173-af6f-edec5f9bda83 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[07Dec2024 14:19:01.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 14:19:05.374] [Server thread/DEBUG] [pointblank/]: 45374 handling client fire request
+[07Dec2024 14:19:05.375] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 530299787 to 20
+[07Dec2024 14:19:05.377] [Server thread/DEBUG] [pointblank/]: 45377 - obtained hit result in 0ms
+[07Dec2024 14:19:05.377] [Server thread/DEBUG] [pointblank/]: 45377 obtained hit results
+[07Dec2024 14:19:05.377] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5140ac7b
+[07Dec2024 14:19:05.378] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=-2.17, y=27.61, z=101.26] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=-2.17, y=27.61, z=101.26]
+[07Dec2024 14:19:05.709] [Server thread/DEBUG] [pointblank/]: 45709 handling client fire request
+[07Dec2024 14:19:05.710] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 530299787 to 19
+[07Dec2024 14:19:05.710] [Server thread/DEBUG] [pointblank/]: 45710 - obtained hit result in 0ms
+[07Dec2024 14:19:05.710] [Server thread/DEBUG] [pointblank/]: 45710 obtained hit results
+[07Dec2024 14:19:05.710] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2e8e1445
+[07Dec2024 14:19:05.710] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=5.31, y=27.61, z=101.15] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=5.31, y=27.61, z=101.15]
+[07Dec2024 14:19:05.832] [Server thread/DEBUG] [pointblank/]: 45832 handling client fire request
+[07Dec2024 14:19:05.832] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 530299787 to 18
+[07Dec2024 14:19:05.832] [Server thread/DEBUG] [pointblank/]: 45832 - obtained hit result in 0ms
+[07Dec2024 14:19:05.832] [Server thread/DEBUG] [pointblank/]: 45832 obtained hit results
+[07Dec2024 14:19:05.832] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@120b4cb
+[07Dec2024 14:19:05.833] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=8.45, y=27.61, z=101.11] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=8.45, y=27.61, z=101.11]
+[07Dec2024 14:19:09.322] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 17
+[07Dec2024 14:19:12.616] [Server thread/DEBUG] [pointblank/]: 52616 handling client fire request
+[07Dec2024 14:19:12.616] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 16
+[07Dec2024 14:19:12.616] [Server thread/DEBUG] [pointblank/]: 52616 - obtained hit result in 0ms
+[07Dec2024 14:19:12.616] [Server thread/DEBUG] [pointblank/]: 52616 obtained hit results
+[07Dec2024 14:19:12.616] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@12581382
+[07Dec2024 14:19:12.617] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=37.56, y=29.48, z=82.23] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=37.56, y=29.48, z=82.23]
+[07Dec2024 14:19:12.847] [Server thread/DEBUG] [pointblank/]: 52847 handling client fire request
+[07Dec2024 14:19:12.847] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 15
+[07Dec2024 14:19:12.848] [Server thread/DEBUG] [pointblank/]: 52848 - obtained hit result in 0ms
+[07Dec2024 14:19:12.848] [Server thread/DEBUG] [pointblank/]: 52848 obtained hit results
+[07Dec2024 14:19:12.848] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@50116514
+[07Dec2024 14:19:12.848] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=37.89, y=29.48, z=80.13] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=37.89, y=29.48, z=80.13]
+[07Dec2024 14:19:13.095] [Server thread/DEBUG] [pointblank/]: 53095 handling client fire request
+[07Dec2024 14:19:13.095] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 14
+[07Dec2024 14:19:13.095] [Server thread/DEBUG] [pointblank/]: 53095 - obtained hit result in 0ms
+[07Dec2024 14:19:13.095] [Server thread/DEBUG] [pointblank/]: 53095 obtained hit results
+[07Dec2024 14:19:13.095] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4dd696cc
+[07Dec2024 14:19:13.095] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.22, y=29.48, z=77.47] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.22, y=29.48, z=77.47]
+[07Dec2024 14:19:13.213] [Server thread/DEBUG] [pointblank/]: 53213 handling client fire request
+[07Dec2024 14:19:13.214] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 13
+[07Dec2024 14:19:13.214] [Server thread/DEBUG] [pointblank/]: 53214 - obtained hit result in 0ms
+[07Dec2024 14:19:13.214] [Server thread/DEBUG] [pointblank/]: 53214 obtained hit results
+[07Dec2024 14:19:13.214] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2de98cd
+[07Dec2024 14:19:13.214] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.38, y=29.48, z=75.87] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.38, y=29.48, z=75.87]
+[07Dec2024 14:19:13.517] [Server thread/DEBUG] [pointblank/]: 53517 handling client fire request
+[07Dec2024 14:19:13.518] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 12
+[07Dec2024 14:19:13.518] [Server thread/DEBUG] [pointblank/]: 53518 - obtained hit result in 0ms
+[07Dec2024 14:19:13.518] [Server thread/DEBUG] [pointblank/]: 53518 obtained hit results
+[07Dec2024 14:19:13.518] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1f0b62ce
+[07Dec2024 14:19:13.518] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.62, y=29.48, z=73.18] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.62, y=29.48, z=73.18]
+[07Dec2024 14:19:13.624] [Server thread/DEBUG] [pointblank/]: 53624 handling client fire request
+[07Dec2024 14:19:13.624] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 11
+[07Dec2024 14:19:13.624] [Server thread/DEBUG] [pointblank/]: 53624 - obtained hit result in 0ms
+[07Dec2024 14:19:13.624] [Server thread/DEBUG] [pointblank/]: 53624 obtained hit results
+[07Dec2024 14:19:13.624] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@69e58912
+[07Dec2024 14:19:13.625] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.74, y=29.48, z=71.56] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.74, y=29.48, z=71.56]
+[07Dec2024 14:19:13.793] [Server thread/DEBUG] [pointblank/]: 53793 handling client fire request
+[07Dec2024 14:19:13.793] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 10
+[07Dec2024 14:19:13.793] [Server thread/DEBUG] [pointblank/]: 53793 - obtained hit result in 0ms
+[07Dec2024 14:19:13.793] [Server thread/DEBUG] [pointblank/]: 53793 obtained hit results
+[07Dec2024 14:19:13.793] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@54b225ac
+[07Dec2024 14:19:13.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.85, y=29.48, z=69.94] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.85, y=29.48, z=69.94]
+[07Dec2024 14:19:13.942] [Server thread/DEBUG] [pointblank/]: 53942 handling client fire request
+[07Dec2024 14:19:13.942] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 9
+[07Dec2024 14:19:13.943] [Server thread/DEBUG] [pointblank/]: 53942 - obtained hit result in 0ms
+[07Dec2024 14:19:13.943] [Server thread/DEBUG] [pointblank/]: 53943 obtained hit results
+[07Dec2024 14:19:13.943] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2590a444
+[07Dec2024 14:19:13.943] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.95, y=29.48, z=68.32] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=38.95, y=29.48, z=68.32]
+[07Dec2024 14:19:14.101] [Server thread/DEBUG] [pointblank/]: 54101 handling client fire request
+[07Dec2024 14:19:14.101] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 8
+[07Dec2024 14:19:14.102] [Server thread/DEBUG] [pointblank/]: 54102 - obtained hit result in 0ms
+[07Dec2024 14:19:14.102] [Server thread/DEBUG] [pointblank/]: 54102 obtained hit results
+[07Dec2024 14:19:14.102] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4169f38a
+[07Dec2024 14:19:14.102] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.05, y=29.48, z=66.69] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.05, y=29.48, z=66.69]
+[07Dec2024 14:19:14.244] [Server thread/DEBUG] [pointblank/]: 54244 handling client fire request
+[07Dec2024 14:19:14.244] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 7
+[07Dec2024 14:19:14.244] [Server thread/DEBUG] [pointblank/]: 54244 - obtained hit result in 0ms
+[07Dec2024 14:19:14.244] [Server thread/DEBUG] [pointblank/]: 54244 obtained hit results
+[07Dec2024 14:19:14.244] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7ecf2ebf
+[07Dec2024 14:19:14.244] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.15, y=29.48, z=65.06] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.15, y=29.48, z=65.06]
+[07Dec2024 14:19:14.328] [Server thread/DEBUG] [pointblank/]: 54328 handling client fire request
+[07Dec2024 14:19:14.328] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 6
+[07Dec2024 14:19:14.328] [Server thread/DEBUG] [pointblank/]: 54328 - obtained hit result in 0ms
+[07Dec2024 14:19:14.328] [Server thread/DEBUG] [pointblank/]: 54328 obtained hit results
+[07Dec2024 14:19:14.328] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@305f138b
+[07Dec2024 14:19:14.328] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.22, y=29.48, z=63.98] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.22, y=29.48, z=63.98]
+[07Dec2024 14:19:14.649] [Server thread/DEBUG] [pointblank/]: 54649 handling client fire request
+[07Dec2024 14:19:14.649] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 5
+[07Dec2024 14:19:14.650] [Server thread/DEBUG] [pointblank/]: 54650 - obtained hit result in 0ms
+[07Dec2024 14:19:14.650] [Server thread/DEBUG] [pointblank/]: 54650 obtained hit results
+[07Dec2024 14:19:14.650] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6ae2f2dd
+[07Dec2024 14:19:14.650] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.50, y=30.49, z=60.73] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.50, y=30.49, z=60.73]
+[07Dec2024 14:19:14.805] [Server thread/DEBUG] [pointblank/]: 54805 handling client fire request
+[07Dec2024 14:19:14.805] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 4
+[07Dec2024 14:19:14.806] [Server thread/DEBUG] [pointblank/]: 54806 - obtained hit result in 0ms
+[07Dec2024 14:19:14.806] [Server thread/DEBUG] [pointblank/]: 54806 obtained hit results
+[07Dec2024 14:19:14.806] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@b468507
+[07Dec2024 14:19:14.806] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.70, y=30.87, z=59.11] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.70, y=30.87, z=59.11]
+[07Dec2024 14:19:14.949] [Server thread/DEBUG] [pointblank/]: 54949 handling client fire request
+[07Dec2024 14:19:14.950] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 3
+[07Dec2024 14:19:14.950] [Server thread/DEBUG] [pointblank/]: 54950 - obtained hit result in 0ms
+[07Dec2024 14:19:14.950] [Server thread/DEBUG] [pointblank/]: 54950 obtained hit results
+[07Dec2024 14:19:14.950] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1aa1c84f
+[07Dec2024 14:19:14.950] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.92, y=30.95, z=57.50] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=39.92, y=30.95, z=57.50]
+[07Dec2024 14:19:15.095] [Server thread/DEBUG] [pointblank/]: 55095 handling client fire request
+[07Dec2024 14:19:15.095] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 2
+[07Dec2024 14:19:15.095] [Server thread/DEBUG] [pointblank/]: 55095 - obtained hit result in 0ms
+[07Dec2024 14:19:15.095] [Server thread/DEBUG] [pointblank/]: 55095 obtained hit results
+[07Dec2024 14:19:15.095] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@52aa53db
+[07Dec2024 14:19:15.095] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=40.16, y=30.97, z=55.89] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=40.16, y=30.97, z=55.89]
+[07Dec2024 14:19:15.253] [Server thread/DEBUG] [pointblank/]: 55253 handling client fire request
+[07Dec2024 14:19:15.253] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 1
+[07Dec2024 14:19:15.254] [Server thread/DEBUG] [pointblank/]: 55254 - obtained hit result in 0ms
+[07Dec2024 14:19:15.254] [Server thread/DEBUG] [pointblank/]: 55254 obtained hit results
+[07Dec2024 14:19:15.254] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fa33749
+[07Dec2024 14:19:15.254] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=40.48, y=30.97, z=54.00] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=40.48, y=30.97, z=54.00]
+[07Dec2024 14:19:15.343] [Server thread/DEBUG] [pointblank/]: 55343 handling client fire request
+[07Dec2024 14:19:15.343] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 0
+[07Dec2024 14:19:15.343] [Server thread/DEBUG] [pointblank/]: 55343 - obtained hit result in 0ms
+[07Dec2024 14:19:15.343] [Server thread/DEBUG] [pointblank/]: 55343 obtained hit results
+[07Dec2024 14:19:15.343] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1072e107
+[07Dec2024 14:19:15.344] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=40.73, y=30.97, z=52.56] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=40.73, y=30.97, z=52.56]
+[07Dec2024 14:19:15.457] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 17
+[07Dec2024 14:19:17.596] [Server thread/DEBUG] [pointblank/]: 57596 handling client fire request
+[07Dec2024 14:19:17.597] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 16
+[07Dec2024 14:19:17.597] [Server thread/DEBUG] [pointblank/]: 57597 - obtained hit result in 0ms
+[07Dec2024 14:19:17.597] [Server thread/DEBUG] [pointblank/]: 57597 obtained hit results
+[07Dec2024 14:19:17.597] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7e91b230
+[07Dec2024 14:19:17.598] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=49.48, y=30.97, z=8.24] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=49.48, y=30.97, z=8.24]
+[07Dec2024 14:19:17.726] [Server thread/DEBUG] [pointblank/]: 57726 handling client fire request
+[07Dec2024 14:19:17.726] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 15
+[07Dec2024 14:19:17.727] [Server thread/DEBUG] [pointblank/]: 57727 - obtained hit result in 1ms
+[07Dec2024 14:19:17.727] [Server thread/DEBUG] [pointblank/]: 57727 obtained hit results
+[07Dec2024 14:19:17.727] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@9480d04
+[07Dec2024 14:19:17.727] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=51.14, y=30.97, z=5.89] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=51.14, y=30.97, z=5.89]
+[07Dec2024 14:19:17.945] [Server thread/DEBUG] [pointblank/]: 57945 handling client fire request
+[07Dec2024 14:19:17.946] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 14
+[07Dec2024 14:19:17.946] [Server thread/DEBUG] [pointblank/]: 57946 - obtained hit result in 0ms
+[07Dec2024 14:19:17.946] [Server thread/DEBUG] [pointblank/]: 57946 obtained hit results
+[07Dec2024 14:19:17.946] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1d4286f2
+[07Dec2024 14:19:17.946] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=53.88, y=30.97, z=3.24] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=53.88, y=30.97, z=3.24]
+[07Dec2024 14:19:18.092] [Server thread/DEBUG] [pointblank/]: 58092 handling client fire request
+[07Dec2024 14:19:18.092] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 13
+[07Dec2024 14:19:18.092] [Server thread/DEBUG] [pointblank/]: 58092 - obtained hit result in 0ms
+[07Dec2024 14:19:18.092] [Server thread/DEBUG] [pointblank/]: 58092 obtained hit results
+[07Dec2024 14:19:18.092] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1380c075
+[07Dec2024 14:19:18.093] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=56.25, y=30.97, z=1.58] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=56.25, y=30.97, z=1.58]
+[07Dec2024 14:19:20.093] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 17
+[07Dec2024 14:19:22.943] [Server thread/DEBUG] [pointblank/]: 62943 handling client fire request
+[07Dec2024 14:19:22.943] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 16
+[07Dec2024 14:19:22.943] [Server thread/DEBUG] [pointblank/]: 62943 - obtained hit result in 0ms
+[07Dec2024 14:19:22.943] [Server thread/DEBUG] [pointblank/]: 62943 obtained hit results
+[07Dec2024 14:19:22.943] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3f0e8263
+[07Dec2024 14:19:22.944] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=78.21, y=25.98, z=-2.85] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=78.21, y=25.98, z=-2.85]
+[07Dec2024 14:19:23.092] [Server thread/DEBUG] [pointblank/]: 63092 handling client fire request
+[07Dec2024 14:19:23.092] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 15
+[07Dec2024 14:19:23.092] [Server thread/DEBUG] [pointblank/]: 63092 - obtained hit result in 0ms
+[07Dec2024 14:19:23.092] [Server thread/DEBUG] [pointblank/]: 63092 obtained hit results
+[07Dec2024 14:19:23.092] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4efc7526
+[07Dec2024 14:19:23.093] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=79.03, y=23.09, z=-2.76] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=79.03, y=23.09, z=-2.76]
+[07Dec2024 14:19:23.242] [Server thread/DEBUG] [pointblank/]: 63242 handling client fire request
+[07Dec2024 14:19:23.242] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 14
+[07Dec2024 14:19:23.242] [Server thread/DEBUG] [pointblank/]: 63242 - obtained hit result in 0ms
+[07Dec2024 14:19:23.242] [Server thread/DEBUG] [pointblank/]: 63242 obtained hit results
+[07Dec2024 14:19:23.242] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@62f66922
+[07Dec2024 14:19:23.242] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=79.85, y=19.69, z=-2.68] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=79.85, y=19.69, z=-2.68]
+[07Dec2024 14:19:23.392] [Server thread/DEBUG] [pointblank/]: 63392 handling client fire request
+[07Dec2024 14:19:23.392] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 13
+[07Dec2024 14:19:23.392] [Server thread/DEBUG] [pointblank/]: 63392 - obtained hit result in 0ms
+[07Dec2024 14:19:23.392] [Server thread/DEBUG] [pointblank/]: 63392 obtained hit results
+[07Dec2024 14:19:23.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@46d271a7
+[07Dec2024 14:19:23.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=80.68, y=15.80, z=-2.62] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=80.68, y=15.80, z=-2.62]
+[07Dec2024 14:19:23.542] [Server thread/DEBUG] [pointblank/]: 63542 handling client fire request
+[07Dec2024 14:19:23.543] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 12
+[07Dec2024 14:19:23.543] [Server thread/DEBUG] [pointblank/]: 63543 - obtained hit result in 0ms
+[07Dec2024 14:19:23.543] [Server thread/DEBUG] [pointblank/]: 63543 obtained hit results
+[07Dec2024 14:19:23.543] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@19083f8
+[07Dec2024 14:19:23.543] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=81.82, y=13.42, z=-2.56] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=81.82, y=13.42, z=-2.56]
+[07Dec2024 14:19:23.691] [Server thread/DEBUG] [pointblank/]: 63691 handling client fire request
+[07Dec2024 14:19:23.691] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 11
+[07Dec2024 14:19:23.691] [Server thread/DEBUG] [pointblank/]: 63691 - obtained hit result in 0ms
+[07Dec2024 14:19:23.691] [Server thread/DEBUG] [pointblank/]: 63691 obtained hit results
+[07Dec2024 14:19:23.691] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@742eadf8
+[07Dec2024 14:19:23.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=82.83, y=14.17, z=-2.52] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=82.83, y=14.17, z=-2.52]
+[07Dec2024 14:19:23.791] [Server thread/DEBUG] [pointblank/]: 63791 handling client fire request
+[07Dec2024 14:19:23.791] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 10
+[07Dec2024 14:19:23.792] [Server thread/DEBUG] [pointblank/]: 63792 - obtained hit result in 1ms
+[07Dec2024 14:19:23.792] [Server thread/DEBUG] [pointblank/]: 63792 obtained hit results
+[07Dec2024 14:19:23.792] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@296ebd7
+[07Dec2024 14:19:23.792] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=83.48, y=14.25, z=-2.50] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=83.48, y=14.25, z=-2.50]
+[07Dec2024 14:19:23.943] [Server thread/DEBUG] [pointblank/]: 63943 handling client fire request
+[07Dec2024 14:19:23.943] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 9
+[07Dec2024 14:19:23.943] [Server thread/DEBUG] [pointblank/]: 63943 - obtained hit result in 0ms
+[07Dec2024 14:19:23.944] [Server thread/DEBUG] [pointblank/]: 63944 obtained hit results
+[07Dec2024 14:19:23.944] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@46e90d3c
+[07Dec2024 14:19:23.944] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=84.43, y=13.80, z=-2.46] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=84.43, y=13.80, z=-2.46]
+[07Dec2024 14:19:24.091] [Server thread/DEBUG] [pointblank/]: 64091 handling client fire request
+[07Dec2024 14:19:24.092] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 8
+[07Dec2024 14:19:24.092] [Server thread/DEBUG] [pointblank/]: 64092 - obtained hit result in 0ms
+[07Dec2024 14:19:24.092] [Server thread/DEBUG] [pointblank/]: 64092 obtained hit results
+[07Dec2024 14:19:24.092] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ac44ca7
+[07Dec2024 14:19:24.092] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=85.36, y=13.00, z=-2.40] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=85.36, y=13.00, z=-2.40]
+[07Dec2024 14:19:24.241] [Server thread/DEBUG] [pointblank/]: 64241 handling client fire request
+[07Dec2024 14:19:24.241] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 7
+[07Dec2024 14:19:24.242] [Server thread/DEBUG] [pointblank/]: 64241 - obtained hit result in 0ms
+[07Dec2024 14:19:24.242] [Server thread/DEBUG] [pointblank/]: 64242 obtained hit results
+[07Dec2024 14:19:24.242] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@208e8b87
+[07Dec2024 14:19:24.242] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=86.66, y=14.00, z=-2.28] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=86.66, y=14.00, z=-2.28]
+[07Dec2024 14:19:24.393] [Server thread/DEBUG] [pointblank/]: 64392 handling client fire request
+[07Dec2024 14:19:24.393] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 513777746 to 6
+[07Dec2024 14:19:24.393] [Server thread/DEBUG] [pointblank/]: 64393 - obtained hit result in 0ms
+[07Dec2024 14:19:24.393] [Server thread/DEBUG] [pointblank/]: 64393 obtained hit results
+[07Dec2024 14:19:24.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@245f7ea
+[07Dec2024 14:19:24.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=87.67, y=14.25, z=-2.17] sends hit scan notification to ServerPlayer['Imranack'/9551, l='ServerLevel[world]', x=87.67, y=14.25, z=-2.17]
