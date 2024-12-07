@@ -609,3 +609,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
 [07Dec2024 13:19:40.763] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
 [07Dec2024 13:19:49.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:37687] logged in with entity id 268 at (140.45859365905173, 30.52719249848497, 76.37228630886466)
 [07Dec2024 13:19:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[07Dec2024 13:30:03.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the weather to clear]
+[07Dec2024 13:32:22.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4377, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 13:32:41.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4383, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[07Dec2024 13:32:48.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4386, l='ServerLevel[world]', x=96.45, y=13.10, z=-59.44] died, message: 'Fisherman was killed'
+[07Dec2024 13:34:24.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 13:35:09.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 13:35:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 13:36:08.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[07Dec2024 13:36:18.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5798, l='ServerLevel[world]', x=-187.53, y=-1.30, z=348.49] died, message: 'Villager was killed'
+[07Dec2024 13:36:28.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5802, l='ServerLevel[world]', x=-178.10, y=-1.30, z=347.78] died, message: 'Villager was killed'
+[07Dec2024 13:36:50.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[07Dec2024 13:37:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
